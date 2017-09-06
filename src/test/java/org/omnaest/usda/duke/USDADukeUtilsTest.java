@@ -19,6 +19,7 @@
 package org.omnaest.usda.duke;
 
 import java.io.File;
+import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
@@ -36,15 +37,23 @@ public class USDADukeUtilsTest
 												.loadFromFolder(new File("data"))
 												.getChemicals()
 												.collect(Collectors.toList());
-		chemicals	.stream()
-					.filter(chemical -> chemical.getActivities()
-												.stream()
-												.anyMatch(activity -> StringUtils.containsIgnoreCase(activity, "Calcium-Channel-Blocker")))
-					.forEach(chemical ->
-					{
-						System.out.print(chemical.getName());
-						System.out.println("->" + chemical.getActivities());
-					});
+
+		List<String> queries = Arrays.asList("Calcium-Channel-Blocker", "5-HT", "Muscarinic", "angina", "parkinson", "irritable bowel");
+
+		queries.forEach(query ->
+		{
+			System.out.println("-------------------------------------------");
+			System.out.println(query);
+			chemicals	.stream()
+						.filter(chemical -> chemical.getActivities()
+													.stream()
+													.anyMatch(activity -> StringUtils.containsIgnoreCase(activity, query)))
+						.forEach(chemical ->
+						{
+							System.out.print(chemical.getName());
+							System.out.println("->" + chemical.getActivities());
+						});
+		});
 	}
 
 }
