@@ -1,0 +1,5359 @@
+SUPERACT,ACTIVITY
+AIDS/HIV,Anti-HIV-Integrase
+AIDS/HIV,AntiAIDS
+AIDS/HIV,AntiHIV
+AIDS/HIV,Antibacterial
+AIDS/HIV,Antibiotic
+AIDS/HIV,Anticandidosis
+AIDS/HIV,Antiinflammatory
+AIDS/HIV,Antiintegrase
+AIDS/HIV,Antioxidant
+AIDS/HIV,Antiretroviral
+AIDS/HIV,Antiseptic
+AIDS/HIV,Antistress
+AIDS/HIV,Antiviral
+AIDS/HIV,COX-2-Inhibitor
+AIDS/HIV,Candidicide
+AIDS/HIV,Candidistat
+AIDS/HIV,Cyclooxygenase-Inhibitor
+AIDS/HIV,HIV-RT-Inhibitor
+AIDS/HIV,Immunostimulant
+AIDS/HIV,MDR-Inhibitor
+AIDS/HIV,Nervine
+AIDS/HIV,Protisticide
+AIDS/HIV,RT-Inhibitor
+AIDS/HIV,Reverse-Transcriptase-Inhibitor
+AIDS/HIV,Viristat
+Alcoholism,Antiaddictive
+Alcoholism,Antialcoholic
+Alcoholism,Antianxiety
+Alcoholism,Antidipsomanic
+Alcoholism,Antihepatotoxic
+Alcoholism,Antioxidant
+Alcoholism,Antistress
+Alcoholism,Anxiolytic
+Alcoholism,Dopaminergic
+Alcoholism,Endorphinogenic
+Alcoholism,Enkephalinogenic
+Alcoholism,Hepatoprotective
+Alcoholism,Hepatoregenerative
+Alcoholism,Hepatotonic
+Alcoholism,SSRI
+Alcoholism,Serotonergic
+Alcoholism,Serotonigenic
+Alcoholism,Serotoninergic
+Allergy,12-Lipoxygenase-Inhibitor
+Allergy,Analgesic
+Allergy,Anesthetic
+Allergy,Antiallergic
+Allergy,Antiasthmatic
+Allergy,Antibronchitic
+Allergy,Antibronchoconstrictor
+Allergy,Antidermatitic
+Allergy,Antiedemic
+Allergy,Antihistaminic
+Allergy,Antiinflammatory
+Allergy,Antiitch
+Allergy,Antinociceptive
+Allergy,Antioxidant
+Allergy,Antipharyngitic
+Allergy,Antiprostaglandin
+Allergy,Antipruritic
+Allergy,Antirhinitic
+Allergy,Antisinusitic
+Allergy,Antispasmodic
+Allergy,Antitussive
+Allergy,Asthma-preventive
+Allergy,Astringent
+Allergy,Bronchodilator
+Allergy,Bronchorelaxant
+Allergy,Bronchosedative
+Allergy,Bronchospasmolytic
+Allergy,Bronchotonic
+Allergy,COX-2-Inhibitor
+Allergy,Cyclooxygenase-Inhibitor
+Allergy,Decongestant
+Allergy,Expectorant
+Allergy,Immunomodulator
+Allergy,Inhibit-Cytokine-Production
+Allergy,Antiinterleukin-1
+Allergy,Lipoxygenase-Inhibitor
+Allergy,Mast-Cell-Stabilizer
+Allergy,PAF-Inhibitor
+Allergy,Prostaglandin-Synthesis-Inhibitor
+Allergy,Prostaglandin-Synthetase-Inhibitor
+Altitude Sickness,Antiaggregant
+Altitude Sickness,Antianoxic
+Altitude Sickness,Antihypoxic
+Altitude Sickness,Antisoroche
+Altitude Sickness,Diuretic
+Altitude Sickness,Respirastimulant
+Alzheimers,ACE-Inhibitor
+Alzheimers,AChE-Inhibitor
+Alzheimers,Acetylcholinergic
+Alzheimers,Adaptogen
+Alzheimers,Adaptogenic
+Alzheimers,Antiacetylcholinesterase
+Alzheimers,Antiaggregant
+Alzheimers,Antiaging
+Alzheimers,Antiakathisic
+Alzheimers,Antialzheimeran
+Alzheimers,Antianxiety
+Alzheimers,Antiapoplectic
+Alzheimers,Antiarteriosclerotic
+Alzheimers,Antiatherogenic
+Alzheimers,Antiatherosclerotic
+Alzheimers,Antiatherotic
+Alzheimers,Anticapillarihemorrhagic
+Alzheimers,Anticapillary-Fragility
+Alzheimers,Anticerebrothrombotic
+Alzheimers,Anticholinesterase
+Alzheimers,Anticomplementary
+Alzheimers,Antidementia
+Alzheimers,Antidepressant
+Alzheimers,Antidote (Aluminum)
+Alzheimers,Antihypertensive
+Alzheimers,Antihypoxic
+Alzheimers,Antiinflammatory
+Alzheimers,Antiischemic
+Alzheimers,Antileukotriene
+Alzheimers,Antileukotrienogenic
+Alzheimers,Antineurogenic
+Alzheimers,Antineuropathic
+Alzheimers,Antineurotic
+Alzheimers,Antioxidant
+Alzheimers,Antioxidant Synergist
+Alzheimers,Antiperoxidant
+Alzheimers,Antiperoxidative
+Alzheimers,Antiprostaglandin
+Alzheimers,Antisclerotic
+Alzheimers,Antisenility
+Alzheimers,Antistress
+Alzheimers,Antistressor
+Alzheimers,Antistroke
+Alzheimers,Antithrombic
+Alzheimers,Antithrombogenic
+Alzheimers,Anxiolytic
+Alzheimers,Ataractic
+Alzheimers,CNS-Stimulant
+Alzheimers,COX-2-Inhibitor
+Alzheimers,Capillarifortificant
+Alzheimers,Capillariprotective
+Alzheimers,Capillaritonic
+Alzheimers,Cerebrocirculant
+Alzheimers,Cerebroprotective
+Alzheimers,Cerebrostimulant
+Alzheimers,Cerebrotonic
+Alzheimers,Cerebrovasodilator
+Alzheimers,Chelator
+Alzheimers,Choline-Sparing
+Alzheimers,Cholinergic
+Alzheimers,Cyclooxygenase-Inhibitor
+Alzheimers,Estrogenic
+Alzheimers,Free-Radical Scavenging
+Alzheimers,Homeostatic
+Alzheimers,Lipoxygenase-Inhibitor
+Alzheimers,Memorigenic
+Alzheimers,Memory-Enhancer
+Alzheimers,Metal-Chelator
+Alzheimers,Nervine
+Alzheimers,Neurogenic
+Alzheimers,Neuroprotective
+Alzheimers,Neurotransmitter
+Alzheimers,Thrombolytic
+Alzheimers,Tonic
+Alzheimers,Vasculoprotective
+Alzheimers,Vasoprotective
+Alzheimers,Vasotonic
+Alzheimers,Venotonic
+Amenorrhea,Antianxiety
+Amenorrhea,Antihyperprolactinemic
+Amenorrhea,Anxiolytic
+Amenorrhea,Aphrodisiac
+Amenorrhea,Balance Prolactin Production
+Amenorrhea,Estrogenic
+Amenorrhea,Fertility-Enhancing
+Amenorrhea,Hormone-Balancing
+Amenorrhea,Ovulation-Stimulant
+Amenorrhea,Phytoestrogenic
+Amenorrhea,Stimulate AA-Series-Prostaglandin-Synthesis
+Amenorrhea,Supress Prolactin Production
+Angina,Antiaggregant
+Angina,Antianginal
+Angina,Antiarteriosclerotic
+Angina,Antiatherogenic
+Angina,Antiatheromic
+Angina,Antiatherosclerotic
+Angina,Antiatherotic
+Angina,Anticardiac
+Angina,Anticardiospasmic
+Angina,Anticoagulant
+Angina,Anticoronary
+Angina,Antiedemic
+Angina,Antihypercholesterolemic
+Angina,Antihypertensive
+Angina,Antiischemic
+Angina,Antioxidant
+Angina,Antiplatelet
+Angina,Antistress
+Angina,Antistroke
+Angina,Antithrombic
+Angina,Arteriodilator
+Angina,Beta-Blocker
+Angina,Calcium-Antagonist
+Angina,Calcium-Blocker
+Angina,Calcium-Channel-Blocker
+Angina,Cardioprotective
+Angina,Cardiorelaxant
+Angina,Cardiosedative
+Angina,Cardiotonic
+Angina,Diuretic
+Angina,Hypocholesterolemic
+Angina,Hypotensive
+Angina,Myocardiotonic
+Angina,Nervine
+Angina,Sedative
+Angina,Vasodilator
+Angina,Vasoprotective
+Angina,Vasorelaxant
+Angina,Vasotonic
+Angina,Venotonic
+Anorexia,Antianorectic
+Anorexia,Antianorexic
+Anorexia,Apertif
+Anorexia,Bitter
+Anorexia,Gastrostimulant
+Anorexia,Orexigenic
+Anorexia,Sialogogue
+Anxiety Disorders,Adrenoreceptor Antagonist
+Anxiety Disorders,Antiallergic
+Anxiety Disorders,Antianxiety
+Anxiety Disorders,Antistress
+Anxiety Disorders,Anxiolytic
+Anxiety Disorders,Benzodiazepine-Receptor Agonist
+Anxiety Disorders,Benzodiazepine-Receptor Ligand
+Anxiety Disorders,CNS-Depressant
+Anxiety Disorders,Decrease Epinephrine Production
+Anxiety Disorders,Decrease Lactate
+Anxiety Disorders,Decrease Lactate/Pyruvate Ratio
+Anxiety Disorders,Decrease Norepinephrine Production
+Anxiety Disorders,GABA Receptor Agonist
+Anxiety Disorders,Increase Magnesium Bioavailability
+Anxiety Disorders,Provide Magnesium
+Anxiety Disorders,Regulate Calcium Metabolism
+Anxiety Disorders,Sedative
+Anxiety Disorders,Serotoninergic
+Anxiety Disorders,Tranquilizer
+Apoplexy/Stroke,Antiaggregant
+Apoplexy/Stroke,Antianginal
+Apoplexy/Stroke,Antiarteriosclerotic
+Apoplexy/Stroke,Antiatherogenic
+Apoplexy/Stroke,Antiatheromic
+Apoplexy/Stroke,Antiatherosclerotic
+Apoplexy/Stroke,Antiatherotic
+Apoplexy/Stroke,Anticapillarihemorrhagic
+Apoplexy/Stroke,Anticapillary-Fragility
+Apoplexy/Stroke,Anticardiac
+Apoplexy/Stroke,Anticoagulant
+Apoplexy/Stroke,Anticoronary
+Apoplexy/Stroke,Antiedemic
+Apoplexy/Stroke,Antihemorrhagic
+Apoplexy/Stroke,Antihemorrhoidal
+Apoplexy/Stroke,Antihypercholesterolemic
+Apoplexy/Stroke,Antihypertensive
+Apoplexy/Stroke,Antiischemic
+Apoplexy/Stroke,Antioxidant
+Apoplexy/Stroke,Antiplatelet
+Apoplexy/Stroke,Antistress
+Apoplexy/Stroke,Antistroke
+Apoplexy/Stroke,Antithrombic
+Apoplexy/Stroke,Antithrombotic
+Apoplexy/Stroke,Arteriodilator
+Apoplexy/Stroke,Beta-Blocker
+Apoplexy/Stroke,Calcium-Blocker
+Apoplexy/Stroke,Calcium-Channel-Blocker
+Apoplexy/Stroke,Capillarifortificant
+Apoplexy/Stroke,Capillariprotective
+Apoplexy/Stroke,Capillaritonic
+Apoplexy/Stroke,Cardioprotective
+Apoplexy/Stroke,Cardiorelaxant
+Apoplexy/Stroke,Cardiosedative
+Apoplexy/Stroke,Cardiotonic
+Apoplexy/Stroke,Cerebrovasodilator
+Apoplexy/Stroke,Diuretic
+Apoplexy/Stroke,Hypocholesterolemic
+Apoplexy/Stroke,Hypotensive
+Apoplexy/Stroke,Myocardiodepressant
+Apoplexy/Stroke,Myocardiotonic
+Apoplexy/Stroke,Sedative
+Apoplexy/Stroke,Vasodilator
+Apoplexy/Stroke,Vasoprotective
+Apoplexy/Stroke,Vasorelaxant
+Apoplexy/Stroke,Vasotonic
+Apoplexy/Stroke,Venotonic
+Appetite,Antianorectic
+Appetite,Antianorexic
+Appetite,Apertif
+Appetite,Bitter
+Appetite,Gastrostimulant
+Appetite,Sialogogue
+Arrhythmia (Cardiac),Antiaggregant
+Arrhythmia (Cardiac),Antianginal
+Arrhythmia (Cardiac),Antiarrhythmic
+Arrhythmia (Cardiac),Antiarteriosclerotic
+Arrhythmia (Cardiac),Antiatherogenic
+Arrhythmia (Cardiac),Antiatheromic
+Arrhythmia (Cardiac),Antiatherosclerotic
+Arrhythmia (Cardiac),Antiatherotic
+Arrhythmia (Cardiac),Anticardiac
+Arrhythmia (Cardiac),Anticardiospasmic
+Arrhythmia (Cardiac),Anticoagulant
+Arrhythmia (Cardiac),Anticoronary
+Arrhythmia (Cardiac),Antiedemic
+Arrhythmia (Cardiac),Antihypercholesterolemic
+Arrhythmia (Cardiac),Antihypertensive
+Arrhythmia (Cardiac),Antiinfarctal
+Arrhythmia (Cardiac),Antiischemic
+Arrhythmia (Cardiac),Antioxidant
+Arrhythmia (Cardiac),Antiplatelet
+Arrhythmia (Cardiac),Antistress
+Arrhythmia (Cardiac),Antitachycardic
+Arrhythmia (Cardiac),Beta-Blocker
+Arrhythmia (Cardiac),Calcium-Blocker
+Arrhythmia (Cardiac),Calcium-Channel-Blocker
+Arrhythmia (Cardiac),Cardiodepressant
+Arrhythmia (Cardiac),Cardioprotective
+Arrhythmia (Cardiac),Cardiorelaxant
+Arrhythmia (Cardiac),Cardiosedative
+Arrhythmia (Cardiac),Cardiotonic
+Arrhythmia (Cardiac),Cerebrovasodilator
+Arrhythmia (Cardiac),Diuretic
+Arrhythmia (Cardiac),Hypocholesterolemic
+Arrhythmia (Cardiac),Hypotensive
+Arrhythmia (Cardiac),Mycardiodepressant
+Arrhythmia (Cardiac),Myocardiotonic
+Arrhythmia (Cardiac),Nervine
+Arrhythmia (Cardiac),Sedative
+Arrhythmia (Cardiac),Vasodilator
+Arrhythmia (Cardiac),Vasoprotective
+Arrhythmia (Cardiac),Vasorelaxant
+Arrhythmia (Cardiac),Vasotonic
+Arrhythmia (Cardiac),Venotonic
+Arteriosclerosis/Atherosclerosis,Adrenergic-Blocker
+Arteriosclerosis/Atherosclerosis,Anti-LDL
+Arteriosclerosis/Atherosclerosis,Antiadrenergic
+Arteriosclerosis/Atherosclerosis,Antiaggregant
+Arteriosclerosis/Atherosclerosis,Antianginal
+Arteriosclerosis/Atherosclerosis,Antiarteriosclerotic
+Arteriosclerosis/Atherosclerosis,Antiatherogenic
+Arteriosclerosis/Atherosclerosis,Antiatheromic
+Arteriosclerosis/Atherosclerosis,Antiatherosclerotic
+Arteriosclerosis/Atherosclerosis,Antiatherotic
+Arteriosclerosis/Atherosclerosis,Antibacterial
+Arteriosclerosis/Atherosclerosis,Anticardiac
+Arteriosclerosis/Atherosclerosis,Anticardiospasmic
+Arteriosclerosis/Atherosclerosis,Anticlaudificant
+Arteriosclerosis/Atherosclerosis,Anticoagulant
+Arteriosclerosis/Atherosclerosis,Anticoronary
+Arteriosclerosis/Atherosclerosis,Antidiabetic
+Arteriosclerosis/Atherosclerosis,Antiedemic
+Arteriosclerosis/Atherosclerosis,Antihomocystinuric
+Arteriosclerosis/Atherosclerosis,Antihypercholesterolemic
+Arteriosclerosis/Atherosclerosis,Antihyperlipidemic
+Arteriosclerosis/Atherosclerosis,Antihyperlipoproteinaemic
+Arteriosclerosis/Atherosclerosis,Antihyperlipoproteinemic
+Arteriosclerosis/Atherosclerosis,Antihypertensive
+Arteriosclerosis/Atherosclerosis,Antiinfarctal
+Arteriosclerosis/Atherosclerosis,Antiinflammatory
+Arteriosclerosis/Atherosclerosis,Antiischemic
+Arteriosclerosis/Atherosclerosis,Antileukotriene
+Arteriosclerosis/Atherosclerosis,Antilipedemic
+Arteriosclerosis/Atherosclerosis,Antilipoperoxidant
+Arteriosclerosis/Atherosclerosis,Antimicrobial
+Arteriosclerosis/Atherosclerosis,Antioxidant
+Arteriosclerosis/Atherosclerosis,Antioxidant (LDL)
+Arteriosclerosis/Atherosclerosis,Antioxidant Synergist
+Arteriosclerosis/Atherosclerosis,Antiplaque
+Arteriosclerosis/Atherosclerosis,Antiplatelet
+Arteriosclerosis/Atherosclerosis,Antiscorbutic
+Arteriosclerosis/Atherosclerosis,Antistress
+Arteriosclerosis/Atherosclerosis,Antistressor
+Arteriosclerosis/Atherosclerosis,Antistroke
+Arteriosclerosis/Atherosclerosis,Antisyndrome-X
+Arteriosclerosis/Atherosclerosis,Antithrombic
+Arteriosclerosis/Atherosclerosis,Antithrombogenic
+Arteriosclerosis/Atherosclerosis,Antithrombotic
+Arteriosclerosis/Atherosclerosis,Antithromboxane
+Arteriosclerosis/Atherosclerosis,Arteriodilator
+Arteriosclerosis/Atherosclerosis,Bacteriostatic
+Arteriosclerosis/Atherosclerosis,Bacteristat
+Arteriosclerosis/Atherosclerosis,Beta-Adrenergic Receptor Blocker
+Arteriosclerosis/Atherosclerosis,Calcium-Antagonist
+Arteriosclerosis/Atherosclerosis,Calcium-Blocker
+Arteriosclerosis/Atherosclerosis,Calcium-Channel-Blocker
+Arteriosclerosis/Atherosclerosis,Cardioprotective
+Arteriosclerosis/Atherosclerosis,Cardiorelaxant
+Arteriosclerosis/Atherosclerosis,Cardiosedative
+Arteriosclerosis/Atherosclerosis,Cardiotonic
+Arteriosclerosis/Atherosclerosis,Cerebrovasodilator
+Arteriosclerosis/Atherosclerosis,Chelator
+Arteriosclerosis/Atherosclerosis,Choline-Sparing
+Arteriosclerosis/Atherosclerosis,Circulatory-Stimulant
+Arteriosclerosis/Atherosclerosis,Cyclooxygenase-Inhibitor
+Arteriosclerosis/Atherosclerosis,Diuretic
+Arteriosclerosis/Atherosclerosis,Fibrinolytic
+Arteriosclerosis/Atherosclerosis,Free-Radical Scavenging
+Arteriosclerosis/Atherosclerosis,Hydroperoxidase-Inhibitor
+Arteriosclerosis/Atherosclerosis,Hypocholesterolemic
+Arteriosclerosis/Atherosclerosis,Hypolipidemic
+Arteriosclerosis/Atherosclerosis,Hypotensive
+Arteriosclerosis/Atherosclerosis,Hypotriacylglycerolemic
+Arteriosclerosis/Atherosclerosis,Hypotriglyceridemic
+Arteriosclerosis/Atherosclerosis,Lipoxygenase-Inhibitor
+Arteriosclerosis/Atherosclerosis,Metal-Chelator
+Arteriosclerosis/Atherosclerosis,Myocardiotonic
+Arteriosclerosis/Atherosclerosis,NO-Genic
+Arteriosclerosis/Atherosclerosis,NO-Sparing
+Arteriosclerosis/Atherosclerosis,Natriuretic
+Arteriosclerosis/Atherosclerosis,Nervine
+Arteriosclerosis/Atherosclerosis,PAF-Inhibitor
+Arteriosclerosis/Atherosclerosis,Phosphodiesterase-Inhibitor
+Arteriosclerosis/Atherosclerosis,Phospholipase-A2-Inhibitor
+Arteriosclerosis/Atherosclerosis,Phospholipase-Inhibitor
+Arteriosclerosis/Atherosclerosis,Prostaglandin-Synthesis-Inhibitor
+Arteriosclerosis/Atherosclerosis,Sedative
+Arteriosclerosis/Atherosclerosis,Thrombolytic
+Arteriosclerosis/Atherosclerosis,Thyrostimulant
+Arteriosclerosis/Atherosclerosis,Tocopherol-Synergist
+Arteriosclerosis/Atherosclerosis,Triglycerolytic
+Arteriosclerosis/Atherosclerosis,Vasodilator
+Arteriosclerosis/Atherosclerosis,Vasoprotective
+Arteriosclerosis/Atherosclerosis,Vasorelaxant
+Arteriosclerosis/Atherosclerosis,Vasotonic
+Arteriosclerosis/Atherosclerosis,Venotonic
+Arteriosclerosis/Atherosclerosis,cAMP-Phosphodiesterase-Inhibitor
+Arthritis,12-Lipoxygenase-Inhibitor
+Arthritis,Analgesic
+Arthritis,Anesthetic
+Arthritis,Antiarthritic
+Arthritis,Antidermatitic
+Arthritis,Antiedemic
+Arthritis,Antiinflammatory
+Arthritis,Antinociceptive
+Arthritis,Antiosteoarthritic
+Arthritis,Antiosteotic
+Arthritis,Antiprostaglandin
+Arthritis,Antirheumatalgic
+Arthritis,Antirheumatic
+Arthritis,Antispasmodic
+Arthritis,COX-2-Inhibitor
+Arthritis,Collagenase-Inhibitor
+Arthritis,Controls Substance P
+Arthritis,Counterirritant
+Arthritis,Cyclooxygenase-Inhibitor
+Arthritis,Elastase-Inhibitor
+Arthritis,Inhibit 12-Lipoxygenase
+Arthritis,Inhibit Collagenase
+Arthritis,Inhibit Cyclooxygenase
+Arthritis,Inhibit Elastase
+Arthritis,Inhibit Lypoxygenase
+Arthritis,Inhibit Production of Tumor Necrosis Factor
+Arthritis,Inhibit Prostaglandin Synthesis
+Arthritis,Antiinterleukin-1
+Arthritis,Lipoxygenase-Inhibitor
+Arthritis,Myorelaxant
+Arthritis,Nervine
+Arthritis,Proteolytic
+Asthma,12-Lipoxygenase-Inhibitor
+Asthma,Antiallergic
+Asthma,Antiasthmatic
+Asthma,Antibronchitic
+Asthma,Antibronchoconstrictor
+Asthma,Anticholinergic-Bronchodilator
+Asthma,Antihistamine
+Asthma,Antihistaminic
+Asthma,Antileukotriene
+Asthma,Antioxidant
+Asthma,Antipharyngitic
+Asthma,Antiprostaglandin
+Asthma,Antispasmodic
+Asthma,Asthma-preventive
+Asthma,Beta-2-Receptor-Agonist
+Asthma,Beta-Andrenergic-Agents
+Asthma,Bronchodilator
+Asthma,Bronchorelaxant
+Asthma,Bronchospasmolytic
+Asthma,Bronchotonic
+Asthma,Cyclooxygenase-Inhibitor
+Asthma,Decongestant
+Asthma,Expectorant
+Asthma,Immunomodulator
+Asthma,Inhibit 12-Lipoxygenase
+Asthma,Inhibit AA-Series-Prostaglandin-Synthesis
+Asthma,Inhibit Cyclooxygenase
+Asthma,Inhibit Cytokine-Production
+Asthma,Antiinterleukin-1
+Asthma,Inhibit Leukotriene-Production
+Asthma,Inhibit Lipoxygenase
+Asthma,Inhibit PAF
+Asthma,Inhibit Platelet-Activating-Factor
+Asthma,Inhibit Production of Tumor-Necrosis-Factor
+Asthma,Inhibit Prostaglandin-Synthase
+Asthma,Lipoxygenase-Inhibitor
+Asthma,Mast-Cell-Stabilizer
+Asthma,PAF-Antagonist
+Asthma,Sympathomimetic-Bronchodilator
+Athletes Foot,Analgesic
+Athletes Foot,Anesthetic
+Athletes Foot,Antibiotic
+Athletes Foot,Antidermatitic
+Athletes Foot,Antifungal
+Athletes Foot,Antiitch
+Athletes Foot,Antinociceptive
+Athletes Foot,Antiseptic
+Athletes Foot,Demulcent
+BPH,17-beta-hydroxysteroid dehydrogenase-Inhibitor
+BPH,5-Alpha-Reductase-Inhibitor
+BPH,Alpha-Reductase-Inhibitor
+BPH,AntiBPH
+BPH,Antiadenomic
+BPH,Antiandrogenic
+BPH,Antiangiogenic
+BPH,Anticancer
+BPH,Anticancer (Prostate)
+BPH,Anticarcinogenic
+BPH,Anticarcinomic
+BPH,Antiedemic
+BPH,Antiestrogenic
+BPH,Antiexudative
+BPH,Antiinflammatory
+BPH,Antimetastatic
+BPH,Antimutagenic
+BPH,Antinitrosaminic
+BPH,Antioxidant
+BPH,Antiperoxidant
+BPH,Antiprostaglandigenic
+BPH,Antiprostaglandin
+BPH,Antiprostatadenomic
+BPH,Antiprostatitic
+BPH,Antiprostatotic
+BPH,Antispasmodic
+BPH,Antistress
+BPH,Antitumor
+BPH,Antitumor (Breast) (Lung) (Prostate)
+BPH,Antitumor (Breast) (Prostate)
+BPH,Antitumor-Initiator
+BPH,Antitumor-Promoter
+BPH,Arachidonic-Acid-Inhibitor
+BPH,Aromatase-Inhibitor
+BPH,COX-2-Inhibitor
+BPH,Cancer-Preventive
+BPH,Cancerostatic
+BPH,Chemopreventive
+BPH,Cyclooxygenase-Inhibitor
+BPH,DHT-Binding-Inhibitor
+BPH,Down regulation of nuclear and cytosol androgen re
+BPH,Estrogen-Agonist
+BPH,Estrogenic (Weak)
+BPH,Immunostimulant
+BPH,Lipoxygenase-Inhibitor
+BPH,Nervine
+BPH,Phospholipase-A2--Inhibitor
+BPH,Prostaglandin-Synthesis-Inhibitor
+BPH,Prostaglandin-Synthetase-Inhibitor
+BPH,Protease-Inhibitor
+BPH,Reduce growth-factor-induced prostatic proliferati
+BPH,Reduce prolactin-induced prostatic growth
+BPH,Tyrosine-Kinase-Inhibitor
+Backache,Analgesic
+Backache,Anesthetic
+Backache,Antiarthritic
+Backache,Antiinflammatory
+Backache,Antinociceptive
+Backache,Antirheumatalgic
+Backache,Antirheumatic
+Backache,Antispasmodic
+Backache,COX-2-Inhibitor
+Backache,Counterirritant
+Backache,Cyclooxygenase-Inhibitor
+Backache,Myorelaxant
+Backache,Nervine
+Backache,Sedative
+Backache,Spasmolytic
+Backache,Tranquilizer
+Breast Feeding Problems,Antianxiety
+Breast Feeding Problems,Anxiolytic
+Breast Feeding Problems,Balance Prolactin Production
+Breast Feeding Problems,Diaphoretic
+Breast Feeding Problems,Galactagogue
+Breast Feeding Problems,Hormone Balancing
+Breast Feeding Problems,Hyperprolactinemic
+Breast Feeding Problems,Increase Prolactin Production
+Bronchitis,Antibacterial
+Bronchitis,Antibiotic
+Bronchitis,Antibronchitic
+Bronchitis,Antibronchoconstrictor
+Bronchitis,Anticandidosis
+Bronchitis,Antihistaminic
+Bronchitis,Antiinflammatory
+Bronchitis,Antioxidant
+Bronchitis,Antipharyngitic
+Bronchitis,Antipyretic
+Bronchitis,Antispasmodic
+Bronchitis,Antitussive
+Bronchitis,Antiviral
+Bronchitis,Bronchodilator
+Bronchitis,Bronchorelaxant
+Bronchitis,Bronchospasmolytic
+Bronchitis,Bronchotonic
+Bronchitis,COX-2-Inhibitor
+Bronchitis,Candidicide
+Bronchitis,Candidistat
+Bronchitis,Cyclooxygenase-Inhibitor
+Bronchitis,Decongestant
+Bronchitis,Expectorant
+Bronchitis,Immunostimulant
+Bronchitis,Interferonogenic
+Bronchitis,MDR-Inhibitor
+Bronchitis,Phagocytotic
+Bronchitis,Spasmolytic
+Bruises,Analgesic
+Bruises,Anesthetic
+Bruises,Anticapillary-Fragility
+Bruises,Antiedemic
+Bruises,Antiinflammatory
+Bruises,Antinociceptive
+Bruises,Antiscorbutic
+Bruises,Astringent
+Bruises,COX-2-Inhibitor
+Bruises,Capillary-Tonic
+Bruises,Coagulant
+Bruises,Counterirritant
+Bruises,Cyclooxygenase-Inhibitor
+Bruises,Fibrinolysis Enzyme Activator
+Bruises,Fibrinolysis Promoter
+Bruises,Fibrinolytic
+Bruises,Glycosaminoglycan-Sparing
+Bruises,Improve Capillary Fragility
+Bruises,Myorelaxant
+Bruises,Plasminogen-Activating
+Bruises,Proteolytic
+Bruises,Vulnerary
+Burns,Analgesic
+Burns,Anesthetic
+Burns,Antibacterial
+Burns,Antibiotic
+Burns,Antiedemic
+Burns,Antiinflammatory
+Burns,Antinociceptive
+Burns,Antioxidant
+Burns,Antiseptic
+Burns,Bacteristat
+Burns,COX-2-Inhibitor
+Burns,Cyclooxygenase-Inhibitor
+Burns,Free-Radical Scavenging
+Burns,Fungicide
+Burns,Immunostimulant
+Burns,Inhibit PAF
+Burns,MDR-Inhibitor
+Burns,PAF-Antagonist
+Burns,PAF-Inhibitor
+Burns,Platelet-Activating-Factor-Inhibitor
+Burns,Vulnerary
+Cancer,5-Alpha-Reductase-Inhibitor
+Cancer,AHH-Inhibitor
+Cancer,Adaptogenic
+Cancer,Adenylate-Cyclase-Activator
+Cancer,Adjuvant
+Cancer,Alpha-Reductase-Inhibitor
+Cancer,AntiEBV
+Cancer,AntiHIV
+Cancer,AntiHodgkin's
+Cancer,AntiKaposi's
+Cancer,AntiX-Radiation
+Cancer,Antiadenocarcinoma
+Cancer,Antiadenocarcinomic
+Cancer,Antiadenomacarcinogenic
+Cancer,Antiadenomacarcinomic
+Cancer,Antiadenomic
+Cancer,Antiaflatoxin
+Cancer,Antiaggregant
+Cancer,Antiaging
+Cancer,Antiandrogenic
+Cancer,Antiangiogenic
+Cancer,Antianxiety
+Cancer,Antiarachidonate
+Cancer,Anticancer
+Cancer,Anticancer (Bladder)
+Cancer,Anticancer (Breast)
+Cancer,Anticancer (Cervix)
+Cancer,Anticancer (Colon)
+Cancer,Anticancer (Duodenum)
+Cancer,Anticancer (Forestomach)
+Cancer,Anticancer (Kidney)
+Cancer,Anticancer (Liver)
+Cancer,Anticancer (Mammary)
+Cancer,Anticancer (Oral)
+Cancer,Anticancer (Pancreas)
+Cancer,Anticancer (Prostate)
+Cancer,Anticancer (Skin)
+Cancer,Anticancer (Stomach)
+Cancer,Anticarcinogenic
+Cancer,Anticarcinomic
+Cancer,Anticarcinosarcomic
+Cancer,Anticervicaldysplasic
+Cancer,Antichoriocarcinomic
+Cancer,Anticollagenase
+Cancer,Anticytotoxic
+Cancer,Antiestrogenic
+Cancer,Antifibrosarcomic
+Cancer,Antigliomic
+Cancer,Antihepatocarcinogenic
+Cancer,Antihepatotoxic
+Cancer,Antiinflammatory
+Cancer,Antileukemic
+Cancer,Antileukoplakic
+Cancer,Antileukotriene
+Cancer,Antilipoperoxidant
+Cancer,Antilymphomic
+Cancer,Antilymphosarcomic
+Cancer,Antimelanomic
+Cancer,Antimetaplastic
+Cancer,Antimetastatic
+Cancer,Antimicrobial
+Cancer,Antimitotis
+Cancer,Antimutagenic
+Cancer,Antineoplastic
+Cancer,Antinesidioblastosic
+Cancer,Antineuroblastomic
+Cancer,Antinitrosaminic
+Cancer,Antiosteosarcomic
+Cancer,Antioxidant
+Cancer,Antioxidant Synergist
+Cancer,Antiperoxidant
+Cancer,Antiperoxidative
+Cancer,Antipolyp
+Cancer,Antiprolactin
+Cancer,Antiproliferant
+Cancer,Antiproliferative
+Cancer,Antipromoter
+Cancer,Antiprostaglandigenic
+Cancer,Antiprostaglandin
+Cancer,Antiradiation
+Cancer,Antiretroviral
+Cancer,Antisarcoma
+Cancer,Antisarcomic
+Cancer,Antistress
+Cancer,Antithromboxane
+Cancer,Antitopoisomerase-II
+Cancer,Antitubulin
+Cancer,Antitumor
+Cancer,Antitumor-Promoter
+Cancer,Antiviral
+Cancer,Anxiolytic
+Cancer,Apoptotic
+Cancer,Arachidonic acid-Inhibitor
+Cancer,Beta-Glucuronidase-Inhibitor
+Cancer,COX-2-Inhibitor
+Cancer,Cancer-Preventive
+Cancer,Cancerostatic
+Cancer,Carcinostatic
+Cancer,Chemopreventive
+Cancer,Complementary-Activator
+Cancer,Cyclooxygenase-Inhibitor
+Cancer,Cytochrome-P450-Inducer
+Cancer,Cytoprotective
+Cancer,Cytotoxic
+Cancer,DNA-Binder
+Cancer,Estrogen-Agonist
+Cancer,Fibrinolytic
+Cancer,Free-Radical Scavenging
+Cancer,GST-Inducer
+Cancer,Glutathionergic
+Cancer,Glutathionigenic
+Cancer,Growth-Inhibitor
+Cancer,Hepatoprotective
+Cancer,Hepatotonic
+Cancer,Homeostatic
+Cancer,Hyaluronidase-Inhibitor
+Cancer,Immunostimulant
+Cancer,Interferon-Synergist
+Cancer,Interferonogenic
+Cancer,Leucocytogenic
+Cancer,Lipoxygenase-Inhibitor
+Cancer,Lymphocytogenic
+Cancer,Lymphogenic
+Cancer,Lymphokinetic
+Cancer,Mast-Cell-Stabilizer
+Cancer,Membranomodulator
+Cancer,Microphagocytogenic
+Cancer,Mitogen
+Cancer,Mitogenic
+Cancer,Nephroprotective
+Cancer,Nervine
+Cancer,Ornithine-Decarboxylase-Inhibitor
+Cancer,P450-Inducer
+Cancer,PAF-Inducer
+Cancer,PKC-Inhibitor
+Cancer,PTK-Inhibitor
+Cancer,Phytoestrogenic
+Cancer,Phytohormonal
+Cancer,Phytohormone
+Cancer,Previtamin-A
+Cancer,Prostaglandigenic
+Cancer,Protease-Inhibitor
+Cancer,Protein-Kinase-C-Inhibitor
+Cancer,Protein-Kinase-Inhibitor
+Cancer,Protein-Kinase-Regulator
+Cancer,Proteoglycanogenic
+Cancer,Pulmonoprotective
+Cancer,Reverse-Transcriptase-Inhibitor
+Cancer,Sunscreen
+Cancer,T-Cell-Stimulant
+Cancer,Thymoprotective
+Cancer,Tocopherol-Synergist
+Cancer,Topoisomerase-II-Inhibitor
+Cancer,Topoisomerase-II-Poison
+Cancer,Topoisomerase-Inhibitor
+Cancer,Tubulin-Inhibitor
+Cancer,Tyrosine-Kinase-Inhibitor
+Cancer,UV-Screen
+Cancer,Ultraviolet-Screen
+Cancer,Vasculoprotective
+Cancer,Vasoprotective
+Cancer,Viristat
+Cancer,Vitamin-A-Activity
+Cancer,cAMP-genic
+Candidiasis,Anti-Itching
+Candidiasis,Antibiotic
+Candidiasis,Anticandidosis
+Candidiasis,Antidermatitic
+Candidiasis,Antifungal
+Candidiasis,Antiseptic
+Candidiasis,Antiyeast
+Candidiasis,Candidicide
+Candidiasis,Candidistat
+Candidiasis,Demulcent
+Candidiasis,Fungicide
+Candidiasis,Fungistat
+Canker Sores,Analgesic
+Canker Sores,Anesthetic
+Canker Sores,Antiallergic
+Canker Sores,Antibacterial
+Canker Sores,Antibiotic
+Canker Sores,Anticandidosis
+Canker Sores,Antiinflammatory
+Canker Sores,Antinociceptive
+Canker Sores,Antioxidant
+Canker Sores,Antiscorbutic
+Canker Sores,Antiseptic
+Canker Sores,Antiulcer
+Canker Sores,Antiulcerogenic
+Canker Sores,Astringent
+Canker Sores,Bacteristat
+Canker Sores,COX-2-Inhibitor
+Canker Sores,Candidicide
+Canker Sores,Candidistat
+Canker Sores,Cyclooxygenase-Inhibitor
+Canker Sores,Immunostimulant
+Canker Sores,MDR-Inhibitor
+Canker Sores,Sialogogue
+Canker Sores,Ulcer Proctective
+Canker Sores,Vulnerary
+Cardiopathy/Heart Problems,ACE-Inhibitor
+Cardiopathy/Heart Problems,Antiaggregant
+Cardiopathy/Heart Problems,Antianginal
+Cardiopathy/Heart Problems,Antiarrhythmic
+Cardiopathy/Heart Problems,Antiarteriosclerotic
+Cardiopathy/Heart Problems,Antiatherogenic
+Cardiopathy/Heart Problems,Antiatheromic
+Cardiopathy/Heart Problems,Antiatherosclerotic
+Cardiopathy/Heart Problems,Antiatherotic
+Cardiopathy/Heart Problems,Anticardiac
+Cardiopathy/Heart Problems,Anticardiospasmic
+Cardiopathy/Heart Problems,Anticoagulant
+Cardiopathy/Heart Problems,Anticoronary
+Cardiopathy/Heart Problems,Antiedemic
+Cardiopathy/Heart Problems,Antihemorrhagic
+Cardiopathy/Heart Problems,Antihemorrhoidal
+Cardiopathy/Heart Problems,Antihypercholesterolemic
+Cardiopathy/Heart Problems,Antihypertensive
+Cardiopathy/Heart Problems,Antiinfarctal
+Cardiopathy/Heart Problems,Antiischemic
+Cardiopathy/Heart Problems,Antioxidant
+Cardiopathy/Heart Problems,Antiplatelet
+Cardiopathy/Heart Problems,Antistress
+Cardiopathy/Heart Problems,Antistroke
+Cardiopathy/Heart Problems,Antitachycardic
+Cardiopathy/Heart Problems,Antithrombic
+Cardiopathy/Heart Problems,Arteriodilator
+Cardiopathy/Heart Problems,Beta-Adrenergic Receptor Blocker
+Cardiopathy/Heart Problems,COX-2-Inhibitor
+Cardiopathy/Heart Problems,Calcium-Antagonist
+Cardiopathy/Heart Problems,Cardioprotective
+Cardiopathy/Heart Problems,Cardiorelaxant
+Cardiopathy/Heart Problems,Cardiosedative
+Cardiopathy/Heart Problems,Cardiotonic
+Cardiopathy/Heart Problems,Cyclooxygenase-Inhibitor
+Cardiopathy/Heart Problems,Diuretic
+Cardiopathy/Heart Problems,Hypocholesterolemic
+Cardiopathy/Heart Problems,Hypotensive
+Cardiopathy/Heart Problems,Myocardiotonic
+Cardiopathy/Heart Problems,Nervine
+Cardiopathy/Heart Problems,Sedative
+Cardiopathy/Heart Problems,Vasodilator
+Cardiopathy/Heart Problems,Vasoprotective
+Cardiopathy/Heart Problems,Vasorelaxant
+Cardiopathy/Heart Problems,Vasotonic
+Cardiopathy/Heart Problems,Venotonic
+Cataracts,Adrenal-Support
+Cataracts,Adrenergic
+Cataracts,Aldose-Reductase-Inhibitor
+Cataracts,Anthocyanodin-Rich
+Cataracts,Anthocyanoside-Rich
+Cataracts,Antiallergic
+Cataracts,Anticapillary-Fragility
+Cataracts,Anticataract
+Cataracts,Anticonjunctivitic
+Cataracts,Antidermatitic
+Cataracts,Antidiabetic
+Cataracts,Antiedemic
+Cataracts,Antihistamine
+Cataracts,Antihistaminic
+Cataracts,Antiinflammatory
+Cataracts,Antimaculitic
+Cataracts,Antiophthalmic
+Cataracts,Antioxidant
+Cataracts,Antiscorbutic
+Cataracts,Antisinusitic
+Cataracts,Antistress
+Cataracts,Antiuveitic
+Cataracts,COX-2-Inhibitor
+Cataracts,Carotenoid-Provider
+Cataracts,Carotenoid-Rich
+Cataracts,Collagen-Sparing
+Cataracts,Cyclooxygenase-Inhibitor
+Cataracts,Free-Radical Scavenging
+Cataracts,Histamine-Inhibitor
+Cataracts,Increase Catalase Activity
+Cataracts,Increase Superoxide Dismutase Activity
+Cataracts,Mast-Cell-Stabilizer
+Cataracts,Vasoconstrictor
+Cellulite,Anorectic
+Cellulite,Anorexic
+Cellulite,Anticellulitic
+Cellulite,Antiedemic
+Cellulite,Antiobesity
+Cellulite,Antipanniculopathic
+Cellulite,Catabolic
+Cellulite,Circulatory-Stimulant
+Cellulite,Collagen-Sparing
+Cellulite,Collagenic
+Cellulite,Diuretic
+Cellulite,Lipolytic
+Cellulite,Phosphodiesterase-Inhibitor
+Cellulite,Thermogenic
+Cellulite,Triglycerolytic
+Chronic Fatigue Syndrome,Adaptogenic
+Chronic Fatigue Syndrome,Antiallergic
+Chronic Fatigue Syndrome,Antibiotic
+Chronic Fatigue Syndrome,Antidepressant
+Chronic Fatigue Syndrome,Antifatigue
+Chronic Fatigue Syndrome,Antioxidant
+Chronic Fatigue Syndrome,Antipharyngitic
+Chronic Fatigue Syndrome,Antiviral
+Chronic Fatigue Syndrome,Anxiolytic
+Chronic Fatigue Syndrome,Hyperglycemic
+Chronic Fatigue Syndrome,Immunomodulator
+Chronic Fatigue Syndrome,Immunostimulant
+Chronic Fatigue Syndrome,Increase NK Cell Activity
+Chronic Fatigue Syndrome,Increase Natural Killer (NK) Cell Activity
+Chronic Fatigue Syndrome,Increase T-lymphocyte Proliferation
+Chronic Fatigue Syndrome,Interferonogenic
+Chronic Fatigue Syndrome,Nervine
+Chronic Fatigue Syndrome,Phagocytotic
+Chronic Fatigue Syndrome,Stimulant
+Chronic Fatigue Syndrome,Tonic
+Chronic Fatigue Syndrome,Viricide
+Chronic Fatigue Syndrome,Viristat
+Chronic Venous Insufficiency/CVI,Antiaggregant
+Chronic Venous Insufficiency/CVI,Antiarteriosclerotic
+Chronic Venous Insufficiency/CVI,Antiatherogenic
+Chronic Venous Insufficiency/CVI,Antiatheromic
+Chronic Venous Insufficiency/CVI,Antiatherosclerotic
+Chronic Venous Insufficiency/CVI,Antiatherotic
+Chronic Venous Insufficiency/CVI,Anticapillary-Fragility
+Chronic Venous Insufficiency/CVI,Anticoagulant
+Chronic Venous Insufficiency/CVI,Antiedemic
+Chronic Venous Insufficiency/CVI,Antihypercholesterolemic
+Chronic Venous Insufficiency/CVI,Antihypertensive
+Chronic Venous Insufficiency/CVI,Antiischemic
+Chronic Venous Insufficiency/CVI,Antioxidant
+Chronic Venous Insufficiency/CVI,Antiplatelet
+Chronic Venous Insufficiency/CVI,Antistress
+Chronic Venous Insufficiency/CVI,Antithrombic
+Chronic Venous Insufficiency/CVI,Antivaricose
+Chronic Venous Insufficiency/CVI,Antivaricosity
+Chronic Venous Insufficiency/CVI,Capillarifortificant
+Chronic Venous Insufficiency/CVI,Capillariprotective
+Chronic Venous Insufficiency/CVI,Capillaritonic
+Chronic Venous Insufficiency/CVI,Cardiotonic
+Chronic Venous Insufficiency/CVI,Diuretic
+Chronic Venous Insufficiency/CVI,Hypocholesterolemic
+Chronic Venous Insufficiency/CVI,Hypotensive
+Chronic Venous Insufficiency/CVI,Myocardiotonic
+Chronic Venous Insufficiency/CVI,Vasoactive
+Chronic Venous Insufficiency/CVI,Vasocompressor
+Chronic Venous Insufficiency/CVI,Vasoconstrictor
+Chronic Venous Insufficiency/CVI,Vasomotor-Stimulant
+Chronic Venous Insufficiency/CVI,Vasopressor
+Chronic Venous Insufficiency/CVI,Vasoprotective
+Chronic Venous Insufficiency/CVI,Vasotonic
+Chronic Venous Insufficiency/CVI,Venotonic
+Cold/Flu,Analgesic
+Cold/Flu,Anesthetic
+Cold/Flu,Antiallergic
+Cold/Flu,Antibacterial
+Cold/Flu,Antibiotic
+Cold/Flu,Antibronchitic
+Cold/Flu,Anticold
+Cold/Flu,Antiflu
+Cold/Flu,Antihistamine
+Cold/Flu,Antihistaminic
+Cold/Flu,Antiinflammatory
+Cold/Flu,Antinociceptive
+Cold/Flu,Antioxidant
+Cold/Flu,Antipharyngitic
+Cold/Flu,Antipyretic
+Cold/Flu,Antirhinoviral
+Cold/Flu,Antiseptic
+Cold/Flu,Antistress
+Cold/Flu,Antitussive
+Cold/Flu,Antiviral
+Cold/Flu,Bronchorelaxant
+Cold/Flu,COX-2-Inhibitor
+Cold/Flu,Cyclooxygenase-Inhibitor
+Cold/Flu,Decongestant
+Cold/Flu,Expectorant
+Cold/Flu,Febrifuge
+Cold/Flu,Immunostimulant
+Cold/Flu,Interferonogenic
+Cold/Flu,MDR-Inhibitor
+Cold/Flu,Mitogenic
+Cold/Flu,Phagocytotic
+Cold/Flu,Spasmolytic
+Cold/Flu,Viristat
+Conjunctivitis,Adrenal-Support
+Conjunctivitis,Adrenergic
+Conjunctivitis,Anthocyanodin-Rich
+Conjunctivitis,Anthocyanoside-Rich
+Conjunctivitis,Antiallergic
+Conjunctivitis,Antibacterial
+Conjunctivitis,Anticonjunctivitic
+Conjunctivitis,Anticonjunctivitis
+Conjunctivitis,Antidermatitic
+Conjunctivitis,Antiedemic
+Conjunctivitis,Antihistaminic
+Conjunctivitis,Antiinflammatory
+Conjunctivitis,Antiophthalmic
+Conjunctivitis,Antiretinopathic
+Conjunctivitis,Antiretinotic
+Conjunctivitis,Antiscorbutic
+Conjunctivitis,Antisinusitic
+Conjunctivitis,Antistress
+Conjunctivitis,Antiuveitic
+Conjunctivitis,Antiviral
+Conjunctivitis,Bactericide
+Conjunctivitis,Bacteristat
+Conjunctivitis,COX-2-Inhibitor
+Conjunctivitis,Carotenoid-Rich
+Conjunctivitis,Collagen-Sparing
+Conjunctivitis,Cyclooxygenase-Inhibitor
+Conjunctivitis,Mast-Cell-Stabilizer
+Conjunctivitis,Vasoconstrictor
+Conjunctivitis,Viricide
+Conjunctivitis,Viristat
+Constipation,Antiscorbutic
+Constipation,Demulcent
+Constipation,Fiber-Rich
+Constipation,Hepatoprotective
+Constipation,Laxative
+Constipation,Oligosaccharide Provider
+Constipation,Peristalsis-Stimulator
+Constipation,Prebiotic
+Constipation,Probiotic
+Constipation,Provide Oligosaccharides
+Constipation,Purgative
+Constipation,Stimulant
+Constipation,Stimulate Peristalsis
+Cramp,Analgesic
+Cramp,Anesthetic
+Cramp,Anticonvulsant
+Cramp,Antiinflammatory
+Cramp,Antimyalgic
+Cramp,Antinociceptive
+Cramp,Antispasmodic
+Cramp,COX-2-Inhibitor
+Cramp,Carminative
+Cramp,Cyclooxygenase-Inhibitor
+Cramp,Lipoxygenase-Inhibitor
+Cramp,Myorelaxant
+Cramp,Sedative
+Cramp,Tranquilizer
+Crohns Disease,AntiCrohn's
+Crohns Disease,Antiallergenic
+Crohns Disease,Antiallergic
+Crohns Disease,Antibacterial
+Crohns Disease,Anticolitic
+Crohns Disease,Antidiarrheic
+Crohns Disease,Antienteritic
+Crohns Disease,Antiinflammatory
+Crohns Disease,Antileukotriene
+Crohns Disease,Antioxidant
+Crohns Disease,Antiprostaglandin
+Crohns Disease,Antispasmodic
+Crohns Disease,Antiulcer
+Crohns Disease,Bacteristat
+Crohns Disease,COX-2-Inhibitor
+Crohns Disease,Cyclooxygenase-Inhibitor
+Crohns Disease,Demulcent
+Crohns Disease,Immunomodulator
+Crohns Disease,Immunostimulant
+Crohns Disease,Leukotriene-Inhibitor
+Crohns Disease,Mycobactericide
+Crohns Disease,Proteolytic
+Crohns Disease,Spasmolytic
+Cystitis,Analgesic
+Cystitis,Anesthetic
+Cystitis,Antiinflammatory
+Cystitis,Antinociceptive
+Cystitis,Antiseptic
+Cystitis,Bactericide
+Cystitis,COX-2-Inhibitor
+Cystitis,Cyclooxygenase-Inhibitor
+Cystitis,Diuretic
+Cystitis,Lipoxygenase-Inhibitor
+Cystitis,Uricosuric
+Decubitis,Analgesic
+Decubitis,Anesthetic
+Decubitis,Antibacterial
+Decubitis,Antibiotic
+Decubitis,Antiinflammatory
+Decubitis,Antinociceptive
+Decubitis,Antioxidant
+Decubitis,Antipeptic
+Decubitis,Antiseptic
+Decubitis,Antiulcer
+Decubitis,Antiulcerogenic
+Decubitis,Astringent
+Decubitis,Bacteristat
+Decubitis,COX-2-Inhibitor
+Decubitis,Collagen-Sparing
+Decubitis,Cyclooxygenase-Inhibitor
+Decubitis,Fungicide
+Decubitis,Immunostimulant
+Decubitis,MDR-Inhibitor
+Decubitis,Suppurative
+Decubitis,Vulnerary
+Depression,Antianxiety
+Depression,Antidepressant
+Depression,Antifatigue
+Depression,Antiinflammatory
+Depression,Antiinsomniac
+Depression,Antioxidant
+Depression,Antioxidant Synergist
+Depression,Antistress
+Depression,Antiulcer
+Depression,Antiulcerogenic
+Depression,Anxiolytic
+Depression,CNS-Stimulant
+Depression,COMT-Inhibitor
+Depression,Catechol-O-Methyl-Transferase-Inhibitor
+Depression,Catechol-O-Methyltransferase-Inhibitor
+Depression,Dopaminergic
+Depression,Dopaminigenic
+Depression,Endorphinogenic
+Depression,Energizer
+Depression,Euphoriant
+Depression,Euphoric
+Depression,Euphorigenic
+Depression,GABA-nergic
+Depression,Gastroprotective
+Depression,Immunostimulant
+Depression,MAO-Inhibitor
+Depression,Melatoninergic
+Depression,Melatoninogenic
+Depression,Nervine
+Depression,Neuroprotective
+Depression,SSRI
+Depression,Selective-Serotonin-Reuptake-Inhibitor
+Depression,Serotoninergic
+Depression,Stimulant
+Depression,Tonic
+Dermatitis/Dermatoses,Analgesic
+Dermatitis/Dermatoses,Anesthetic
+Dermatitis/Dermatoses,Antibacterial
+Dermatitis/Dermatoses,Antibiotic
+Dermatitis/Dermatoses,Antidermatitic
+Dermatitis/Dermatoses,Antifungal
+Dermatitis/Dermatoses,Antiinflammatory
+Dermatitis/Dermatoses,Antiitch
+Dermatitis/Dermatoses,Antinociceptive
+Dermatitis/Dermatoses,Antipruritic
+Dermatitis/Dermatoses,Antiseptic
+Dermatitis/Dermatoses,Antistress
+Dermatitis/Dermatoses,Astringent
+Dermatitis/Dermatoses,COX-2-Inhibitor
+Dermatitis/Dermatoses,Cyclooxygenase-Inhibitor
+Dermatitis/Dermatoses,Demulcent
+Dermatitis/Dermatoses,Fungicide
+Dermatitis/Dermatoses,Immunomodulator
+Dermatitis/Dermatoses,Inhibit DTH
+Dermatitis/Dermatoses,MDR-Inhibitor
+Dermatitis/Dermatoses,Moisturizing
+Diabetes,Aldose-Reductase-Inhibitor
+Diabetes,Antiaggregant
+Diabetes,Anticapillary-Fragility
+Diabetes,Antidiabetic
+Diabetes,Antidiabetic (Insulin-Sparing)
+Diabetes,Antiglycation
+Diabetes,Antihemoglobin-1Ac
+Diabetes,Antihypercholesterolemic
+Diabetes,Antihyperglycemic
+Diabetes,Antiobesity
+Diabetes,Antioxidant
+Diabetes,Antiperoxidant
+Diabetes,Antiradicular
+Diabetes,Antiscorbutic
+Diabetes,Antithrombic
+Diabetes,Capillarifortificant
+Diabetes,Capillariprotective
+Diabetes,Capillaritonic
+Diabetes,Fiber-Rich
+Diabetes,Gluconeogensis-Inhibitor
+Diabetes,Glucose-6-Phosphatase-Inhibitor
+Diabetes,Glycogenic
+Diabetes,Hexokinase-Stimulator
+Diabetes,Hypocholesterolemic
+Diabetes,Hypoglycemic
+Diabetes,Hypotriacylglycerolemic
+Diabetes,Insulin-Potentiating
+Diabetes,Insulin-Sparing
+Diabetes,Insulinase-Inhibitor
+Diabetes,Insulinic
+Diabetes,Insulinogenic
+Diabetes,Insulinotonic
+Diabetes,PAF-Inhibitor
+Diabetes,Soluble-Fiber
+Diabetes,Stimulate PUFA Desaturase and Elongase Enzymes
+Diabetes,Thermogenic
+Diabetes,Tyrosine-Kinase-Activator
+Diarrhea,Amebicide
+Diarrhea,Anthelmintic
+Diarrhea,Antibacterial
+Diarrhea,Antibiotic
+Diarrhea,Anticandidosis
+Diarrhea,Antidiarrheic
+Diarrhea,Antiperistaltic
+Diarrhea,Antispasmodic
+Diarrhea,Antistress
+Diarrhea,Antiviral
+Diarrhea,Astringent
+Diarrhea,Candidicide
+Diarrhea,Candidistat
+Diarrhea,Carminative
+Diarrhea,Demulcent
+Diarrhea,Hepatoprotective
+Diarrhea,Hydrating
+Diarrhea,Inhibit Peristalsis
+Diarrhea,MDR-Inhibitor
+Diarrhea,Peristalsis Inhibitor
+Diarrhea,Prebiotic
+Diarrhea,Probiotic
+Diarrhea,Protisticide
+Diarrhea,Spasmolytic
+Diarrhea,Vermifuge
+Dysentery,Amebicide
+Dysentery,Anthelmintic
+Dysentery,Antibacterial
+Dysentery,Antibiotic
+Dysentery,Anticandidosis
+Dysentery,Anticholeretic
+Dysentery,Antidiarrheic
+Dysentery,Antidysenteric
+Dysentery,Antihepatotoxic
+Dysentery,Antiperistaltic
+Dysentery,Antiseptic
+Dysentery,Antispasmodic
+Dysentery,Antistress
+Dysentery,Antiviral
+Dysentery,Astringent
+Dysentery,Candidicide
+Dysentery,Candidistat
+Dysentery,Carminative
+Dysentery,Demulcent
+Dysentery,Hepatoprotective
+Dysentery,Hepatotonic
+Dysentery,Hydrating
+Dysentery,MDR-Inhibitor
+Dysentery,Prebiotic
+Dysentery,Protisticide
+Dysentery,Vermifuge
+Dysentery,Vibriocide
+Dysentery,Vibriofuge
+Dysmenorrhea,Analgesic
+Dysmenorrhea,Anesthetic
+Dysmenorrhea,AntiPMS
+Dysmenorrhea,Antianxiety
+Dysmenorrhea,Anticoagulant
+Dysmenorrhea,Anticramp
+Dysmenorrhea,Antidepressant
+Dysmenorrhea,Antidysmenorrheic
+Dysmenorrhea,Antihysteric
+Dysmenorrhea,Antiinflammatory
+Dysmenorrhea,Antimenorrhagic
+Dysmenorrhea,Antinociceptive
+Dysmenorrhea,Antispasmodic
+Dysmenorrhea,Antithrombic
+Dysmenorrhea,Antithrombin
+Dysmenorrhea,Anxiolytic
+Dysmenorrhea,COX-2-Inhibitor
+Dysmenorrhea,Cyclooxygenase-Inhibitor
+Dysmenorrhea,Myorelaxant
+Dysmenorrhea,Nervine
+Dysmenorrhea,Sedative
+Dysmenorrhea,Spasmolytic
+Dysmenorrhea,Uterosedative
+Dysmenorrhea,Uterotonic
+Dyspepsia/Indigestion,Analgesic
+Dyspepsia/Indigestion,Anesthetic
+Dyspepsia/Indigestion,Antiacid
+Dyspepsia/Indigestion,Antianxiety
+Dyspepsia/Indigestion,Antidyspeptic
+Dyspepsia/Indigestion,Antiemetic
+Dyspepsia/Indigestion,Antiflatulent
+Dyspepsia/Indigestion,Antigastric
+Dyspepsia/Indigestion,Antigastritic
+Dyspepsia/Indigestion,Antigastrotic
+Dyspepsia/Indigestion,Antiinflammatory
+Dyspepsia/Indigestion,Antinauseant
+Dyspepsia/Indigestion,Antinociceptive
+Dyspepsia/Indigestion,Antioxidant
+Dyspepsia/Indigestion,Antipeptic
+Dyspepsia/Indigestion,Antistress
+Dyspepsia/Indigestion,Antiulcer
+Dyspepsia/Indigestion,Antiulcerogenic
+Dyspepsia/Indigestion,Anxiolytic
+Dyspepsia/Indigestion,Bitter
+Dyspepsia/Indigestion,Carminative
+Dyspepsia/Indigestion,Circulatory-Stimulant
+Dyspepsia/Indigestion,Demulcent
+Dyspepsia/Indigestion,Digestive
+Dyspepsia/Indigestion,Gastric-Anesthetic
+Dyspepsia/Indigestion,Gastroprotective
+Dyspepsia/Indigestion,Gastrosedative
+Dyspepsia/Indigestion,Gastrostimulant
+Dyspepsia/Indigestion,Nervine
+Dyspepsia/Indigestion,Proteolytic
+Dyspepsia/Indigestion,Secretogogue
+Dyspepsia/Indigestion,Sedative
+Dyspepsia/Indigestion,Sialogogue
+Dyspepsia/Indigestion,Tranquilizer
+Edema,Analgesic
+Edema,Anesthetic
+Edema,Anticapillary-Fragility
+Edema,Antiedemic
+Edema,Antiinflammatory
+Edema,Antinociceptive
+Edema,COX-2-Inhibitor
+Edema,Capillarifortificant
+Edema,Capillariprotective
+Edema,Circulatory-Stimulant
+Edema,Cyclooxygenase-Inhibitor
+Edema,Diuretic
+Edema,Lipoxygenase-Inhibitor
+Edema,Lymphatic
+Edema,Natriuretic
+Edema,Saluretic
+Emphysema,Antibronchitic
+Emphysema,Antibronchoconstrictor
+Emphysema,Antiemphysemic
+Emphysema,Antihistaminic
+Emphysema,Antiinflammatory
+Emphysema,Antioxidant
+Emphysema,Antipharyngitic
+Emphysema,Antipyretic
+Emphysema,Antispasmodic
+Emphysema,Antitussive
+Emphysema,Bronchodilator
+Emphysema,Bronchorelaxant
+Emphysema,Bronchospasmolytic
+Emphysema,Bronchotonic
+Emphysema,COX-2-Inhibitor
+Emphysema,Cyclooxygenase-Inhibitor
+Emphysema,Decongestant
+Emphysema,Expectorant
+Emphysema,Immunostimulant
+Emphysema,Interferonogenic
+Emphysema,Refrigerant
+Emphysema,Spasmolytic
+Epilepsy,Antianxiety
+Epilepsy,Anticonvulsant
+Epilepsy,Antiepileptic
+Epilepsy,Antihypertensive
+Epilepsy,Antiinflammatory
+Epilepsy,Antispasmodic
+Epilepsy,Antistress
+Epilepsy,Anxiolytic
+Epilepsy,COX-2-Inhibitor
+Epilepsy,Cyclooxygenase-Inhibitor
+Epilepsy,Myorelaxant
+Epilepsy,Nervine
+Epilepsy,Sedative
+Epilepsy,Spasmolytic
+Epilepsy,Tranquilizer
+Fever,Analgesic
+Fever,Anesthetic
+Fever,Antibacterial
+Fever,Antiinflammatory
+Fever,Antinociceptive
+Fever,Antioxidant
+Fever,Antipyretic
+Fever,Antiseptic
+Fever,Antispasmodic
+Fever,Antistress
+Fever,Antiviral
+Fever,COX-2-Inhibitor
+Fever,Cyclooxygenase-Inhibitor
+Fever,Immunostimulant
+Fever,MDR-Inhibitor
+Fever,Protisticide
+Fever,Sedative
+Fever,Tranquilizer
+Fungus/Mycosis,Analgesic
+Fungus/Mycosis,Anesthetic
+Fungus/Mycosis,Antiactinomycotic
+Fungus/Mycosis,Antibacterial
+Fungus/Mycosis,Antibiotic
+Fungus/Mycosis,Anticandidosis
+Fungus/Mycosis,Anticryptococcic
+Fungus/Mycosis,Antidermatitic
+Fungus/Mycosis,Antiinflammatory
+Fungus/Mycosis,Antiitch
+Fungus/Mycosis,Antimycoplasmotic
+Fungus/Mycosis,Antimycotic
+Fungus/Mycosis,Antinociceptive
+Fungus/Mycosis,Antiseptic
+Fungus/Mycosis,COX-2-Inhibitor
+Fungus/Mycosis,Candidicide
+Fungus/Mycosis,Candidistat
+Fungus/Mycosis,Cyclooxygenase-Inhibitor
+Fungus/Mycosis,Fungicide
+Fungus/Mycosis,Fungistat
+Fungus/Mycosis,Immunostimulant
+Fungus/Mycosis,MDR-Efflux Pump Inhibitor
+Fungus/Mycosis,Mycobactericide
+Fungus/Mycosis,Mycolytic
+Fungus/Mycosis,Mycoplasmicide
+Fungus/Mycosis,Mycoplasmistat
+Fungus/Mycosis,Tineacide
+Giardia,Amebicide
+Giardia,Anthelmintic
+Giardia,Antiamebic
+Giardia,Antibacterial
+Giardia,Antibiotic
+Giardia,Antidiarrheic
+Giardia,Antigiardial
+Giardia,Antiinfective
+Giardia,Antiinflammatory
+Giardia,Antimicrobial
+Giardia,Antiseptic
+Giardia,Astringent
+Giardia,Bacteristat
+Giardia,Disinfectant
+Giardia,Gastroprotective
+Giardia,Hepatoprotective
+Giardia,Hepatotonic
+Giardia,Protisticide
+Giardia,Protististat
+Gingivitis,Antibacterial
+Gingivitis,Antibiotic
+Gingivitis,Anticandidosis
+Gingivitis,Antigingivitic
+Gingivitis,Antiinflammatory
+Gingivitis,Antioxidant
+Gingivitis,Antiplaque
+Gingivitis,Antiscorbutic
+Gingivitis,Antiseptic
+Gingivitis,Astringent
+Gingivitis,COX-2-Inhibitor
+Gingivitis,Candidicide
+Gingivitis,Candidistat
+Gingivitis,Collagenase-Inhibitor
+Gingivitis,Cyclooxygenase-Inhibitor
+Gingivitis,Elastase-Inhibitor
+Gingivitis,Fungicide
+Gingivitis,Immunostimulant
+Gingivitis,Inhibit Interleukin 1b Production
+Gingivitis,Inhibit Prostaglandin Synthase
+Gingivitis,MDR-Inhibitor
+Gingivitis,Vulnerary
+Glaucoma,Alpha-Agonist
+Glaucoma,AntiGraves
+Glaucoma,Antianxiety
+Glaucoma,Antidiabetic
+Glaucoma,Antidyspeptic
+Glaucoma,Antiglaucomic
+Glaucoma,Antihistamine
+Glaucoma,Antihistaminic
+Glaucoma,Antiobesity
+Glaucoma,Antioxidant
+Glaucoma,Antistress
+Glaucoma,Anxiolytic
+Glaucoma,Beta-Blocker
+Glaucoma,Calcium-Channel-Blocker
+Glaucoma,Carbonic-Anhydrase-Inhibitor
+Glaucoma,Glutamate-Antagonist
+Glaucoma,Histamine-Inhibitor
+Glaucoma,Hypotensive
+Glaucoma,Natriuretic
+Glaucoma,Neuroprotective
+Glaucoma,Parasympathomimetic
+Glaucoma,Serotonin-Agonist
+Gout,Analgesic
+Gout,Anesthetic
+Gout,Antiedemic
+Gout,Antigout
+Gout,Antiinflammatory
+Gout,Antinociceptive
+Gout,Antipodagric
+Gout,Antitubulin
+Gout,COX-2-Inhibitor
+Gout,Cyclooxygenase-Inhibitor
+Gout,Glucose-6-Phosphatase-Stimulant
+Gout,Hydrating
+Gout,Hyperuricemic
+Gout,HypoPurine Diet
+Gout,Hypouricemic
+Gout,Inhibit Microtubule-Formation
+Gout,Inhibit Production of Uric Acid
+Gout,Low Purine
+Gout,Low Pyrimidine
+Gout,Tubulin-Inhibitor
+Gout,Urealytic
+Gout,Uricosuric
+Gout,Xanthine-Oxidase-Inhibitor
+Halitosis,Antibacterial
+Halitosis,Antibiotic
+Halitosis,Anticandidosis
+Halitosis,Antifungal
+Halitosis,Antigingivitic
+Halitosis,Antihalitosic
+Halitosis,Antiplaque
+Halitosis,Antiseptic
+Halitosis,Antiyeast
+Halitosis,Astringent
+Halitosis,Bacteristat
+Halitosis,Candidicide
+Halitosis,Candidistat
+Halitosis,Fungicide
+Halitosis,Fungistat
+Hangover,Analgesic
+Hangover,Anesthetic
+Hangover,Antiacid
+Hangover,Antialcohol
+Hangover,Antialcoholic
+Hangover,Anticephalagic
+Hangover,Antidote
+Hangover,Antidyspeptic
+Hangover,Antiemetic
+Hangover,Antigastric
+Hangover,Antigastritic
+Hangover,Antigastrotic
+Hangover,Antihangover
+Hangover,Antihepatocarcinogenic
+Hangover,Antihepatotoxic
+Hangover,Antiinflammatory
+Hangover,Antimigraine
+Hangover,Antimyalgic
+Hangover,Antinauseant
+Hangover,Antineuralgic
+Hangover,Antinociceptive
+Hangover,Antioxidant
+Hangover,Antipeptic
+Hangover,Antiscorbutic
+Hangover,Antispasmodic
+Hangover,Antistress
+Hangover,Arteriodilator
+Hangover,Carminative
+Hangover,Circulatory-Stimulant
+Hangover,Demulcent
+Hangover,Detoxicant
+Hangover,Digestive
+Hangover,Dopaminergic
+Hangover,Endorphinogenic
+Hangover,Gastric-Anesthetic
+Hangover,Gastroprotective
+Hangover,Gastrosedative
+Hangover,Hepatoprotective
+Hangover,Hepatoregenerative
+Hangover,Hepatotonic
+Hangover,Nervine
+Hangover,Sedative
+Hangover,Serotoninergic
+Hangover,Sialogogue
+Hangover,Tranquilizer
+Hayfever,12-Lipoxygenase-Inhibitor
+Hayfever,Analgesic
+Hayfever,Anesthetic
+Hayfever,Antiallergic
+Hayfever,Antiasthmatic
+Hayfever,Antibronchitic
+Hayfever,Antibronchoconstrictor
+Hayfever,Antidermatitic
+Hayfever,Antiedemic
+Hayfever,Antihistaminic
+Hayfever,Antiinflammatory
+Hayfever,Antiitch
+Hayfever,Antinociceptive
+Hayfever,Antioxidant
+Hayfever,Antipharyngitic
+Hayfever,Antiprostaglandin
+Hayfever,Antipruritic
+Hayfever,Antirhinitic
+Hayfever,Antisinusitic
+Hayfever,Antispasmodic
+Hayfever,Antitussive
+Hayfever,Asthma-preventive
+Hayfever,Astringent
+Hayfever,Bronchodilator
+Hayfever,Bronchorelaxant
+Hayfever,Bronchosedative
+Hayfever,Bronchospasmolytic
+Hayfever,Bronchotonic
+Hayfever,COX-2-Inhibitor
+Hayfever,Cyclooxygenase-Inhibitor
+Hayfever,Decongestant
+Hayfever,Expectorant
+Hayfever,Immunomodulator
+Hayfever,Inhibit-Cytokine-Production
+Hayfever,Antiinterleukin-1
+Hayfever,Lipoxygenase-Inhibitor
+Hayfever,Mast-Cell-Stabilizer
+Hayfever,PAF-Inhibitor
+Hayfever,Prostaglandin-Synthesis-Inhibitor
+Hayfever,Prostaglandin-Synthetase-Inhibitor
+Headache,5-HT-Inhibitor
+Headache,Analgesic
+Headache,Anesthetic
+Headache,Anti-5-HT
+Headache,Anticephalgic
+Headache,Antiinflammatory
+Headache,Antimigraine
+Headache,Antimyalgic
+Headache,Antineuralgic
+Headache,Antinociceptive
+Headache,Antispasmodic
+Headache,Arteriodilator
+Headache,COX-2-Inhibitor
+Headache,Counterirritant
+Headache,Cyclooxygenase-Inhibitor
+Headache,Myorelaxant
+Headache,Sedative
+Headache,Spasmolytic
+Headache,Tranquilizer
+Headache,Vasodilator
+Heart Attack/Coronary Infarct,Antiaggregant
+Heart Attack/Coronary Infarct,Antianginal
+Heart Attack/Coronary Infarct,Antiarrhythmic
+Heart Attack/Coronary Infarct,Antiarteriosclerotic
+Heart Attack/Coronary Infarct,Antiatherogenic
+Heart Attack/Coronary Infarct,Antiatheromic
+Heart Attack/Coronary Infarct,Antiatherosclerotic
+Heart Attack/Coronary Infarct,Antiatherotic
+Heart Attack/Coronary Infarct,Anticardiac
+Heart Attack/Coronary Infarct,Anticardiospasmic
+Heart Attack/Coronary Infarct,Anticoagulant
+Heart Attack/Coronary Infarct,Anticoronary
+Heart Attack/Coronary Infarct,Antiedemic
+Heart Attack/Coronary Infarct,Antihypercholesterolemic
+Heart Attack/Coronary Infarct,Antihypertensive
+Heart Attack/Coronary Infarct,Antiinfarctal
+Heart Attack/Coronary Infarct,Antiischemic
+Heart Attack/Coronary Infarct,Antioxidant
+Heart Attack/Coronary Infarct,Antiplatelet
+Heart Attack/Coronary Infarct,Antistress
+Heart Attack/Coronary Infarct,Antistroke
+Heart Attack/Coronary Infarct,Antitachycardic
+Heart Attack/Coronary Infarct,Antithrombic
+Heart Attack/Coronary Infarct,Antithrombotic
+Heart Attack/Coronary Infarct,Arteriodilator
+Heart Attack/Coronary Infarct,Beta-Blocker
+Heart Attack/Coronary Infarct,Calcium-Blocker
+Heart Attack/Coronary Infarct,Calcium-Channel-Blocker
+Heart Attack/Coronary Infarct,Cardiodepressant
+Heart Attack/Coronary Infarct,Cardioprotective
+Heart Attack/Coronary Infarct,Cardiorelaxant
+Heart Attack/Coronary Infarct,Cardiosedative
+Heart Attack/Coronary Infarct,Cardiotonic
+Heart Attack/Coronary Infarct,Diuretic
+Heart Attack/Coronary Infarct,Hypocholesterolemic
+Heart Attack/Coronary Infarct,Hypotensive
+Heart Attack/Coronary Infarct,Myocardiodepressant
+Heart Attack/Coronary Infarct,Myocardiotonic
+Heart Attack/Coronary Infarct,Nervine
+Heart Attack/Coronary Infarct,Sedative
+Heart Attack/Coronary Infarct,Vasodilator
+Heart Attack/Coronary Infarct,Vasoprotective
+Heart Attack/Coronary Infarct,Vasorelaxant
+Heart Attack/Coronary Infarct,Vasotonic
+Heart Attack/Coronary Infarct,Venotonic
+Hemorrhoids,Analgesic
+Hemorrhoids,Anesthetic
+Hemorrhoids,Anticapillary-Fragility
+Hemorrhoids,Antidiuretic
+Hemorrhoids,Antiedemic
+Hemorrhoids,Antiinflammatory
+Hemorrhoids,Antinociceptive
+Hemorrhoids,Antiscorbutic
+Hemorrhoids,Aperient
+Hemorrhoids,Astringent
+Hemorrhoids,COX-2-Inhibitor
+Hemorrhoids,Cyclooxygenase-Inhibitor
+Hemorrhoids,Fibrinolysis
+Hemorrhoids,Fibrinolysis Enzyme Activator
+Hemorrhoids,Fibrinolysis Promoter
+Hemorrhoids,Fibrinolytic
+Hemorrhoids,Hepatoprotective
+Hemorrhoids,Hepatostimulant
+Hemorrhoids,High Fiber
+Hemorrhoids,Improve Capillary Fragility
+Hemorrhoids,Soluble Fiber-Rich
+Hemorrhoids,Venotonic
+Hepatoses/Liver,AntiEBV
+Hepatoses/Liver,AntiHSV-1
+Hepatoses/Liver,Anticholestatic
+Hepatoses/Liver,Anticirrhotic
+Hepatoses/Liver,Anticytomegalovirus
+Hepatoses/Liver,Anticytotoxic
+Hepatoses/Liver,Antidote (Acetaminophen)
+Hepatoses/Liver,Antidote (Aluminum)
+Hepatoses/Liver,Antidote (Amanita)
+Hepatoses/Liver,Antidote (Mushroom)
+Hepatoses/Liver,Antiedemic
+Hepatoses/Liver,Antiencephalopathic
+Hepatoses/Liver,Antiendotoxic
+Hepatoses/Liver,Antifibrotic
+Hepatoses/Liver,Antihepatitic
+Hepatoses/Liver,Antihepatocarcinogenic
+Hepatoses/Liver,Antihepatotic
+Hepatoses/Liver,Antihepatotoxic
+Hepatoses/Liver,Antiherpetic
+Hepatoses/Liver,Antiinflammatory
+Hepatoses/Liver,Antileukotriene
+Hepatoses/Liver,Antileukotrienogenic
+Hepatoses/Liver,Antilipolytic
+Hepatoses/Liver,Antilipoperoxidant
+Hepatoses/Liver,Antinecrotic
+Hepatoses/Liver,Antioxidant
+Hepatoses/Liver,Antioxidant Synergist
+Hepatoses/Liver,Antiperoxidant
+Hepatoses/Liver,Antiperoxidative
+Hepatoses/Liver,Antiprostaglandigenic
+Hepatoses/Liver,Antiprostaglandin
+Hepatoses/Liver,Antiradicular
+Hepatoses/Liver,Antiscorbutic
+Hepatoses/Liver,Antitriglyceride
+Hepatoses/Liver,Antivaricose
+Hepatoses/Liver,Antiviral
+Hepatoses/Liver,COX-2-Inhibitor
+Hepatoses/Liver,Cancer-Preventive
+Hepatoses/Liver,Cholagogue
+Hepatoses/Liver,Cholekinetic
+Hepatoses/Liver,Choleretic
+Hepatoses/Liver,Choline-Sparing
+Hepatoses/Liver,Cyclooxygenase-Inhibitor
+Hepatoses/Liver,Cytoprotective
+Hepatoses/Liver,Detoxicant
+Hepatoses/Liver,Free-Radical Scavenging
+Hepatoses/Liver,Glutathionergic
+Hepatoses/Liver,Glutathionigenic
+Hepatoses/Liver,Hepatoprotective
+Hepatoses/Liver,Hepatoregenerative
+Hepatoses/Liver,Hepatotonic
+Hepatoses/Liver,Hepatotropic
+Hepatoses/Liver,Immunostimulant
+Hepatoses/Liver,Interferon-Synergist
+Hepatoses/Liver,Interferonogenic
+Hepatoses/Liver,Lipotropic
+Hepatoses/Liver,Lipoxygenase-Inhibitor
+Hepatoses/Liver,Membranomodulator
+Hepatoses/Liver,Methyl-Donor
+Hepatoses/Liver,Phagocytotic
+Hepatoses/Liver,Previtamin-A
+Hepatoses/Liver,Proteinogenic
+Hepatoses/Liver,RES-Activator
+Hepatoses/Liver,Tocopherol-Synergist
+Hepatoses/Liver,Triglycerolytic
+Hepatoses/Liver,Vitamin-A-Activity
+Herpes,Analgesic
+Herpes,Anesthetic
+Herpes,Antiherpetic
+Herpes,Antinociceptive
+Herpes,Antiseptic
+Herpes,Antistress
+Herpes,Antiviral
+Herpes,Immunostimulant
+Herpes,Nervine
+Hiccups,Antiflatulent
+Hiccups,Antigas
+Hiccups,Antihiccup
+Hiccups,Antispasmodic
+Hiccups,Carminative
+Hiccups,Myorelaxant
+Hiccups,Spasmolytic
+High Blood Pressure/Hypertension,Antiaggregant
+High Blood Pressure/Hypertension,Anticardiac
+High Blood Pressure/Hypertension,Anticoagulant
+High Blood Pressure/Hypertension,Anticoronary
+High Blood Pressure/Hypertension,Antihypertensive
+High Blood Pressure/Hypertension,Antiinfarctal
+High Blood Pressure/Hypertension,Antioxidant
+High Blood Pressure/Hypertension,Antiplatelet
+High Blood Pressure/Hypertension,Antistress
+High Blood Pressure/Hypertension,Antistroke
+High Blood Pressure/Hypertension,Antithrombotic
+High Blood Pressure/Hypertension,Antithromboxane
+High Blood Pressure/Hypertension,Anxiolytic
+High Blood Pressure/Hypertension,Arteriodilator
+High Blood Pressure/Hypertension,Beta-Blocker
+High Blood Pressure/Hypertension,Calcium-Blocker
+High Blood Pressure/Hypertension,Calcium-Channel-Blocker
+High Blood Pressure/Hypertension,Cardiodepressant
+High Blood Pressure/Hypertension,Cardioprotective
+High Blood Pressure/Hypertension,Cardiorelaxant
+High Blood Pressure/Hypertension,Cardiosedative
+High Blood Pressure/Hypertension,Cardiotonic
+High Blood Pressure/Hypertension,Cerebrovasodilator
+High Blood Pressure/Hypertension,Decrease Thromboxane Activity/Production
+High Blood Pressure/Hypertension,Diuretic
+High Blood Pressure/Hypertension,EDRF-Promoter
+High Blood Pressure/Hypertension,Endothelium-Derived Relaxing Factor Promoter
+High Blood Pressure/Hypertension,Hypotensive
+High Blood Pressure/Hypertension,Increase Prostacyclin Activity/Production
+High Blood Pressure/Hypertension,Myocardiodepressant
+High Blood Pressure/Hypertension,Myocardiotonic
+High Blood Pressure/Hypertension,Nervine
+High Blood Pressure/Hypertension,Sedative
+High Blood Pressure/Hypertension,Vasodilator
+High Blood Pressure/Hypertension,Vasoprotective
+High Blood Pressure/Hypertension,Vasorelaxant
+High Blood Pressure/Hypertension,Vasotonic
+High Blood Pressure/Hypertension,Venotonic
+High Cholesterol/Hypercholesterolemia,Anti-LDL
+High Cholesterol/Hypercholesterolemia,Antiaggregant
+High Cholesterol/Hypercholesterolemia,Antiarteriosclerotic
+High Cholesterol/Hypercholesterolemia,Antiatherogenic
+High Cholesterol/Hypercholesterolemia,Antiatheromic
+High Cholesterol/Hypercholesterolemia,Antiatherosclerotic
+High Cholesterol/Hypercholesterolemia,Antiatherotic
+High Cholesterol/Hypercholesterolemia,Anticholestatic
+High Cholesterol/Hypercholesterolemia,Anticholesteremic
+High Cholesterol/Hypercholesterolemia,Anticirrhotic
+High Cholesterol/Hypercholesterolemia,Anticoagulant
+High Cholesterol/Hypercholesterolemia,Antidiabetic
+High Cholesterol/Hypercholesterolemia,Antihomocystinuric
+High Cholesterol/Hypercholesterolemia,Antihypercholesterolemic
+High Cholesterol/Hypercholesterolemia,Antihyperlipoproteinaemic
+High Cholesterol/Hypercholesterolemia,Antihyperlipoproteinemic
+High Cholesterol/Hypercholesterolemia,Antihypertensive
+High Cholesterol/Hypercholesterolemia,Antiischemic
+High Cholesterol/Hypercholesterolemia,Antilipogenic
+High Cholesterol/Hypercholesterolemia,Antilipoperoxidant
+High Cholesterol/Hypercholesterolemia,Antiobesity
+High Cholesterol/Hypercholesterolemia,Antioxidant
+High Cholesterol/Hypercholesterolemia,Antioxidant (LDL)
+High Cholesterol/Hypercholesterolemia,Antioxidant Synergist
+High Cholesterol/Hypercholesterolemia,Antiscorbutic
+High Cholesterol/Hypercholesterolemia,Biletropic
+High Cholesterol/Hypercholesterolemia,Cholagogue
+High Cholesterol/Hypercholesterolemia,Choleretic
+High Cholesterol/Hypercholesterolemia,Cholesterolytic
+High Cholesterol/Hypercholesterolemia,Diuretic
+High Cholesterol/Hypercholesterolemia,Fiber-Rich
+High Cholesterol/Hypercholesterolemia,Free-Radical Scavenging
+High Cholesterol/Hypercholesterolemia,HDL-genic
+High Cholesterol/Hypercholesterolemia,HMG-CoA-Inhibitor
+High Cholesterol/Hypercholesterolemia,Hepatoprotective
+High Cholesterol/Hypercholesterolemia,Hypocholesterolemic
+High Cholesterol/Hypercholesterolemia,Hypolipidemic
+High Cholesterol/Hypercholesterolemia,Hypotensive
+High Cholesterol/Hypercholesterolemia,Inhibit ACAT
+High Cholesterol/Hypercholesterolemia,Myocardiotonic
+High Cholesterol/Hypercholesterolemia,Nervine
+High Cholesterol/Hypercholesterolemia,Suppress HMG-CoA Reductase Activity
+High Cholesterol/Hypercholesterolemia,Thyrostimulant
+High Cholesterol/Hypercholesterolemia,Tocopherol-Synergist
+Hives,12-Lipoxygenase-Inhibitor
+Hives,Antiallergic
+Hives,Antidermatitic
+Hives,Antiedemic
+Hives,Antihistamine
+Hives,Antihistaminic
+Hives,Antiinflammatory
+Hives,Antioxidant
+Hives,Antiuriticaric
+Hives,COX-2-Inhibitor
+Hives,Cyclooxygenase-Inhibitor
+Hives,Demulcent (topical)
+Hives,Free-Radical Scavenging
+Hives,Inhibit 12-Lipoxygenase
+Hives,Inhibit AA Series Prostaglandin Synthesis
+Hives,Inhibit Cyclooxygenase
+Hives,Inhibit Cytokine Production
+Hives,Inhibit DTH
+Hives,Antiinterleukin-1
+Hives,Inhibit Lipoxygenase
+Hives,Inhibit Production of Tumor Necrosis Factor
+Hives,Inhibit Prostaglandin Synthase
+Hives,Lipoxygenase-Inhibitor
+Hives,Mast Cell Stabilizer
+Hot Flashes,Anticapillary-Fragility
+Hot Flashes,Antipyretic
+Hot Flashes,Improve Microcirculation
+Hot Flashes,Vasoconstrictor
+IBD,Analgesic
+IBD,Anesthetic
+IBD,AntiIBD
+IBD,Antiacid
+IBD,Antianxiety
+IBD,Antibacterial
+IBD,Anticapillary-Fragility
+IBD,Antidepressant
+IBD,Antidyspeptic
+IBD,Antiedemic
+IBD,Antiemetic
+IBD,Antiflatulent
+IBD,Antigastric
+IBD,Antigastritic
+IBD,Antigastrotic
+IBD,Antiinflammatory
+IBD,Antinauseant
+IBD,Antinociceptive
+IBD,Antioxidant
+IBD,Antipeptic
+IBD,Antiseptic
+IBD,Antispasmodic
+IBD,Antispasmogenic
+IBD,Antistress
+IBD,Antiulcer
+IBD,Antiulcerogenic
+IBD,Anxiolytic
+IBD,Bitter
+IBD,COX-2-Inhibitor
+IBD,Capillarifortificant
+IBD,Capillariprotective
+IBD,Carminative
+IBD,Circulatory-Stimulant
+IBD,Cyclooxygenase-Inhibitor
+IBD,Demulcent
+IBD,Digestive
+IBD,Diuretic
+IBD,Gastric-Anesthetic
+IBD,Gastroprotective
+IBD,Gastrosedative
+IBD,Gastrostimulant
+IBD,Lipoxygenase-Inhibitor
+IBD,Myorelaxant
+IBD,Natriuretic
+IBD,Nervine
+IBD,Proteolytic
+IBD,Saluretic
+IBD,Secretogogue
+IBD,Sedative
+IBD,Sialogogue
+IBD,Tranquilizer
+Impotence,Adaptogenic
+Impotence,Anabolic
+Impotence,Androgenic
+Impotence,Antiaggregant
+Impotence,Antiarteriosclerotic
+Impotence,Antiatherogenic
+Impotence,Antiatheromic
+Impotence,Antiatherosclerotic
+Impotence,Antiatherotic
+Impotence,Antiimpotence
+Impotence,Antiischemic
+Impotence,Aphrodisiac
+Impotence,Arginine-Generating
+Impotence,Arginine-Rich
+Impotence,CNS-Stimulant
+Impotence,Cantharic
+Impotence,Circulatory-Stimulant
+Impotence,Dopaminergic
+Impotence,Genital-Stimulant
+Impotence,Hypertensive
+Impotence,NO-Sparing
+Impotence,NO-Genic
+Impotence,Phosphodiesterase-Inhibitor
+Impotence,Priapistic
+Impotence,Testosterogenic
+Impotence,Testosterone-Inducer
+Impotence,Tyrosine-Hyroxylase-Activator
+Impotence,cGMP-Sparing
+Impotence,cGMP-genic
+Incontinence,5-Alpha-Reductase-Inhibitor
+Incontinence,Adaptogenic
+Incontinence,Adrenergic
+Incontinence,Adrenergic-Blocker
+Incontinence,Alpha-Reductase-Inhibitor
+Incontinence,Amphiestrogenic
+Incontinence,AntiBPH
+Incontinence,AntiUTI
+Incontinence,Antialzheimeran
+Incontinence,Antianxiety
+Incontinence,Antibacterial
+Incontinence,Anticandidosis
+Incontinence,Anticholinergic
+Incontinence,Anticystitic
+Incontinence,Antidementia
+Incontinence,Antidepressant
+Incontinence,Antidiuretic
+Incontinence,Antiedemic
+Incontinence,Antienuretic
+Incontinence,Antiglycosuric
+Incontinence,Antihistaminic
+Incontinence,Antihyperglycemic
+Incontinence,Antiincontinence
+Incontinence,Antiinflammatory
+Incontinence,Antineurogenic
+Incontinence,Antineuropathic
+Incontinence,Antisenility
+Incontinence,Antiseptic
+Incontinence,Antispasmodic
+Incontinence,Antispasmogenic
+Incontinence,Antispasmophilic
+Incontinence,Antispastic
+Incontinence,Antispermatorrheic
+Incontinence,Antistress
+Incontinence,Antiurethritic
+Incontinence,Antiurethrotic
+Incontinence,Antiyeast
+Incontinence,Anxiolytic
+Incontinence,Bacteristat
+Incontinence,Candidicide
+Incontinence,Candidistat
+Incontinence,Estrogen
+Incontinence,Estrogen-Agonist
+Incontinence,Estrogenic
+Incontinence,Fungicide
+Incontinence,Fungistat
+Incontinence,Hypocalcemic
+Incontinence,Litholytic
+Incontinence,Myotonic
+Incontinence,Nervine
+Incontinence,Phytoestrogenic
+Incontinence,Phytohormonal
+Incontinence,Phytohormone
+Incontinence,Tonic
+Incontinence,Urinary-Antiseptic
+Infarction,Antiaggregant
+Infarction,Antianginal
+Infarction,Antiarteriosclerotic
+Infarction,Antiatherogenic
+Infarction,Antiatheromic
+Infarction,Antiatherosclerotic
+Infarction,Antiatherotic
+Infarction,Anticardiac
+Infarction,Anticoagulant
+Infarction,Anticoronary
+Infarction,Antihypercholesterolemic
+Infarction,Antihypertensive
+Infarction,Antiinfarctal
+Infarction,Antiischemic
+Infarction,Antioxidant
+Infarction,Antiplatelet
+Infarction,Antistress
+Infarction,Antistroke
+Infarction,Antithrombic
+Infarction,Antithrombotic
+Infarction,Arteriodilator
+Infarction,Beta-Blocker
+Infarction,Calcium-Blocker
+Infarction,Calcium-Channel-Blocker
+Infarction,Cardioprotective
+Infarction,Cardiorelaxant
+Infarction,Cardiosedative
+Infarction,Cardiotonic
+Infarction,Cerebrovasodilator
+Infarction,Diuretic
+Infarction,Hypocholesterolemic
+Infarction,Hypotensive
+Infarction,Myocardiotonic
+Infarction,Sedative
+Infarction,Vasodilator
+Infarction,Vasoprotective
+Infarction,Vasorelaxant
+Infarction,Vasotonic
+Infarction,Venotonic
+Infection,Amebicide
+Infection,Analgesic
+Infection,Anesthetic
+Infection,Antibacterial
+Infection,Antibiotic
+Infection,Antiedemic
+Infection,Antiinflammatory
+Infection,Antilymphedemic
+Infection,Antinociceptive
+Infection,Antiseptic
+Infection,Antiviral
+Infection,Antiyeast
+Infection,Astringent
+Infection,Bacteristat
+Infection,COX-2-Inhibitor
+Infection,Circulatory-Stimulant
+Infection,Cyclooxygenase-Inhibitor
+Infection,Fungicide
+Infection,Fungistat
+Infection,Immunostimulant
+Infection,Lipoxygenase-Inhibitor
+Infection,Lymphatic
+Infection,MDR-Inhibitor
+Inflammation,Analgesic
+Inflammation,Anesthetic
+Inflammation,Anticapillary-Fragility
+Inflammation,Antiedemic
+Inflammation,Antiinflammatory
+Inflammation,Antilymphedemic
+Inflammation,Antinociceptive
+Inflammation,COX-2-Inhibitor
+Inflammation,Capillarifortificant
+Inflammation,Capillariprotective
+Inflammation,Circulatory-Stimulant
+Inflammation,Cyclooxygenase-Inhibitor
+Inflammation,Diuretic
+Inflammation,Lipoxygenase-Inhibitor
+Inflammation,Lymphatic
+Inflammation,Natriuretic
+Inflammation,Saluretic
+Insect Bites / Stings,Analgesic
+Insect Bites / Stings,Anesthetic
+Insect Bites / Stings,Antiallergic
+Insect Bites / Stings,Antidermatitic
+Insect Bites / Stings,Antihistamine
+Insect Bites / Stings,Antihistaminic
+Insect Bites / Stings,Antiinflammatory
+Insect Bites / Stings,Antiitching
+Insect Bites / Stings,Antinociceptive
+Insect Bites / Stings,Astringent
+Insect Bites / Stings,COX-2-Inhibitor
+Insect Bites / Stings,Cyclooxygenase-Inhibitor
+Insomnia,Analgesic
+Insomnia,Anesthetic
+Insomnia,Antiinsomniac
+Insomnia,Antinociceptive
+Insomnia,Antistress
+Insomnia,Anxiolytic
+Insomnia,CNS-Depressant
+Insomnia,Myorelaxant
+Insomnia,Narcotic
+Insomnia,Sedative
+Insomnia,Tranquilizer
+Intermittent Claudication,AntiPAF
+Intermittent Claudication,Antiaggregant
+Intermittent Claudication,Antiarteriosclerotic
+Intermittent Claudication,Antiatherogenic
+Intermittent Claudication,Antiatheromic
+Intermittent Claudication,Antiatherosclerotic
+Intermittent Claudication,Antiatherotic
+Intermittent Claudication,Anticapillarihemorrhagic
+Intermittent Claudication,Anticapillary-Fragility
+Intermittent Claudication,Anticoagulant
+Intermittent Claudication,Antiedemic
+Intermittent Claudication,Antihypercholesterolemic
+Intermittent Claudication,Antiinflammatory
+Intermittent Claudication,Antiischemic
+Intermittent Claudication,Antioxidant
+Intermittent Claudication,Antiplatelet
+Intermittent Claudication,Antiscorbutic
+Intermittent Claudication,Antithrombic
+Intermittent Claudication,Antithrombotic
+Intermittent Claudication,Antithromboxane
+Intermittent Claudication,Antivaricose
+Intermittent Claudication,Arteriodilator
+Intermittent Claudication,Blood-Thinning
+Intermittent Claudication,COX-2-Inhibitor
+Intermittent Claudication,Capillarifortificant
+Intermittent Claudication,Capillariprotective
+Intermittent Claudication,Capillaritonic
+Intermittent Claudication,Circulatory-Stimulant
+Intermittent Claudication,Cyclooxygenase-Inhibitor
+Intermittent Claudication,Decrease Endothilial Leukocyte Adhesion
+Intermittent Claudication,Decrease Endothilial Platelet Adhesion
+Intermittent Claudication,Decrease Thromboxane Activity/Production
+Intermittent Claudication,Diuretic
+Intermittent Claudication,EDRF-Promoter
+Intermittent Claudication,Endothelium-Derived Relaxing Factor Promoter
+Intermittent Claudication,Fibrinolysis Enzyme Activator
+Intermittent Claudication,Fibrinolysis Promoter
+Intermittent Claudication,Fibrinolytic
+Intermittent Claudication,Glycosaminoglycan-Sparing
+Intermittent Claudication,Hypocholesterolemic
+Intermittent Claudication,Increase Prostacyclin Activity/Production
+Intermittent Claudication,Inhibit Destruction of Glycosaminoglycans
+Intermittent Claudication,PAF-Inhibitor
+Intermittent Claudication,Plasminogen-Activating
+Intermittent Claudication,Stimulant
+Intermittent Claudication,Vasodilator
+Intermittent Claudication,Vasoprotective
+Intermittent Claudication,Vasotonic
+Intermittent Claudication,Venotonic
+Intestinal Parasites,Amebicide
+Intestinal Parasites,Anthelmintic
+Intestinal Parasites,Antibacterial
+Intestinal Parasites,Antibiotic
+Intestinal Parasites,Anticandidosis
+Intestinal Parasites,Antidiarrheic
+Intestinal Parasites,Antifungal
+Intestinal Parasites,Antiparasitic
+Intestinal Parasites,Antiseptic
+Intestinal Parasites,Antispasmodic
+Intestinal Parasites,Candidicide
+Intestinal Parasites,Candidistat
+Intestinal Parasites,Carminative
+Intestinal Parasites,Demulcent
+Intestinal Parasites,Protisticide
+Intestinal Parasites,Purgative
+Intestinal Parasites,Spasmolytic
+Intestinal Parasites,Vermifuge
+Ischemia,Antiaggregant
+Ischemia,Antianginal
+Ischemia,Antiarteriosclerotic
+Ischemia,Antiatherogenic
+Ischemia,Antiatheromic
+Ischemia,Antiatherosclerotic
+Ischemia,Antiatherotic
+Ischemia,Anticardiac
+Ischemia,Anticoagulant
+Ischemia,Anticoronary
+Ischemia,Antiedemic
+Ischemia,Antihypercholesterolemic
+Ischemia,Antihypertensive
+Ischemia,Antiinfarctal
+Ischemia,Antiischemic
+Ischemia,Antioxidant
+Ischemia,Antiplatelet
+Ischemia,Antistress
+Ischemia,Antistroke
+Ischemia,Antithrombic
+Ischemia,Antithrombotic
+Ischemia,Arteriodilator
+Ischemia,Beta-Blocker
+Ischemia,Calcium-Blocker
+Ischemia,Calcium-Channel-Blocker
+Ischemia,Capillarifortificant
+Ischemia,Capillariprotective
+Ischemia,Capillaritonic
+Ischemia,Cardiotonic
+Ischemia,Cerebrovasodilator
+Ischemia,Diuretic
+Ischemia,Hypocholesterolemic
+Ischemia,Hypotensive
+Ischemia,Myocardiotonic
+Ischemia,Sedative
+Ischemia,Vasodilator
+Ischemia,Vasoprotective
+Ischemia,Vasorelaxant
+Ischemia,Vasotonic
+Ischemia,Venotonic
+Itch,Analgesic
+Itch,Anesthetic
+Itch,Antiallergic
+Itch,Antidermatitic
+Itch,Antihistaminic
+Itch,Antiinflammatory
+Itch,Antiitch
+Itch,Antinociceptive
+Itch,Antiprostaglandin
+Itch,Antipruritic
+Itch,Astringent
+Itch,COX-2-Inhibitor
+Itch,Cyclooxygenase-Inhibitor
+Itch,Lipoxygenase-Inhibitor
+Itch,Prostaglandin-Inhibitor
+Jaundice,Amphicholeretic
+Jaundice,Anticholecystosic
+Jaundice,Anticholeretic
+Jaundice,Anticirrhotic
+Jaundice,Antihepatitic
+Jaundice,Antihepatotic
+Jaundice,Antihepatotoxic
+Jaundice,Antiinflammatory
+Jaundice,Antiviral
+Jaundice,Bilirubinolytic
+Jaundice,Cholagogue
+Jaundice,Choleretic
+Jaundice,Hepatoprotective
+Jaundice,Hepatotonic
+Jaundice,Litholytic
+Jaundice,Viristat
+Kidney Stones,12-Lipoxygenase-Inhibitor
+Kidney Stones,Analgesic
+Kidney Stones,Anesthetic
+Kidney Stones,Antibiotic
+Kidney Stones,Antiinflammatory
+Kidney Stones,Antinociceptive
+Kidney Stones,Antioxalate
+Kidney Stones,Antiseptic
+Kidney Stones,Antistress
+Kidney Stones,Astringent
+Kidney Stones,COX-2-Inhibitor
+Kidney Stones,Calcium Provider
+Kidney Stones,Cyclooxygenase-Inhibitor
+Kidney Stones,Hydrating
+Kidney Stones,Immunostimulant
+Kidney Stones,Antiinterleukin-1
+Kidney Stones,Lipoxygenase-Inhibitor
+Kidney Stones,Prostaglandin Synthase-Inhibitor
+Kidney Stones,TNF-Inhibitor
+Kidney Stones,Tumor Necrosis Factor-Inhibitor
+Low Blood Pressure/Hypotension,Antiaggregant
+Low Blood Pressure/Hypotension,Antiarrhythmic
+Low Blood Pressure/Hypotension,Antiarteriosclerotic
+Low Blood Pressure/Hypotension,Antiatherogenic
+Low Blood Pressure/Hypotension,Antiatheromic
+Low Blood Pressure/Hypotension,Antiatherosclerotic
+Low Blood Pressure/Hypotension,Antiatherotic
+Low Blood Pressure/Hypotension,Anticardiac
+Low Blood Pressure/Hypotension,Anticardiospasmic
+Low Blood Pressure/Hypotension,Anticoagulant
+Low Blood Pressure/Hypotension,Anticoronary
+Low Blood Pressure/Hypotension,Antihypercholesterolemic
+Low Blood Pressure/Hypotension,Antihypotensive
+Low Blood Pressure/Hypotension,Antiischemic
+Low Blood Pressure/Hypotension,Antioxidant
+Low Blood Pressure/Hypotension,Antistress
+Low Blood Pressure/Hypotension,Antitachycardic
+Low Blood Pressure/Hypotension,Arteriotensive
+Low Blood Pressure/Hypotension,Cardioactive
+Low Blood Pressure/Hypotension,Cardiocontractant
+Low Blood Pressure/Hypotension,Cardiomyostimulant
+Low Blood Pressure/Hypotension,Cardioprotective
+Low Blood Pressure/Hypotension,Cardiotonic
+Low Blood Pressure/Hypotension,Diuretic
+Low Blood Pressure/Hypotension,Hypertensive
+Low Blood Pressure/Hypotension,Hypocholesterolemic
+Low Blood Pressure/Hypotension,Myocardiocontractant
+Low Blood Pressure/Hypotension,Myocardiostimulant
+Low Blood Pressure/Hypotension,Myocardiotonic
+Low Blood Pressure/Hypotension,Vasoactive
+Low Blood Pressure/Hypotension,Vasocompressor
+Low Blood Pressure/Hypotension,Vasoconstrictor
+Low Blood Pressure/Hypotension,Vasomotor-Stimulant
+Low Blood Pressure/Hypotension,Vasopressor
+Low Blood Pressure/Hypotension,Vasoprotective
+Low Blood Pressure/Hypotension,Vasotonic
+Low Blood Pressure/Hypotension,Venotonic
+Lyme Disease (Chronic),Analgesic
+Lyme Disease (Chronic),Anesthetic
+Lyme Disease (Chronic),AntiCIC
+Lyme Disease (Chronic),AntiLyme
+Lyme Disease (Chronic),Antiarthritic
+Lyme Disease (Chronic),Antibacterial
+Lyme Disease (Chronic),Anticollagenase
+Lyme Disease (Chronic),Antiinflammatory
+Lyme Disease (Chronic),Antinociceptive
+Lyme Disease (Chronic),Antiseptic
+Lyme Disease (Chronic),Antistress
+Lyme Disease (Chronic),COX-2-Inhibitor
+Lyme Disease (Chronic),Circulatory-Stimulant
+Lyme Disease (Chronic),Collagen-Sparing
+Lyme Disease (Chronic),Cyclooxygenase-Inhibitor
+Lyme Disease (Chronic),Immunostimulant
+Lyme Disease (Chronic),MDR-Inhibitor
+Lyme Disease (Chronic),Neuroprotective
+Lyme Disease (Chronic),Proteolytic
+Lyme Disease (Chronic),Spirocheticide
+Lyme Disease (Initial),Analgesic
+Lyme Disease (Initial),Anesthetic
+Lyme Disease (Initial),AntiCIC
+Lyme Disease (Initial),AntiLyme
+Lyme Disease (Initial),Antiarthritic
+Lyme Disease (Initial),Antibacterial
+Lyme Disease (Initial),Anticollagenase
+Lyme Disease (Initial),Antiinflammatory
+Lyme Disease (Initial),Antinociceptive
+Lyme Disease (Initial),Antipyretic
+Lyme Disease (Initial),Antiseptic
+Lyme Disease (Initial),Antistress
+Lyme Disease (Initial),COX-2-Inhibitor
+Lyme Disease (Initial),Collagen-Sparing
+Lyme Disease (Initial),Cyclooxygenase-Inhibitor
+Lyme Disease (Initial),Immunostimulant
+Lyme Disease (Initial),MDR-Inhibitor
+Lyme Disease (Initial),Neuroprotective
+Lyme Disease (Initial),Proteolytic
+Lyme Disease (Initial),Pyrogenic
+Lyme Disease (Initial),Spirocheticide
+Macular Degeneration,Aggregant
+Macular Degeneration,Aldose-Reductase-Inhibitor
+Macular Degeneration,Anthocyanidin-Rich
+Macular Degeneration,AntiARMD
+Macular Degeneration,Antiangiogenic
+Macular Degeneration,Anticapillary-Fragility
+Macular Degeneration,Anticataract
+Macular Degeneration,Antidyspeptic
+Macular Degeneration,Antigastritic
+Macular Degeneration,Antiinflammatory
+Macular Degeneration,Antimaculitic
+Macular Degeneration,Antiophthalmic
+Macular Degeneration,Antioxidant
+Macular Degeneration,Antiradicular
+Macular Degeneration,Antiretinopathic
+Macular Degeneration,Antiretinotic
+Macular Degeneration,Antiscorbutic
+Macular Degeneration,COX-2-Inhibitor
+Macular Degeneration,Carotenoid-Provider
+Macular Degeneration,Circulatory-Stimulant
+Macular Degeneration,Collagen-Sparing
+Macular Degeneration,Cyclooxygenase-Inhibitor
+Macular Degeneration,Digestive
+Macular Degeneration,Free-Radical Scavenging
+Macular Degeneration,Glutathionigenic
+Macular Degeneration,Hemostat
+Macular Degeneration,Improve Capillary Fragility
+Macular Degeneration,Improve Microcirculation
+Macular Degeneration,Increase Alpha-Mannosidase Activity
+Macular Degeneration,Increase Catalase Activity
+Macular Degeneration,Increase Circulation
+Macular Degeneration,Increase Superoxide Dismutase Activity
+Macular Degeneration,Proteolytic
+Maculitis,Aggregant
+Maculitis,Aldose-Reductase-Inhibitor
+Maculitis,Anthocyanidin-Rich
+Maculitis,Anthocyanoside-Rich
+Maculitis,AntiARMD
+Maculitis,Antiangiogenic
+Maculitis,Anticapillary-Fragility
+Maculitis,Anticataract
+Maculitis,Antidyspeptic
+Maculitis,Antigastritic
+Maculitis,Antiinflammatory
+Maculitis,Antimaculitic
+Maculitis,Antiophthalmic
+Maculitis,Antioxidant
+Maculitis,Antiradicular
+Maculitis,Antiretinopathic
+Maculitis,Antiretinotic
+Maculitis,Antiscorbutic
+Maculitis,COX-2-Inhibitor
+Maculitis,Carotenoid-Provider
+Maculitis,Carotenoid-Rich
+Maculitis,Circulatory-Stimulant
+Maculitis,Collagen-Sparing
+Maculitis,Cyclooxygenase-Inhibitor
+Maculitis,Digestive
+Maculitis,Free-Radical Scavenging
+Maculitis,Glutathionigenic
+Maculitis,Hemostat
+Maculitis,Improve Capillary Fragility
+Maculitis,Improve Microcirculation
+Maculitis,Increase Alpha-Mannosidase Activity
+Maculitis,Increase Catalase Activity
+Maculitis,Increase Circulation
+Maculitis,Increase Superoxide Dismutase Activity
+Maculitis,Proteolytic
+Malaria,Amebicide
+Malaria,Antibacterial
+Malaria,Antihepatotoxic
+Malaria,Antiinflammatory
+Malaria,Antimalarial
+Malaria,Antiparasitic
+Malaria,Antiplasmodial
+Malaria,Antipyretic
+Malaria,Antiseptic
+Malaria,Antistress
+Malaria,Antitrypanosomic
+Malaria,Antiviral
+Malaria,COX-2-Inhibitor
+Malaria,Cyclooxygenase-Inhibitor
+Malaria,Hepatoprotective
+Malaria,Immunostimulant
+Malaria,Larvicide
+Malaria,MDR-Inhibitor
+Malaria,Nervine
+Malaria,Parasiticide
+Malaria,Protisticide
+Malaria,Trypanosomastat
+Mastitis,Antibiotic
+Mastitis,Antidermatitic
+Mastitis,Antiinflammatory
+Mastitis,Antiseptic
+Mastitis,Bactericide
+Mastitis,COX-2-Inhibitor
+Mastitis,Cyclooxygenase-Inhibitor
+Mastitis,Demulcent (topical)
+Mastitis,Moisturizing
+Mastitis,Vulnerary
+Melanoma,Alpha-Reductase-Inhibitor
+Melanoma,Antiadenomic
+Melanoma,Antiangiogenic
+Melanoma,Anticancer
+Melanoma,Anticancer (Skin)
+Melanoma,Anticarcinogenic
+Melanoma,Anticarcinomic
+Melanoma,Antiedemic
+Melanoma,Antiinflammatory
+Melanoma,Antileukemic
+Melanoma,Antilymphomic
+Melanoma,Antilymphosarcomic
+Melanoma,Antimelanomic
+Melanoma,Antimetastatic
+Melanoma,Antimutagenic
+Melanoma,Antinitrosaminic
+Melanoma,Antioxidant
+Melanoma,Antiperoxidant
+Melanoma,Antistress
+Melanoma,Antitopoisomerase-II
+Melanoma,Antitumor
+Melanoma,Antitumor (Skin)
+Melanoma,Antitumor-Initiator
+Melanoma,Antitumor-Promoter
+Melanoma,Antiviral
+Melanoma,Apoptotic
+Melanoma,COX-2-Inhibitor
+Melanoma,Cancer-Preventive
+Melanoma,Cancerostatic
+Melanoma,Carcinostatic
+Melanoma,Chemopreventive
+Melanoma,Cyclooxygenase-Inhibitor
+Melanoma,Immunostimulant
+Melanoma,Lipoxygenase-Inhibitor
+Melanoma,Lymphagogue
+Melanoma,Lymphocytogenic
+Melanoma,Lymphogenic
+Melanoma,Nervine
+Melanoma,Protease-Inhibitor
+Melanoma,Topoisomerase-II-Inhibitor
+Melanoma,Topoisomerase-II-Poison
+Melanoma,Topoisomerase-Inhibitor
+Melanoma,Tyrosine-Kinase-Inhibitor
+Menopause,Adaptogenic
+Menopause,Amphiestrogenic
+Menopause,AntiHot-Flash
+Menopause,Antiaging
+Menopause,Antianxiety
+Menopause,Anticlimacteric
+Menopause,Antidepressant
+Menopause,Antifatigue
+Menopause,Antihypogonadic
+Menopause,Antiinsomniac
+Menopause,Antiinsomnic
+Menopause,Antimenopausal
+Menopause,Antioxidant
+Menopause,Antioxidant Synergist
+Menopause,Antistress
+Menopause,Antistressor
+Menopause,Anxiolytic
+Menopause,Aphrodisiac
+Menopause,Capillarifortificant
+Menopause,Capillariprotective
+Menopause,Capillaritonic
+Menopause,Cerebrotonic
+Menopause,Circulatory-Stimulant
+Menopause,Endocrinprotective
+Menopause,Endorphinogenic
+Menopause,Endrocrin-Tonic
+Menopause,Energizer
+Menopause,Estrogen
+Menopause,Estrogen-Agonist
+Menopause,Estrogenic
+Menopause,Free-Radical Scavenging
+Menopause,Hepatotonic
+Menopause,Homeostatic
+Menopause,Hormonal
+Menopause,Hormone
+Menopause,Hormone Balancing
+Menopause,Memory-Enhancer
+Menopause,Osteogenic
+Menopause,Phytoestrogenic
+Menopause,Phytohormonal
+Menopause,Phytohormone
+Menopause,Pituitary-sensitizer
+Menopause,Progesteronigenic
+Menopause,Progestrogenic
+Menopause,Stimulant
+Menopause,Tocopherol-Synergist
+Menopause,Tonic
+Menopause,Uterotonic
+Menopause,Vasculoprotective
+Menopause,Vasoprotective
+Migraine,5-HT-Inhibitor
+Migraine,Analgesic
+Migraine,Anesthetic
+Migraine,Anti-5-HT
+Migraine,Anticephalgic
+Migraine,Antiinflammatory
+Migraine,Antimigraine
+Migraine,Antimyalgic
+Migraine,Antineuralgic
+Migraine,Antinociceptive
+Migraine,Antispasmodic
+Migraine,Arteriodilator
+Migraine,COX-2-Inhibitor
+Migraine,Counterirritant
+Migraine,Cyclooxygenase-Inhibitor
+Migraine,Myorelaxant
+Migraine,Sedative
+Migraine,Spasmolytic
+Migraine,Tranquilizer
+Migraine,Vasodilator
+Motion Sickness,Analgesic
+Motion Sickness,Anesthetic
+Motion Sickness,Antiemetic
+Motion Sickness,Antinauseant
+Motion Sickness,Antinociceptive
+Motion Sickness,Carminative
+Motion Sickness,Narcotic
+Motion Sickness,Nervine
+Motion Sickness,Sedative
+Motion Sickness,Tonic
+Motion Sickness,Tranquilizer
+Multiple Sclerosis,Analgesic
+Multiple Sclerosis,Analgesic-Synergist
+Multiple Sclerosis,Anesthetic
+Multiple Sclerosis,AntiCIC
+Multiple Sclerosis,AntiMS
+Multiple Sclerosis,Antianorexic
+Multiple Sclerosis,Antiapoptotic
+Multiple Sclerosis,Antiarthritic
+Multiple Sclerosis,Antiedemic
+Multiple Sclerosis,Antifatigue
+Multiple Sclerosis,Antiherpetic
+Multiple Sclerosis,Antiinflammatory
+Multiple Sclerosis,Antimyelomic
+Multiple Sclerosis,Antimyelotoxic
+Multiple Sclerosis,Antineuralgic
+Multiple Sclerosis,Antineuritic
+Multiple Sclerosis,Antinociceptive
+Multiple Sclerosis,Antioxidant
+Multiple Sclerosis,Antiperoxidant
+Multiple Sclerosis,Antirheumatic
+Multiple Sclerosis,Antispasmodic
+Multiple Sclerosis,Antispasmogenic
+Multiple Sclerosis,Antispastic
+Multiple Sclerosis,Antistress
+Multiple Sclerosis,Antiviral
+Multiple Sclerosis,Anxiolytic
+Multiple Sclerosis,Apertif
+Multiple Sclerosis,COX-2-Inhibitor
+Multiple Sclerosis,Cyclooxygenase-Inhibitor
+Multiple Sclerosis,Detoxicant
+Multiple Sclerosis,Gastrostimulant
+Multiple Sclerosis,Glutathionigenic
+Multiple Sclerosis,Immunosuppressant
+Multiple Sclerosis,Myelinogenic
+Multiple Sclerosis,Myorelaxant
+Multiple Sclerosis,Nervine
+Multiple Sclerosis,Neurogenic
+Multiple Sclerosis,Neuroprotective
+Multiple Sclerosis,Proteolytic
+Multiple Sclerosis,Tonic
+Nausea,Analgesic
+Nausea,Anesthetic
+Nausea,Antiemetic
+Nausea,Antinauseant
+Nausea,Antinociceptive
+Nausea,Carminative
+Nausea,Narcotic
+Nausea,Nervine
+Nausea,Sedative
+Nausea,Tonic
+Nausea,Tranquilizer
+Obesity,Adaptogenic
+Obesity,Anorectic
+Obesity,Anorexiac
+Obesity,Antianxiety
+Obesity,Antiappertif
+Obesity,Antidepressant
+Obesity,Antiedemic
+Obesity,Antifeedant
+Obesity,Antihypercholesterolemic
+Obesity,Antihyperglycemic
+Obesity,Antihyperlipidemic
+Obesity,Antiobesity
+Obesity,Antiorexigenic
+Obesity,Antitriglycerides
+Obesity,Appetite-Suppressant
+Obesity,CNS-Stimulant
+Obesity,Catabolic
+Obesity,Fat-Burning
+Obesity,Fiber-Rich
+Obesity,Hypocholesterolemic
+Obesity,Hypoglycemic
+Obesity,Hypolipidemic
+Obesity,Hypotriacylglycerolemic
+Obesity,Inhibit Acetyl Coenzyme A
+Obesity,Inhibit Citrate Lyase
+Obesity,Inhibit Malonyl Coenzyme A
+Obesity,Lipolytic
+Obesity,Phosphodiesterase-Inhibitor
+Obesity,SSRI
+Obesity,Serotonergic
+Obesity,Serotoninergic
+Obesity,Stimulant
+Obesity,Stimulate Epinephrine Production
+Obesity,Stimulate Norepinephrine Production
+Obesity,Stimulate Sympathetic Nervous System
+Obesity,Thermogenic
+Obesity,Tonic
+Ophthalmia,Aggregant
+Ophthalmia,Aldose-Reductase-Inhibitor
+Ophthalmia,Anthocyanodin
+Ophthalmia,Anthocyanoside-Rich
+Ophthalmia,Antiangiogenic
+Ophthalmia,Anticapillary-Fragility
+Ophthalmia,Anticataract
+Ophthalmia,Anticonjunctivitic
+Ophthalmia,Antimaculitic
+Ophthalmia,Antinyctalopic
+Ophthalmia,Antiophthalmic
+Ophthalmia,Antioxidant
+Ophthalmia,Antiretenitic
+Ophthalmia,Antiretinopathic
+Ophthalmia,Antiscorbutic
+Ophthalmia,Carotenoid-Rich
+Ophthalmia,Collagen-Sparing
+Ophthalmia,Hemostat
+Osteoporosis,Antiosteoporotic
+Osteoporosis,C-Teleopeptide-Inhibitor
+Osteoporosis,Calcium-Sparing
+Osteoporosis,Decrease C-Teleopeptide Excretion
+Osteoporosis,Decrease Deoxypyridinoline Excretion
+Osteoporosis,Deoxypyridinoline-Inhibitor
+Osteoporosis,Estrogenic
+Osteoporosis,Hormone-Balancing
+Osteoporosis,Increase Alkaline Phosphatase
+Osteoporosis,Increase Boron Bioavailability
+Osteoporosis,Increase Calcium Bioavailability
+Osteoporosis,Increase DHEAS
+Osteoporosis,Increase Magnesium Bioavailability
+Osteoporosis,Increase Manganese Bioavailability
+Osteoporosis,Increase Osteocalcin
+Osteoporosis,Increase Silicon Bioavailability
+Osteoporosis,Increase Vit D Bioavailability
+Osteoporosis,Increase Vit K Bioavailability
+Osteoporosis,Increase Zinc Bioavailibility
+Osteoporosis,Osteoblast Stimulant
+Osteoporosis,Osteoclast Suppressant
+Osteoporosis,Osteolcalcin Stimulant
+Osteoporosis,Phytoestrogenic
+Osteoporosis,Provide Boron
+Osteoporosis,Provide Calcium
+Osteoporosis,Provide Magnesium
+Osteoporosis,Provide Manganese
+Osteoporosis,Provide Silicon
+Osteoporosis,Provide Vit D
+Osteoporosis,Provide Vit K
+Osteoporosis,Provide Zinc
+Osteoporosis,Stimulate Osteoblast Activity
+Osteoporosis,Suppress Osteoclast Activity
+Otitis/Earache,Analgesic
+Otitis/Earache,Anesthetic
+Otitis/Earache,Antiallergenic
+Otitis/Earache,Antiallergic
+Otitis/Earache,Antibacterial
+Otitis/Earache,Antibiotic
+Otitis/Earache,Antihistaminic
+Otitis/Earache,Antiinflammatory
+Otitis/Earache,Antimicrobial
+Otitis/Earache,Antimycotic
+Otitis/Earache,Antinociceptive
+Otitis/Earache,Antiotalgic
+Otitis/Earache,Antiotitic
+Otitis/Earache,Antiototic
+Otitis/Earache,Antiseptic
+Otitis/Earache,Antiviral
+Otitis/Earache,Bactericide
+Otitis/Earache,Bacteristat
+Otitis/Earache,Decongestant
+Otitis/Earache,Demulcent
+Otitis/Earache,Fungicide
+Otitis/Earache,Fungistat
+Otitis/Earache,Hyaluronidase-Inhibitor
+Otitis/Earache,Immunostimulant
+Otitis/Earache,Viristat
+Pain,12-Lipoxygenase-Inhibitor
+Pain,Analgesic
+Pain,Anesthetic
+Pain,Antiinflammatory
+Pain,Antileukotriene
+Pain,Antinociceptive
+Pain,Antispasmodic
+Pain,CNS-Depressant
+Pain,COX-2-Inhibitor
+Pain,Cyclooxygenase-Inhibitor
+Pain,Free-Radical Scavenging
+Pain,Inhibit 12-Lipoxygenase
+Pain,Inhibit AA Series Prostaglandin Synthesis
+Pain,Inhibit Cyclooxygenase
+Pain,Antiinterleukin-1
+Pain,Inhibit Leukotriene Production
+Pain,Inhibit Lypoxygenase
+Pain,Inhibit Production of Tumor Necrosis Factor
+Pain,Inhibit Prostaglandin Synthase
+Pain,Lipoxygenase-Inhibitor
+Pain,Myorelaxant
+Pain,Narcotic
+Pain,Nervine
+Pain,Sedative
+Parkinsons Disease,Antiinflammatory
+Parkinsons Disease,Antioxidant
+Parkinsons Disease,Antiparkinsonian
+Parkinsons Disease,Antiperoxidant
+Parkinsons Disease,Antiscorbutic
+Parkinsons Disease,Antispasmodic
+Parkinsons Disease,Antistress
+Parkinsons Disease,COX-2-Inhibitor
+Parkinsons Disease,Cyclooxygenase-Inhibitor
+Parkinsons Disease,Cytochrome-P450-Inhibitor
+Parkinsons Disease,Decrease Glutamate Oxaloacetate Transaminase
+Parkinsons Disease,Decrease Glutamate Pyruvate Transaminase
+Parkinsons Disease,Detoxicant
+Parkinsons Disease,Dopaminergic
+Parkinsons Disease,Glutathionigenic
+Parkinsons Disease,Improve Cerebral Hypoxia
+Parkinsons Disease,Increase Aromatic Amino Acid Decarboxylase Activit
+Parkinsons Disease,Increase Glutathione
+Parkinsons Disease,Increase Glutathione-S-Transferase (GST) Activity
+Parkinsons Disease,Increase Tyrosine Hyroxylase Activity
+Parkinsons Disease,Inhibit Cytochrome P-450 Activity
+Parkinsons Disease,L-dopaminergic
+Parkinsons Disease,MAO-Inhibitor
+Parkinsons Disease,Myorelaxant
+Parkinsons Disease,Nervine
+Parkinsons Disease,Neuroprotective
+Parkinsons Disease,Nicotinic
+Parkinsons Disease,Sedative
+Parkinsons Disease,Spasmolytic
+Pneumonia,Antibacterial
+Pneumonia,Antibiotic
+Pneumonia,Antibronchitic
+Pneumonia,Antibronchoconstrictor
+Pneumonia,Anticandidosis
+Pneumonia,Antiinflammatory
+Pneumonia,Antioxidant
+Pneumonia,Antipharyngitic
+Pneumonia,Antipyretic
+Pneumonia,Antiseptic
+Pneumonia,Antispasmodic
+Pneumonia,Antistress
+Pneumonia,Antitussive
+Pneumonia,Antiviral
+Pneumonia,Bronchodilator
+Pneumonia,Bronchorelaxant
+Pneumonia,Bronchospasmolytic
+Pneumonia,Bronchotonic
+Pneumonia,COX-2-Inhibitor
+Pneumonia,Candidicide
+Pneumonia,Candidistat
+Pneumonia,Cyclooxygenase-Inhibitor
+Pneumonia,Decongestant
+Pneumonia,Expectorant
+Pneumonia,Febrifuge
+Pneumonia,Immunostimulant
+Pneumonia,Interferon-Inducer
+Pneumonia,Interferon-Stimulant
+Pneumonia,Interferon-Synergist
+Pneumonia,Interferonogenic
+Pneumonia,MDR-Inhibitor
+Pneumonia,Phagocytotic
+Pneumonia,Refrigerant
+Pneumonia,Viricide
+Pneumonia,Viristat
+Poison Ivy,Analgesic
+Poison Ivy,Anesthetic
+Poison Ivy,Antiallergic
+Poison Ivy,Antidermatitic
+Poison Ivy,Antiedemic
+Poison Ivy,Antihistamine
+Poison Ivy,Antihistaminic
+Poison Ivy,Antiinflammatory
+Poison Ivy,Antiitch
+Poison Ivy,Antiitching
+Poison Ivy,Antinociceptive
+Poison Ivy,Astringent
+Poison Ivy,COX-2-Inhibitor
+Poison Ivy,Cyclooxygenase-Inhibitor
+Poison Oak,Analgesic
+Poison Oak,Anesthetic
+Poison Oak,Antiallergic
+Poison Oak,Antidermatitic
+Poison Oak,Antiedemic
+Poison Oak,Antihistamine
+Poison Oak,Antihistaminic
+Poison Oak,Antiinflammatory
+Poison Oak,Antiitch
+Poison Oak,Antiitching
+Poison Oak,Antinociceptive
+Poison Oak,Astringent
+Poison Oak,COX-2-Inhibitor
+Poison Oak,Cyclooxygenase-Inhibitor
+Poison Sumac,Analgesic
+Poison Sumac,Anesthetic
+Poison Sumac,Antiallergic
+Poison Sumac,Antidermatitic
+Poison Sumac,Antiedemic
+Poison Sumac,Antihistamine
+Poison Sumac,Antihistaminic
+Poison Sumac,Antiinflammatory
+Poison Sumac,Antiitch
+Poison Sumac,Antiitching
+Poison Sumac,Antinociceptive
+Poison Sumac,Astringent
+Poison Sumac,COX-2-Inhibitor
+Poison Sumac,Cyclooxygenase-Inhibitor
+Premenstrual Syndrome/PMS,Analgesic
+Premenstrual Syndrome/PMS,Anesthetic
+Premenstrual Syndrome/PMS,AntiPMS
+Premenstrual Syndrome/PMS,Antianxiety
+Premenstrual Syndrome/PMS,Antidepressant
+Premenstrual Syndrome/PMS,Antidysmenorrheic
+Premenstrual Syndrome/PMS,Antimenorrhagic
+Premenstrual Syndrome/PMS,Antinociceptive
+Premenstrual Syndrome/PMS,Antiperiodic
+Premenstrual Syndrome/PMS,Antispasmodic
+Premenstrual Syndrome/PMS,Anxiolytic
+Premenstrual Syndrome/PMS,Diuretic
+Premenstrual Syndrome/PMS,Emmenagogue
+Premenstrual Syndrome/PMS,Myorelaxant
+Premenstrual Syndrome/PMS,Nervine
+Premenstrual Syndrome/PMS,Sedative
+Premenstrual Syndrome/PMS,Uterosedative
+Premenstrual Syndrome/PMS,Uterotonic
+Prostatitis,Alpha-Reductase-Inhibitor
+Prostatitis,Antiedemic
+Prostatitis,Antiinflammatory
+Prostatitis,Antiprostaglandin
+Prostatitis,Antiprostatitic
+Prostatitis,COX-2-Inhibitor
+Prostatitis,Cyclooxygenase-Inhibitor
+Psoriasis,12-Lipoxygenase-Inhibitor
+Psoriasis,Antiallergic
+Psoriasis,Antidermatitic
+Psoriasis,Antieczemic
+Psoriasis,Antiedemic
+Psoriasis,Antiinflammatory
+Psoriasis,Antikeratotic
+Psoriasis,Antileukotriene
+Psoriasis,Antioxidant
+Psoriasis,Antiperoxidant
+Psoriasis,Antiproliferative
+Psoriasis,Antiprostaglandin
+Psoriasis,Antipsoriac
+Psoriasis,Antiradicular
+Psoriasis,COX-2-Inhibitor
+Psoriasis,Cyclooxygenase-Inhibitor
+Psoriasis,Demulcent
+Psoriasis,Fiber-Rich
+Psoriasis,Free-Radical Scavenging
+Psoriasis,Hypotriacylglycerolemic
+Psoriasis,Immunosuppressant
+Psoriasis,Inhibit AA Series Prostaglandin Synthesis
+Psoriasis,Inhibit Production of Tumor Necrosis Factor
+Psoriasis,Inhibit Prostaglandin Synthase
+Psoriasis,Antiinterleukin-1
+Psoriasis,Lipoxygenase-Inhibitor
+Psoriasis,Mast-Cell-Stabilizer
+Psoriasis,Proteolytic
+Psoriasis,cGMP-Inhibitor
+Raynauds Disease,12-Lipoxygenase-Inhibitor
+Raynauds Disease,Analgesic
+Raynauds Disease,Anesthetic
+Raynauds Disease,Antinociceptive
+Raynauds Disease,Counterirritant
+Raynauds Disease,Cyclooxygenase-Inhibitor
+Raynauds Disease,EDRF Promoter
+Raynauds Disease,Endothelium-Derived Relaxing Factor Promoter
+Raynauds Disease,Increase Prostacyclin Activity
+Raynauds Disease,Inhibit 12-Lipoxygenase
+Raynauds Disease,Inhibit AA Series Prostaglandin Synthesis
+Raynauds Disease,Inhibit Cyclooxygenase
+Raynauds Disease,Inhibit Lipoxygenase
+Raynauds Disease,Inhibit Prostaglandin Synthase
+Raynauds Disease,Lipoxygenase-Inhibitor
+Raynauds Disease,Venotonic
+Rheumatism,12-Lipoxygenase-Inhibitor
+Rheumatism,Analgesic
+Rheumatism,Anesthetic
+Rheumatism,Antiarthritic
+Rheumatism,Antidermatitic
+Rheumatism,Antiedemic
+Rheumatism,Antiinflammatory
+Rheumatism,Antinociceptive
+Rheumatism,Antiosteoarthritic
+Rheumatism,Antiosteotic
+Rheumatism,Antiprostaglandin
+Rheumatism,Antirheumatalgic
+Rheumatism,Antirheumatic
+Rheumatism,Antispasmodic
+Rheumatism,COX-2-Inhibitor
+Rheumatism,Collagenase-Inhibitor
+Rheumatism,Controls Substance P
+Rheumatism,Counterirritant
+Rheumatism,Cyclooxygenase-Inhibitor
+Rheumatism,Elastase-Inhibitor
+Rheumatism,Inhibit 12-Lipoxygenase
+Rheumatism,Inhibit Collagenase
+Rheumatism,Inhibit Elastase
+Rheumatism,Antiinterleukin-1
+Rheumatism,Inhibit Lypoxygenase
+Rheumatism,Inhibit Production of Tumor Necrosis Factor
+Rheumatism,Inhibit Prostaglandin Synthesis
+Rheumatism,Lipoxygenase-Inhibitor
+Rheumatism,Myorelaxant
+Rheumatism,Nervine
+Rheumatism,Prostaglandin Synthesis-Inhibitor
+Rheumatism,Prostaglandin-Inhibitor
+Rheumatism,Proteolytic
+Rheumatism,Spasmolytic
+Rheumatism,TNF-Inhibitor
+Rheumatism,Tumor Necrosis Factor-Inhibitor
+Sepsis,Amebicide
+Sepsis,Antibacterial
+Sepsis,Antibiotic
+Sepsis,Anticandidosis
+Sepsis,Antiinflammatory
+Sepsis,Antiseptic
+Sepsis,Antiviral
+Sepsis,COX-2-Inhibitor
+Sepsis,Candidicide
+Sepsis,Candidistat
+Sepsis,Cyclooxygenase-Inhibitor
+Sepsis,Fungicide
+Sepsis,MDR-Inhibitor
+Sepsis,Protisticide
+Snakebite,Antibradykinin
+Snakebite,Antidote
+Snakebite,Antiedemic
+Snakebite,Antiinflammatory
+Snakebite,Antiophidic
+Snakebite,Antiprotease
+Snakebite,Antisnakebite
+Snakebite,Antitoxin
+Snakebite,Antivenom
+Snakebite,COX-2-Inhibitor
+Snakebite,Circulatory-Depressant
+Snakebite,Cyclooxygenase-Inhibitor
+Snakebite,Protease-Inhibitor
+Snakebite,Proteolytic
+Sore,Amebicide
+Sore,Analgesic
+Sore,Anesthetic
+Sore,Antibacterial
+Sore,Antibiotic
+Sore,Antiedemic
+Sore,Antiinflammatory
+Sore,Antilymphedemic
+Sore,Antinociceptive
+Sore,Antipyretic
+Sore,Antiseptic
+Sore,Antiviral
+Sore,Antiyeast
+Sore,Astringent
+Sore,Bacteristat
+Sore,COX-2-Inhibitor
+Sore,Circulatory-Stimulant
+Sore,Cyclooxygenase-Inhibitor
+Sore,Fungicide
+Sore,Fungistat
+Sore,Immunostimulant
+Sore,Lipoxygenase-Inhibitor
+Sore,Lymphatic
+Sore,MDR-Inhibitor
+Sore,Vulnerary
+Stomatosis,Analgesic
+Stomatosis,Anesthetic
+Stomatosis,Antiaphthic
+Stomatosis,Antibacterial
+Stomatosis,Antibiotic
+Stomatosis,Anticandidosis
+Stomatosis,Antifungal
+Stomatosis,Antigingivitic
+Stomatosis,Antihalitosic
+Stomatosis,Antiinflammatory
+Stomatosis,Antinociceptive
+Stomatosis,Antiplaque
+Stomatosis,Antiseptic
+Stomatosis,Antistomatitic
+Stomatosis,Antiyeast
+Stomatosis,Astringent
+Stomatosis,Bacteristat
+Stomatosis,COX-2-Inhibitor
+Stomatosis,Candidicide
+Stomatosis,Candidistat
+Stomatosis,Cyclooxygenase-Inhibitor
+Stomatosis,Fungicide
+Stomatosis,Fungistat
+Stomatosis,Lipoxygenase-Inhibitor
+Syndrome X,ACE-Inhibitor
+Syndrome X,Aldose-Reductase-Inhibitor
+Syndrome X,Anorectic
+Syndrome X,Antiaggregant
+Syndrome X,Antiapertif
+Syndrome X,Antiatherogenic
+Syndrome X,Antiatheromic
+Syndrome X,Antiatherosclerotic
+Syndrome X,Anticapillary-Fragility
+Syndrome X,Anticholesteremic
+Syndrome X,Antidiabetic
+Syndrome X,Antidiabetic (Insulin-Sparing)
+Syndrome X,Antifeedant
+Syndrome X,Antiglycation
+Syndrome X,Antihypercholesterolemic
+Syndrome X,Antihyperglycemic
+Syndrome X,Antihyperlipidemic
+Syndrome X,Antihypertensive
+Syndrome X,Antiobesity
+Syndrome X,Antiosteoporotic
+Syndrome X,Antioxidant
+Syndrome X,Antiperoxidant
+Syndrome X,Antiradicular
+Syndrome X,Antiscorbutic
+Syndrome X,Antistress
+Syndrome X,Antisyndrome-X
+Syndrome X,Antithrombic
+Syndrome X,Antitriglyceride
+Syndrome X,Beta-Adrenergic Receptor Blocker
+Syndrome X,Calcium-Antagonist
+Syndrome X,Capillarifortificant
+Syndrome X,Capillariprotective
+Syndrome X,Capillaritonic
+Syndrome X,Cardioprotective
+Syndrome X,Cardiotonic
+Syndrome X,Catabolic
+Syndrome X,Cholesterolytic
+Syndrome X,Diuretic
+Syndrome X,Glucose-6-Phosphatase-Inhibitor
+Syndrome X,Glycogenic
+Syndrome X,Hypocholesterolemic
+Syndrome X,Hypoglycemic
+Syndrome X,Hypotriacylglycerolemic
+Syndrome X,Hypotriglyceridemic
+Syndrome X,Insulin-Potentiating
+Syndrome X,Insulin-Sparing
+Syndrome X,Insulinase-Inhibitor
+Syndrome X,Insulinic
+Syndrome X,Insulinogenic
+Syndrome X,Insulinotonic
+Syndrome X,Lipolytic
+Syndrome X,Myocardiotonic
+Syndrome X,PAF-Inhibitor
+Syndrome X,SSRI
+Syndrome X,Sedative
+Syndrome X,Serotoninergic
+Syndrome X,Thermogenic
+Syndrome X,Tranquilizer
+Syndrome X,Triglycerolytic
+Syndrome X,Tyrosine-Kinase-Activator
+Thrombosis / Blood Clot,Antiaggregant
+Thrombosis / Blood Clot,Antiarteriosclerotic
+Thrombosis / Blood Clot,Antiatherogenic
+Thrombosis / Blood Clot,Antiatheromic
+Thrombosis / Blood Clot,Antiatherosclerotic
+Thrombosis / Blood Clot,Antiatherotic
+Thrombosis / Blood Clot,Anticoagulant
+Thrombosis / Blood Clot,Antiedemic
+Thrombosis / Blood Clot,Antiembolic
+Thrombosis / Blood Clot,Antihypercholesterolemic
+Thrombosis / Blood Clot,Antihypertensive
+Thrombosis / Blood Clot,Antiischemic
+Thrombosis / Blood Clot,Antioxidant
+Thrombosis / Blood Clot,Antiplatelet
+Thrombosis / Blood Clot,Antistress
+Thrombosis / Blood Clot,Antistroke
+Thrombosis / Blood Clot,Antithrombic
+Thrombosis / Blood Clot,Antithrombotic
+Thrombosis / Blood Clot,Arteriodilator
+Thrombosis / Blood Clot,Beta-Blocker
+Thrombosis / Blood Clot,Calcium-Blocker
+Thrombosis / Blood Clot,Calcium-Channel-Blocke
+Thrombosis / Blood Clot,Diuretic
+Thrombosis / Blood Clot,Hemolytic
+Thrombosis / Blood Clot,Hypocholesterolemic
+Thrombosis / Blood Clot,Hypotensive
+Thrombosis / Blood Clot,Nervine
+Thrombosis / Blood Clot,PAF-Inhibitor
+Thrombosis / Blood Clot,Vasodilator
+Thrombosis / Blood Clot,Vasoprotective
+Thrombosis / Blood Clot,Vasorelaxant
+Thrombosis / Blood Clot,Vasotonic
+Thrombosis / Blood Clot,Venotonic
+Toothache,Analgesic
+Toothache,Anesthetic
+Toothache,Antibacterial
+Toothache,Anticandidosis
+Toothache,Anticariogenic
+Toothache,Antidermatitic
+Toothache,Antifungal
+Toothache,Antigingivitic
+Toothache,Antiinflammatory
+Toothache,Antiiodontalgic
+Toothache,Antinociceptive
+Toothache,Antiodonititic
+Toothache,Antioxidant
+Toothache,Antiplaque
+Toothache,Antiscorbutic
+Toothache,Antiseptic
+Toothache,Antiyeast
+Toothache,Astringent
+Toothache,COX-2-Inhibitor
+Toothache,Candidicide
+Toothache,Candidistat
+Toothache,Cyclooxygenase-Inhibitor
+Toothache,Fungicide
+Toothache,Fungistat
+Toothache,Immunostimulant
+Toothache,Nervine
+Toothache,Vulnerary
+UTI,Analgesic
+UTI,Anesthetic
+UTI,AntiUTI
+UTI,Antibacterial
+UTI,Antibiotic
+UTI,Anticandidosis
+UTI,Anticystitic
+UTI,Antiinflammatory
+UTI,Antinociceptive
+UTI,Antiprostaglandin
+UTI,Antiprostatitic
+UTI,Antiseptic
+UTI,Antistress
+UTI,Antiurethritic
+UTI,Antiyeast
+UTI,Astringent
+UTI,Bacteristat
+UTI,COX-2-Inhibitor
+UTI,Candidicide
+UTI,Candidistat
+UTI,Cyclooxygenase-Inhibitor
+UTI,Immunostimulant
+UTI,Lipoxygenase-Inhibitor
+UTI,MDR-Inhibitor
+UTI,Urinary-Acidulant
+UTI,Urinary-Antiseptic
+UTI,Urine-Acidifier
+UTI,Urine-Deodorant
+Ulcer,Analgesic
+Ulcer,Anesthetic
+Ulcer,Antacid
+Ulcer,Antibacterial
+Ulcer,Antibiotic
+Ulcer,Antiinflammatory
+Ulcer,Antinociceptive
+Ulcer,Antioxidant
+Ulcer,Antiprostaglandin
+Ulcer,Antiseptic
+Ulcer,Antispasmodic
+Ulcer,Antiulcer
+Ulcer,Antiulcerogenic
+Ulcer,Antiviral
+Ulcer,Astringent
+Ulcer,Bacteristat
+Ulcer,COX-2-Inhibitor
+Ulcer,Cyclooxygenase-Inhibitor
+Ulcer,Demulcent
+Ulcer,Fungicide
+Ulcer,Fungitoxic
+Ulcer,Gastroprotective
+Ulcer,Lipoxygenase-Inhibitor
+Ulcer,MDR-Inhibitor
+Ulcer,Ulcerprotective
+Ulcer,Vulnerary
+Vaginitis,Analgesic
+Vaginitis,Anesthetic
+Vaginitis,Antiallergic
+Vaginitis,Antibacterial
+Vaginitis,Antibiotic
+Vaginitis,Anticandidosis
+Vaginitis,Antidermatitic
+Vaginitis,Antifungal
+Vaginitis,Antiinflammatory
+Vaginitis,Antiitch
+Vaginitis,Antiitching
+Vaginitis,Antinociceptive
+Vaginitis,Antiseptic
+Vaginitis,Astringent
+Vaginitis,Bacteristat
+Vaginitis,COX-2-Inhibitor
+Vaginitis,Candidicide
+Vaginitis,Candidistat
+Vaginitis,Cyclooxygenase-Inhibitor
+Vaginitis,Demulcent (topical)
+Vaginitis,Fungicide
+Vaginitis,MDR-Inhibitor
+Vaginitis,Moisturizing
+Varicose Veins,Analgesic
+Varicose Veins,Anesthetic
+Varicose Veins,Antiaggregant
+Varicose Veins,Antiarteriosclerotic
+Varicose Veins,Antiatherogenic
+Varicose Veins,Antiatheromic
+Varicose Veins,Antiatherosclerotic
+Varicose Veins,Antiatherotic
+Varicose Veins,Anticapillarihemorrhagic
+Varicose Veins,Anticapillary-Fragility
+Varicose Veins,Anticoagulant
+Varicose Veins,Antiedemic
+Varicose Veins,Antielastase
+Varicose Veins,Antihemorrhagic
+Varicose Veins,Antihemorrhoidal
+Varicose Veins,Antiinflammatory
+Varicose Veins,Antiischemic
+Varicose Veins,Antinociceptive
+Varicose Veins,Antioxidant
+Varicose Veins,Antiphlebitic
+Varicose Veins,Antiplatelet
+Varicose Veins,Antiscorbutic
+Varicose Veins,Antithrombic
+Varicose Veins,Antithrombotic
+Varicose Veins,Antivaricose
+Varicose Veins,Antivaricosity
+Varicose Veins,Astringent
+Varicose Veins,COX-2-Inhibitor
+Varicose Veins,Capillarifortificant
+Varicose Veins,Capillariprotective
+Varicose Veins,Capillaritonic
+Varicose Veins,Collagen-Sparing
+Varicose Veins,Collagenase-Inhibitor
+Varicose Veins,Cyclooxygenase-Inhibitor
+Varicose Veins,Diuretic
+Varicose Veins,Elastase-Inhibitor
+Varicose Veins,Endothelium-Derived Relaxing Factor Promoter
+Varicose Veins,Fibrinolysis Enzyme Activator
+Varicose Veins,Fibrinolysis Promoter
+Varicose Veins,Fibrinolytic
+Varicose Veins,Glycosaminoglycan-Sparing
+Varicose Veins,Increase Prostacyclin Activity
+Varicose Veins,Inhibit Destruction of Glycosaminoglycans
+Varicose Veins,Plasminogen-Activating
+Varicose Veins,Proteolytic
+Varicose Veins,Vasoactive
+Varicose Veins,Vasocompressor
+Varicose Veins,Vasoconstrictor
+Varicose Veins,Vasopressor
+Varicose Veins,Vasoprotective
+Varicose Veins,Vasotonic
+Varicose Veins,Venotonic
+Varicose Veins,Venotropic
+Viral Infections (Chronic),Adaptogenic
+Viral Infections (Chronic),Anabolic
+Viral Infections (Chronic),Anticachexitic
+Viral Infections (Chronic),Antifatigue
+Viral Infections (Chronic),Antiseptic
+Viral Infections (Chronic),Antiviral
+Viral Infections (Chronic),Febrifuge
+Viral Infections (Chronic),Hepatoprotective
+Viral Infections (Chronic),Immunomodulator
+Viral Infections (Chronic),Immunostimulant
+Viral Infections (Chronic),Increase NK Cell Activity
+Viral Infections (Chronic),Increase T-helper
+Viral Infections (Chronic),Increase T-lymphocyte Proliferation
+Viral Infections (Chronic),Increase natural killer cell activity
+Viral Infections (Chronic),Interferonogenic
+Viral Infections (Chronic),MDR-Inhibitor
+Viral Infections (Chronic),Phagocytotic
+Viral Infections (Chronic),Refrigerant
+Viral Infections (Chronic),T-suppressor cell ratio
+Viral Infections (Chronic),Tonic
+Viral Infections (Chronic),Viricide
+Warts,Antiproliferative
+Warts,Antiscorbutic
+Warts,Antiseptic
+Warts,Antiviral
+Warts,Antiwart
+Warts,Immunomodulator
+Warts,Immunostimulant
+Warts,Increase T-lymphocyte Proliferation
+Warts,Increase Natural Killer (NK) Cell Activity
+Warts,Interferonogenic
+Warts,Necrotizing
+Warts,Phagocytotic
+Warts,Viristat
+Wound,Amebicide
+Wound,Analgesic
+Wound,Anesthetic
+Wound,Antibacterial
+Wound,Antibiotic
+Wound,Antiedemic
+Wound,Antiinflammatory
+Wound,Antilymphedemic
+Wound,Antinociceptive
+Wound,Antipyretic
+Wound,Antiseptic
+Wound,Antiviral
+Wound,Antiyeast
+Wound,Astringent
+Wound,Bacteristat
+Wound,COX-2-Inhibitor
+Wound,Circulatory-Stimulant
+Wound,Cyclooxygenase-Inhibitor
+Wound,Fungicide
+Wound,Fungistat
+Wound,Immunostimulant
+Wound,Lipoxygenase-Inhibitor
+Wound,Lymphatic
+Wound,MDR-Inhibitor
+Wound,Vulnerary
+Wrinkles,Antiaging
+Wrinkles,Antioxidant
+Wrinkles,Antistress
+Wrinkles,Antiwrinkle
+Wrinkles,Collagen-Sparing
+Wrinkles,Collagenic
+Wrinkles,Demulcent
+Wrinkles,Dermagenic
+Wrinkles,Emollient
+Wrinkles,Epitheliogenic
+Wrinkles,Immunostimulant
+Wrinkles,Nervine
+Wrinkles,Sunscreen
+Yeast Infection,Analgesic
+Yeast Infection,Anesthetic
+Yeast Infection,Anti-Itching
+Yeast Infection,Antibacterial
+Yeast Infection,Antibiotic
+Yeast Infection,Anticandidosis
+Yeast Infection,Antidermatitic
+Yeast Infection,Antifungal
+Yeast Infection,Antiitch
+Yeast Infection,Antinociceptive
+Yeast Infection,Antiseptic
+Yeast Infection,Antithrush
+Yeast Infection,Antiyeast
+Yeast Infection,Candidicide
+Yeast Infection,Candidistat
+Yeast Infection,Demulcent
+Yeast Infection,Fungicide
+Yeast Infection,Fungistat
+Yeast Infection,MDR-Inhibitor
+Yeast Infection,Moisturizing
+Candidiasis,MDR-Inhibitor
+Fungus/Mycosis,MDR-Inhibitor
+Cancer,MDR-Inhibitor
+Melanoma,MDR-Inhibitor
+Premenstrual Syndrome/PMS,Estrogenic
+Cardiopathy/Heart Problems,Estrogenic
+Carpal Tunnel Syndrome (CTS),Analgesic
+Carpal Tunnel Syndrome (CTS),Anesthetic
+Carpal Tunnel Syndrome (CTS),Antiarthritic
+Carpal Tunnel Syndrome (CTS),Anticarpal-Tunnel
+Carpal Tunnel Syndrome (CTS),Antiedemic
+Carpal Tunnel Syndrome (CTS),Antiinflammatory
+Carpal Tunnel Syndrome (CTS),Antinociceptive
+Carpal Tunnel Syndrome (CTS),Antistress
+Carpal Tunnel Syndrome (CTS),COX-2-Inhibitor
+Carpal Tunnel Syndrome (CTS),Myorelaxant
+Carpal Tunnel Syndrome (CTS),Sedative
+Carpal Tunnel Syndrome (CTS),Tranquilizer
+Carpal Tunnel Syndrome (CTS),Counterirritant
+Carpal Tunnel Syndrome (CTS),Nervine
+Carpal Tunnel Syndrome (CTS),Lipoxygenase-Inhibitor
+Carpal Tunnel Syndrome (CTS),Circulatory-Stimulant
+Carpal Tunnel Syndrome (CTS),Diuretic
+Carpal Tunnel Syndrome (CTS),Antispasmodic
+Carpal Tunnel Syndrome (CTS),Neuroprotective
+Amenorrhea,Emmenagogue
+Sciatica,Analgesic
+Sciatica,Analgesic-Synergist
+Sciatica,Antiinflammatory
+Sciatica,Antispasmodic
+Sciatica,Antisciatic
+Sciatica,Antiarthritic
+Sciatica,Antilumbagic
+Sciatica,Antineuritic
+Sciatica,Antinociceptive
+Sciatica,Antirheumatic
+Sciatica,Counterirritant
+Sciatica,COX-2-Inhibitor
+Sciatica,Myorelaxant
+Sciatica,Rubefacient
+Sciatica,Anesthetic
+Sciatica,Antidermatitic
+Sciatica,Antirheumatalgic
+Sciatica,Nervine
+Frigidity,Adaptogenic
+Frigidity,Antiarteriosclerotic
+Frigidity,Antiaggregant
+Frigidity,Antiatherogenic
+Frigidity,Antiatheromic
+Frigidity,Antiatherosclerotic
+Frigidity,Antiatherotic
+Frigidity,Antifrigidity
+Frigidity,Antiimpotence
+Frigidity,Antiischemic
+Frigidity,Aphrodisiac
+Frigidity,Arginine-Generating
+Frigidity,Arginine-Rich
+Frigidity,Boron-Rich
+Frigidity,Increase Boron Bioavailability
+Frigidity,cGMP-genic
+Frigidity,cGMP-Sparing
+Frigidity,Cantharic
+Frigidity,Circulatory-Stimulant
+Frigidity,CNS-Stimulant
+Frigidity,Dopaminergic
+Frigidity,Estrogenic
+Frigidity,Genital-Stimulant
+Frigidity,Hypertensive
+Frigidity,NO-Genic
+Frigidity,NO-Sparing
+Frigidity,Phosphodiesterase-Inhibitor
+Frigidity,Testosterogenic
+Frigidity,Testosterone-Inducer
+Frigidity,Tyrosine-Hyroxylase-Activator
+Frigidity,Vasodilator
+Frigidity,Increase Tyrosine Hyroxylase Activity
+Impotence,Vasodilator
+Obesity,Antiadipose
+Anthrax,Antianthrax
+Anthrax,Antibacterial
+Anthrax,Antiinflammatory
+Anthrax,Antimicrobial
+Anthrax,Antiseptic
+Anthrax,Astringent
+Anthrax,Bactericide
+Anthrax,Bacteristat
+Anthrax,Hepatoprotective
+Anthrax,Hepatotonic
+Anthrax,Immunostimulant
+Anthrax,MDR-Inhibitor
+Anthrax,Antibiotic
+Anthrax,Antinociceptive
+Anthrax,Analgesic
+Anthrax,Anesthetic
+Anthrax,Antioxidant
+Anthrax,Antipyretic
+Anthrax,Antistress
+Anthrax,Antiviral
+Anthrax,Febrifuge
+Anthrax,Phagocytotic
+Anthrax,Viricide
+Anthrax,Viristat
+Anthrax,Immunomodulator
+Anthrax,Antidermatitic
+Anthrax,Demulcent
+Anthrax,Antibronchitic
+Anthrax,Antibronchoconstrictor
+Anthrax,Antihistaminic
+Anthrax,Antipharyngitic
+Anthrax,Antitussive
+Anthrax,Bronchodilator
+Anthrax,Bronchorelaxant
+Anthrax,Bronchospasmolytic
+Anthrax,Bronchotonic
+Anthrax,COX-2-Inhibitor
+Anthrax,Cyclooxygenase-Inhibitor
+Anthrax,Decongestant
+Anthrax,Expectorant
+Anthrax,Protisticide
+Anthrax,Sedative
+Anthrax,Nervine
+Anthrax,Tranquilizer
+Anthrax,Antihistamine
+Anthrax,Anticapillary-Fragility
+Anthrax,Capillarifortificant
+Anthrax,Capillariprotective
+Anthrax,12-Lipoxygenase-Inhibitor
+Anthrax,Antispasmodic
+Anthrax,Free-Radical Scavenging
+Anthrax,Myorelaxant
+Anthrax,Narcotic
+Anthrax,Interferon-Inducer
+Anthrax,Interferon-Stimulant
+Anthrax,Interferon-Synergist
+Anthrax,Interferonogenic
+Anthrax,Refrigerant
+Anthrax,Capillaritonic
+Anthrax,Anticapillarihemorrhagic
+Bipolar,AntiADD
+Bipolar,Antianxiety
+Bipolar,Antibipolar
+Bipolar,Anticonvulsant
+Bipolar,Antidepressant
+Bipolar,Antifatigue
+Bipolar,Antihyperkinetic
+Bipolar,Antiinflammatory
+Bipolar,Antiinsomniac
+Bipolar,Antimanic
+Bipolar,Antioxidant
+Bipolar,Antioxidant Synergist
+Bipolar,Antipsychotic
+Bipolar,Antispasmodic
+Bipolar,Antispasmogenic
+Bipolar,Antispasmophilic
+Bipolar,Antispastic
+Bipolar,Antistress
+Bipolar,Antistressor
+Bipolar,Anxiolytic
+Bipolar,Calcium-Antagonist
+Bipolar,Calcium-Channel-Blocker
+Bipolar,CNS-Depressant
+Bipolar,CNS-Sedative
+Bipolar,CNS-Stimulant
+Bipolar,COMT-Inhibitor
+Bipolar,Dopaminergic
+Bipolar,Dopaminigenic
+Bipolar,Endorphinogenic
+Bipolar,Energizer
+Bipolar,Euphoriant
+Bipolar,Euphoric
+Bipolar,Euphorigenic
+Bipolar,GABA-nergic
+Bipolar,Hypokinetic
+Bipolar,Immunostimulant
+Bipolar,MAO-Inhibitor
+Bipolar,Melatoninergic
+Bipolar,Melatoninogenic
+Bipolar,Myodepressant
+Bipolar,Nervine
+Bipolar,Neuroleptic
+Bipolar,Neurolytic
+Bipolar,Neuroprotective
+Bipolar,Neurosedative
+Bipolar,Sedative
+Bipolar,Serotoninergic
+Bipolar,Tonic
+Bipolar,Tranquilizer
+Breached Birth,Abortifacient
+Breached Birth,Alexiteric
+Breached Birth,Analgesic
+Breached Birth,Anesthetic
+Breached Birth,Anticonvulsant
+Breached Birth,Antihemorrhagic
+Breached Birth,Antiinflammatory
+Breached Birth,Antimenorrhagic
+Breached Birth,Antimetrorrhagic
+Breached Birth,Antiseptic
+Breached Birth,Antishock
+Breached Birth,Antispasmogenic
+Breached Birth,Antispasmodic
+Breached Birth,Antistress
+Breached Birth,Anxiolytic
+Breached Birth,Ecbolic
+Breached Birth,Emmenagogue
+Breached Birth,Hemostat
+Breached Birth,Nervine
+Breached Birth,Neuroleptic
+Breached Birth,Oxytocic
+Breached Birth,Parturient
+Breached Birth,Sedative
+Breached Birth,Tranquilizer
+Lipoma,Analgesic
+Lipoma,Analgesic-Synergist
+Lipoma,Anesthetic
+Lipoma,Anesthetic-potentiator
+Lipoma,Antiadenomacarcinogenic
+Lipoma,Antiadenomic
+Lipoma,Antiadipose
+Lipoma,Anticancer
+Lipoma,Anticarcinogenic
+Lipoma,Anticarcinomic
+Lipoma,Anticarcinosarcomic
+Lipoma,Anticholesterogenic
+Lipoma,Anticystitic
+Lipoma,Antihepatitic
+Lipoma,Antihepatotic
+Lipoma,Antihepatotoxic
+Lipoma,Antihypercholesterolemic
+Lipoma,Antihyperlipoproteinemic
+Lipoma,Antiinflammatory
+Lipoma,Antilipogenic
+Lipoma,Antilymphosarcomic
+Lipoma,Antimetastatic
+Lipoma,Antimutagenic
+Lipoma,Antioxidant
+Lipoma,Antioxidant (LDL)
+Lipoma,Antioxidant Synergist
+Lipoma,Antipolyp
+Lipoma,Antisarcoma
+Lipoma,Antisarcomic
+Lipoma,Antitumor
+Lipoma,Antitumor-Initiator
+Lipoma,Antitumor-Promoter
+Lipoma,Cancer-Preventive
+Lipoma,Circulatory-Stimulant
+Lipoma,Circulotonic
+Lipoma,CNS-Toxic
+Lipoma,DNA-Protective
+Lipoma,Hepatoprotective
+Lipoma,Hepatotonic
+Lipoma,Hepatostimulant
+Lipoma,Hypocholesterolemic
+Lipoma,Hypolipidemic
+Lipoma,Lipase-Inducer
+Lipoma,Lipotropic
+Lipoma,Lipolytic
+Lipoma,Nervine
+Lipoma,Antiobesity
+Lipoma,Antilipomic
+Lipoma,Thermogenic
+Cancer,Anticancer (Lung)
+Aging,Antiaging
+Aging,Antialzheimeran
+Aging,Antianxiety
+Aging,Antiarthritic
+Aging,Antifatigue
+Aging,Antihypertensive
+Aging,Antiinflammatory
+Aging,Antiimpotence
+Aging,Antiincontinence
+Aging,Antimenopausal
+Aging,Antiosteoarthritic
+Aging,Antiosteoporotic
+Aging,Antioxidant
+Aging,Antioxidant (LDL)
+Aging,Antioxidant Synergist
+Aging,Antirheumatic
+Aging,Antisenility
+Aging,Antistress
+Aging,Antistressor
+Aging,Antivertigo
+Aging,Antiwrinkle
+Aging,Aphrodisiac
+Aging,Capillariprotective
+Aging,Capillaritonic
+Aging,Cardioprotective
+Aging,Cardiotonic
+Aging,Cartilage-Sparing
+Aging,Cerebrocirculant
+Aging,Cerebroprotective
+Aging,Cerebrotonic
+Aging,Circulotonic
+Aging,Collagen-Sparing
+Aging,Cytoprotective
+Aging,Energizer
+Aging,Estrogenic
+Aging,Euphoriant
+Aging,Euphoric
+Aging,Euphorigenic
+Aging,Gastroprotective
+Aging,Hematonic
+Aging,Hepatoprotective
+Aging,Hepatotonic
+Aging,Hypotensive
+Aging,Immunostimulant
+Aging,Memorigenic
+Aging,Memory-Enhancer
+Aging,Myocardiotonic
+Aging,Myoprotective
+Aging,Myotonic
+Aging,Nervine
+Aging,Neuroprotective
+Aging,Pancreaprotective
+Aging,Pancreatonic
+Aging,Phytoestrogenic
+Aging,Phytohormonal
+Aging,Phytohormone
+Aging,Pulmonoprotective
+Aging,Retinoprotectant Optometry
+Aging,Sunscreen
+Aging,Tonic
+Aging,UV-Screen
+Aging,Vasculoprotective
+Aging,Vasoprotective
+Aging,Vasotonic
+Aging,Venotonic
+Menopause,Anticapillary-Fragility
+Menopause,Antipyretic
+Menopause,Vasoconstrictor
+Intestinal Parasites,MDR-Inhibitor
+Dermatitis/Dermatoses,Antiallergic
+Dermatitis/Dermatoses,Antieczemic
+Dermatitis/Dermatoses,Antiedemic
+Dermatitis/Dermatoses,Antikeratotic
+Dermatitis/Dermatoses,Antileukotriene
+Dermatitis/Dermatoses,Antioxidant
+Dermatitis/Dermatoses,Antiperoxidant
+Dermatitis/Dermatoses,Antiproliferative
+Dermatitis/Dermatoses,Antiprostaglandin
+Dermatitis/Dermatoses,Antipsoriac
+Dermatitis/Dermatoses,Antiradicular
+Dermatitis/Dermatoses,cGMP-Inhibitor
+Dermatitis/Dermatoses,Fiber-Rich
+Dermatitis/Dermatoses,Hypotriacylglycerolemic
+Dermatitis/Dermatoses,Immunosuppressant
+Dermatitis/Dermatoses,Antiinterleukin-1
+Dermatitis/Dermatoses,Lipoxygenase-Inhibitor
+Dermatitis/Dermatoses,Mast-Cell-Stabilizer
+Dermatitis/Dermatoses,Proteolytic
+Dermatitis/Dermatoses,12-Lipoxygenase-Inhibitor
+Menopause,Antiosteoporotic
+Menopause,Calcium-Sparing
+AIDS/HIV,Protease-Inhibitor
+Alzheimers,Protease-Inhibitor
+Asthma,Anticholinergic
+Asthma,Anti-IgE
+BPH,Alpha-Agonist
+BPH,Anticholinergic
+Bunion,Analgesic
+Bunion,Analgesic-Synergist
+Bunion,Anesthetic
+Bunion,Anesthetic-potentiator
+Bunion,Antiarthritic
+Bunion,Antibursitic
+Bunion,Anticalculic
+Bunion,Antiedemic
+Bunion,Antiinflammatory
+Bunion,Antinociceptive
+Bunion,Antioxidant
+Bunion,Antirheumatic
+Bunion,Counterirritant
+Bunion,COX-2-Inhibitor
+Bunion,Cyclooxygenase-Inhibitor
+Bunion,Decalcifier
+Bunion,Hypocalcemic
+Bunion,12-Lipoxygenase-Inhibitor
+Bunion,Lipoxygenase-Inhibitor
+Bunion,Myotonic
+Bunion,Nervine
+Cold/Flu,Antirhinovirus
+Cold/Flu,Antirhinitic
+Cold/Flu,Antipneumonic
+Cold/Flu,Pneumotoxic
+Cold/Flu,Antistrep
+Cold/Flu,Antistreptococcic
+Cold/Flu,Anticholinergic
+Crohns Disease,AntiTNF
+Crohns Disease,Immunosuppressant
+Crohns Disease,Antibiotic
+Crohns Disease,Antiinterleukin-12
+Sepsis,AHH-Inhibitor
+Angina,Antiinflammatory
+Apoplexy/Stroke,Antiinflammatory
+Arrhythmia (Cardiac),Antiinflammatory
+Cardiopathy/Heart Problems,Antiinflammatory
+Heart Attack/Coronary Infarct,Antiinflammatory
+High Blood Pressure/Hypertension,Antiinflammatory
+High Cholesterol/Hypercholesterolemia,Antiinflammatory
+Infarction,Antiinflammatory
+Ischemia,Antiinflammatory
+Thrombosis / Blood Clot,Antiinflammatory
+AIDS/HIV,(-)-Bactericide
+AIDS/HIV,Amebicide
+AIDS/HIV,Analgesic
+AIDS/HIV,Analgesic-Synergist
+AIDS/HIV,Anesthetic
+AIDS/HIV,Anesthetic-potentiator
+AIDS/HIV,Antiabscess
+AIDS/HIV,Antialopecic
+AIDS/HIV,Antianemic
+AIDS/HIV,Antianorexic
+AIDS/HIV,Antianxiety
+AIDS/HIV,Antibronchitic
+AIDS/HIV,Anticancer
+AIDS/HIV,Anticanker
+AIDS/HIV,Anticapillarihemorrhagic
+AIDS/HIV,Anticapillary-Fragility
+AIDS/HIV,Anticarcinogenic
+AIDS/HIV,Anticarcinomic
+AIDS/HIV,Anticarcinosarcomic
+AIDS/HIV,Anticold
+AIDS/HIV,Anticollapse
+AIDS/HIV,Anticytomegalovirus
+AIDS/HIV,Antidepressant
+AIDS/HIV,Antidermatitic
+AIDS/HIV,Antidiarrheic
+AIDS/HIV,Antidysenteric
+AIDS/HIV,Antieczemic
+AIDS/HIV,Antifatigue
+AIDS/HIV,Antiflu
+AIDS/HIV,Antigiardial
+AIDS/HIV,Antihepatocarcinogenic
+AIDS/HIV,Antihepatotoxic
+AIDS/HIV,Antiherpetic
+AIDS/HIV,Antiinfective
+AIDS/HIV,AntiKaposi's
+AIDS/HIV,Antilethargic
+AIDS/HIV,Antileukemic
+AIDS/HIV,Antilymphomic
+AIDS/HIV,Antilymphosarcomic
+AIDS/HIV,Antimelanomic
+AIDS/HIV,Antimetastatic
+AIDS/HIV,Antimicrobial
+AIDS/HIV,Antimononuccleotic
+AIDS/HIV,Antimutagenic
+AIDS/HIV,Antinauseant
+AIDS/HIV,Antineuralgic
+AIDS/HIV,Antioxidant Synergist
+AIDS/HIV,Antipapillomic
+AIDS/HIV,Antipneumonic
+AIDS/HIV,Antipolyp
+AIDS/HIV,Antiproliferant
+AIDS/HIV,Antiproliferative
+AIDS/HIV,Antisarcoma
+AIDS/HIV,Antisarcomic
+AIDS/HIV,Antishingles
+AIDS/HIV,Antistaph
+AIDS/HIV,Antistaphylococcic
+AIDS/HIV,Antitoxic
+AIDS/HIV,Antitumor
+AIDS/HIV,Antitumor-Initiator
+AIDS/HIV,Antitumor-Promoter
+AIDS/HIV,Antiulcer
+AIDS/HIV,Antiulcerogenic
+AIDS/HIV,Antiyeast
+AIDS/HIV,Apertif
+AIDS/HIV,Astringent
+AIDS/HIV,AZT-Synergist
+AIDS/HIV,Bacteriolytic
+AIDS/HIV,Bacteriophagicide
+AIDS/HIV,Bacteriostatic
+AIDS/HIV,Bacteristat
+AIDS/HIV,Bronchoprotectant
+AIDS/HIV,Bronchotonic
+AIDS/HIV,Cancer-Preventive
+AIDS/HIV,Capillarifortificant
+AIDS/HIV,Capillariprotective
+AIDS/HIV,Capillaritonic
+AIDS/HIV,Cardioprotective
+AIDS/HIV,Cardiotonic
+AIDS/HIV,Cerebroprotective
+AIDS/HIV,Cerebrotonic
+AIDS/HIV,Chemopreventive
+AIDS/HIV,Circulotonic
+AIDS/HIV,Cold-preventive
+AIDS/HIV,Counterirritant
+AIDS/HIV,COX-1-Inhibitor
+AIDS/HIV,Cytoprotective
+AIDS/HIV,Disinfectant
+AIDS/HIV,Enterotonic
+AIDS/HIV,Free-Radical Scavenging
+AIDS/HIV,Fungicide
+AIDS/HIV,Fungistat
+AIDS/HIV,Gastroprotective
+AIDS/HIV,Gram(+)icide
+AIDS/HIV,Gram(-)icide
+AIDS/HIV,Hematonic
+AIDS/HIV,Hepatoprotective
+AIDS/HIV,Hepatotonic
+AIDS/HIV,Immunomodulator
+AIDS/HIV,Mycobactericide
+AIDS/HIV,Myocardiotonic
+AIDS/HIV,Myoprotective
+AIDS/HIV,Myotonic
+AIDS/HIV,Neuroprotective
+AIDS/HIV,Pancreaprotective
+AIDS/HIV,Pancreatonic
+AIDS/HIV,Pulmonoprotective
+AIDS/HIV,Spirocheticide
+AIDS/HIV,T-Cell-Stimulant
+AIDS/HIV,Tonic
+AIDS/HIV,Vasculoprotective
+AIDS/HIV,Vasoprotective
+AIDS/HIV,Vasotonic
+AIDS/HIV,Venotonic
+Tuberculosis,(-)-Bactericide
+Tuberculosis,Analgesic
+Tuberculosis,Anesthetic
+Tuberculosis,Antiabscess
+Tuberculosis,Antiallergic
+Tuberculosis,Antiasthmatic
+Tuberculosis,Antiasthmic
+Tuberculosis,Antibacterial
+Tuberculosis,Antibiotic
+Tuberculosis,Antibronchitic
+Tuberculosis,Antibronchoconstrictor
+Tuberculosis,Antibroncotic
+Tuberculosis,Anticold
+Tuberculosis,Antiedemic
+Tuberculosis,Antiemphysemic
+Tuberculosis,Antifatigue
+Tuberculosis,Antiflu
+Tuberculosis,Antihistaminic
+Tuberculosis,Antihistamine
+Tuberculosis,Antiinfective
+Tuberculosis,Antiinflammatory
+Tuberculosis,Antimycotic
+Tuberculosis,Antimicrobial
+Tuberculosis,Antimutagenic
+Tuberculosis,Antineuralgic
+Tuberculosis,Antinociceptive
+Tuberculosis,Antioxidant
+Tuberculosis,Antioxidant Synergist
+Tuberculosis,Antipharyngitic
+Tuberculosis,Antipneumonic
+Tuberculosis,Antiproliferant
+Tuberculosis,Antiproliferative
+Tuberculosis,Antipyretic
+Tuberculosis,Antirhinoviral
+Tuberculosis,Antiseptic
+Tuberculosis,Antistaph
+Tuberculosis,Antistaphylococcic
+Tuberculosis,Antistress
+Tuberculosis,Antistressor
+Tuberculosis,Antitubercular
+Tuberculosis,Antituberculic
+Tuberculosis,Antitussive
+Tuberculosis,Antiviral
+Tuberculosis,Antiyeast
+Tuberculosis,Asthma-preventive
+Tuberculosis,Astringent
+Tuberculosis,Bacteriolytic
+Tuberculosis,Bacteriophagicide
+Tuberculosis,Bacteriostatic
+Tuberculosis,Bacteristat
+Tuberculosis,Bronchodilator
+Tuberculosis,Bronchomucolytic
+Tuberculosis,Bronchoprotectant
+Tuberculosis,Bronchorelaxant
+Tuberculosis,Bronchosedative
+Tuberculosis,Bronchospasmolytic
+Tuberculosis,Bronchostimulant
+Tuberculosis,Bronchotonic
+Tuberculosis,Capillarifortificant
+Tuberculosis,Capillariprotective
+Tuberculosis,Capillaritonic
+Tuberculosis,Circulotonic
+Tuberculosis,Cold-preventive
+Tuberculosis,Counterirritant
+Tuberculosis,COX-1-Inhibitor
+Tuberculosis,COX-2-Inhibitor
+Tuberculosis,Cyclooxygenase-Inhibitor
+Tuberculosis,Decongestant
+Tuberculosis,Disinfectant
+Tuberculosis,Diuretic
+Tuberculosis,Expectorant
+Tuberculosis,Febrifuge
+Tuberculosis,Free-Radical Scavenging
+Tuberculosis,Fungicide
+Tuberculosis,Fungistat
+Tuberculosis,Gram(+)icide
+Tuberculosis,Gram(-)icide
+Tuberculosis,Hematonic
+Tuberculosis,Hepatoprotective
+Tuberculosis,Hepatotonic
+Tuberculosis,Immunomodulator
+Tuberculosis,Immunostimulant
+Tuberculosis,MDR-Inhibitor
+Tuberculosis,Mitogenic
+Tuberculosis,Mycobactericide
+Tuberculosis,Myocardiotonic
+Tuberculosis,Myoprotective
+Tuberculosis,Myotonic
+Tuberculosis,Nervine
+Tuberculosis,Neuroprotective
+Tuberculosis,Phagocytotic
+Tuberculosis,Pneumotoxic
+Tuberculosis,Pulmonoprotective
+Tuberculosis,Spasmolytic
+Tuberculosis,Tonic
+Tuberculosis,Tuberculostatic
+Tuberculosis,Vasculoprotective
+Tuberculosis,Vasoprotective
+Tuberculosis,Vasotonic
+Tuberculosis,Venotonic
+Tuberculosis,Viricide
+Tuberculosis,Viristat
+Malaria,(-)-Bactericide
+Malaria,Analgesic
+Malaria,Analgesic-Synergist
+Malaria,Anesthetic
+Malaria,Anesthetic-potentiator
+Malaria,Antianemic
+Malaria,Antianxiety
+Malaria,Antibiotic
+Malaria,Anticapillarihemorrhagic
+Malaria,Anticapillary-Fragility
+Malaria,Anticold
+Malaria,Anticollapse
+Malaria,Anticytomegalovirus
+Malaria,Antidepressant
+Malaria,Antidiarrheic
+Malaria,Antidysenteric
+Malaria,Antifatigue
+Malaria,Antiflu
+Malaria,Antigiardial
+Malaria,Antiinfective
+Malaria,Antiintegrase
+Malaria,Antilethargic
+Malaria,Antimicrobial
+Malaria,Antimutagenic
+Malaria,Antinauseant
+Malaria,Antineuralgic
+Malaria,Antioxidant
+Malaria,Antioxidant Synergist
+Malaria,Antipneumonic
+Malaria,Antitoxic
+Malaria,Antiyeast
+Malaria,Apertif
+Malaria,Astringent
+Malaria,Bacteriolytic
+Malaria,Bacteriophagicide
+Malaria,Bacteriostatic
+Malaria,Bacteristat
+Malaria,Bronchoprotectant
+Malaria,Bronchotonic
+Malaria,Candidicide
+Malaria,Candidistat
+Malaria,Capillarifortificant
+Malaria,Capillariprotective
+Malaria,Capillaritonic
+Malaria,Cardioprotective
+Malaria,Cardiotonic
+Malaria,Cerebroprotective
+Malaria,Cerebrotonic
+Malaria,Circulotonic
+Malaria,Cold-preventive
+Malaria,Counterirritant
+Malaria,COX-1-Inhibitor
+Malaria,Disinfectant
+Malaria,Free-Radical Scavenging
+Malaria,Fungicide
+Malaria,Fungistat
+Malaria,Gastroprotective
+Malaria,Gram(+)icide
+Malaria,Gram(-)icide
+Malaria,Hematonic
+Malaria,Hepatotonic
+Malaria,Immunomodulator
+Malaria,Mycobactericide
+Malaria,Myocardiotonic
+Malaria,Myoprotective
+Malaria,Myotonic
+Malaria,Neuroprotective
+Malaria,Pancreaprotective
+Malaria,Pancreatonic
+Malaria,Pulmonoprotective
+Malaria,Spirocheticide
+Malaria,Tonic
+Malaria,Vasculoprotective
+Malaria,Vasoprotective
+Malaria,Vasotonic
+Malaria,Venotonic
+Malaria,Viristat
+Leishmaniasis,(-)-Bactericide
+Leishmaniasis,Analgesic
+Leishmaniasis,Analgesic-Synergist
+Leishmaniasis,Anesthetic
+Leishmaniasis,Anesthetic-potentiator
+Leishmaniasis,Antiabscess
+Leishmaniasis,Antibacterial
+Leishmaniasis,Antibiotic
+Leishmaniasis,Anticanker
+Leishmaniasis,Anticapillarihemorrhagic
+Leishmaniasis,Anticapillary-Fragility
+Leishmaniasis,Antidermatitic
+Leishmaniasis,Antidermatotic
+Leishmaniasis,Antiedemic
+Leishmaniasis,Antiinfective
+Leishmaniasis,Antiinflammatory
+Leishmaniasis,Antiitch
+Leishmaniasis,Antileishmaniac
+Leishmaniasis,Antileishmanic
+Leishmaniasis,Antimicrobial
+Leishmaniasis,Antineurodermatitic
+Leishmaniasis,Antinociceptive
+Leishmaniasis,Antioxidant
+Leishmaniasis,Antioxidant Synergist
+Leishmaniasis,Antiparasitic
+Leishmaniasis,Antiplasmodial
+Leishmaniasis,Antiprotozoal
+Leishmaniasis,Antipruritic
+Leishmaniasis,Antiseptic
+Leishmaniasis,Antiulcer
+Leishmaniasis,Antiulcerogenic
+Leishmaniasis,Antiviral
+Leishmaniasis,Astringent
+Leishmaniasis,Capillarifortificant
+Leishmaniasis,Capillariprotective
+Leishmaniasis,Capillaritonic
+Leishmaniasis,Circulotonic
+Leishmaniasis,Counterirritant
+Leishmaniasis,COX-1-Inhibitor
+Leishmaniasis,COX-2-Inhibitor
+Leishmaniasis,Cyclooxygenase-Inhibitor
+Leishmaniasis,Cytoprotective
+Leishmaniasis,Disinfectant
+Leishmaniasis,Ectoparasiticide
+Leishmaniasis,Fungicide
+Leishmaniasis,Fungistat
+Leishmaniasis,Gastroprotective
+Leishmaniasis,Gram(+)icide
+Leishmaniasis,Gram(-)icide
+Leishmaniasis,Hematonic
+Leishmaniasis,Hepatoprotective
+Leishmaniasis,Hepatotonic
+Leishmaniasis,Immunostimulant
+Leishmaniasis,Insect-Repellent
+Leishmaniasis,Insecticide
+Leishmaniasis,Insecticide-Synergist
+Leishmaniasis,Insectifuge
+Leishmaniasis,Larvicide
+Leishmaniasis,Larvifuge
+Leishmaniasis,Larvistat
+Leishmaniasis,MDR-Inhibitor
+Leishmaniasis,Mycobactericide
+Leishmaniasis,Nematicide
+Leishmaniasis,Nematistat
+Leishmaniasis,Nervine
+Leishmaniasis,Neuroprotective
+Leishmaniasis,Neurosedative
+Leishmaniasis,Parasiticide
+Leishmaniasis,Pesticide
+Leishmaniasis,Plasmodicide
+Leishmaniasis,Vasculoprotective
+Leishmaniasis,Vasoprotective
+Leishmaniasis,Vasotonic
+Leishmaniasis,Venotonic
+Stress,Adrenalytic
+Stress,Adrenoreceptor Antagonist
+Stress,Antacid
+Stress,Antiadrenergic
+Stress,Antiaging
+Stress,Antianxiety
+Stress,Anticapillary-Fragility
+Stress,Antidepressant
+Stress,Antifatigue
+Stress,Antihypertensive
+Stress,Antiinflammatory
+Stress,Antiinsomniac
+Stress,Antinauseant
+Stress,Antioxidant
+Stress,Antioxidant (LDL)
+Stress,Antioxidant Synergist
+Stress,Antistress
+Stress,Antistressor
+Stress,Antiulcer
+Stress,Antiulcerogenic
+Stress,Anxiolytic
+Stress,Apertif
+Stress,Capillarifortificant
+Stress,Capillariprotective
+Stress,Capillaritonic
+Stress,Cardioprotective
+Stress,Cardiorelaxant
+Stress,Cardiosedative
+Stress,Cardiotonic
+Stress,Carminative
+Stress,Cerebrocirculant
+Stress,Cerebroprotective
+Stress,Cerebrotonic
+Stress,Circulotonic
+Stress,CNS-Depressant
+Stress,Counterirritant
+Stress,COX-2-Inhibitor
+Stress,Cyclooxygenase-Inhibitor
+Stress,Cytoprotective
+Stress,Dopaminergic
+Stress,Dopaminigenic
+Stress,Endorphinogenic
+Stress,Euphoriant
+Stress,Euphoric
+Stress,Euphorigenic
+Stress,GABA-nergic
+Stress,GABA Receptor Agonist
+Stress,Gastroprotective
+Stress,Hypocholesterolemic
+Stress,Hypotensive
+Stress,Immunomodulator
+Stress,Immunostimulant
+Stress,Myorelaxant
+Stress,Nervine
+Stress,Neuroleptic
+Stress,Neurolytic
+Stress,Neuroprotective
+Stress,Neurosedative
+Stress,Pulmonoprotective
+Stress,Sedative
+Stress,Serotoninergic
+Stress,Tonic
+Stress,Tranquilizer
+Stress,Ulcerprotective
+Stress,Vasculoprotective
+Stress,Vasoprotective
+Stress,Vasotonic
+Stress,Venotonic
+Prostatitis,Hypocholesterolemic
+High Blood Pressure/Hypertension,Hypocholesterolemic
+BPH,Hypocholesterolemic
+Impotence,Hypocholesterolemic
+Cancer,Hypocholesterolemic
+ADD,AntiADD
+ADD,Adrenoreceptor Antagonist
+ADD,Antianxiety
+ADD,Antidepressant
+ADD,Antidote (Lead)
+ADD,Antihyperactivity
+ADD,Antihyperkinetic
+ADD,Antihypersensitivity
+ADD,Antihypertensive
+ADD,Antihypertonic
+ADD,Antihyperventilation
+ADD,Antihysteric
+ADD,Antiinflammatory
+ADD,Antiinsomniac
+ADD,Antiinsomnic
+ADD,Antimanic
+ADD,Antioxidant
+ADD,Antioxidant Synergist
+ADD,Antistress
+ADD,Antistressor
+ADD,Anxiolytic
+ADD,Calcium-Antagonist
+ADD,Calcium-Channel-Blocker
+ADD,CNS-Depressant
+ADD,CNS-Sedative
+ADD,CNS-Stimulant
+ADD,Dopaminergic
+ADD,Dopaminigenic
+ADD,Endorphinogenic
+ADD,GABA-Antagonist
+ADD,GABA-Inhibitor
+ADD,GABA-nergic
+ADD,Hypokinetic
+ADD,Hypotensive
+ADD,Immunostimulant
+ADD,Melatoninergic
+ADD,Melatoninogenic
+ADD,Myodepressant
+ADD,Narcotic
+ADD,Nervine
+ADD,Neuroprotective
+ADD,Neurosedative
+ADD,Sedative
+ADD,Serotoninergic
+ADD,Tonic
+ADD,Tranquilizer
+MRSA,(-)-Bactericide
+MRSA,Antiabscess
+MRSA,Antibacterial
+MRSA,Antibiotic
+MRSA,Anticandidosis
+MRSA,Antiinfective
+MRSA,Antiinflammatory
+MRSA,Antimicrobial
+MRSA,AntiMRSA
+MRSA,Antipneumonic
+MRSA,Antiseptic
+MRSA,Antistaph
+MRSA,Antistaphylococcic
+MRSA,Antiviral
+MRSA,Antiyeast
+MRSA,Astringent
+MRSA,Bacteriolytic
+MRSA,Bacteriophagicide
+MRSA,Bacteriostatic
+MRSA,Bacteristat
+MRSA,Bronchoprotectant
+MRSA,Bronchotonic
+MRSA,Candidicide
+MRSA,Candidistat
+MRSA,COX-1-Inhibitor
+MRSA,COX-2-Inhibitor
+MRSA,Cyclooxygenase-Inhibitor
+MRSA,Disinfectant
+MRSA,Fungicide
+MRSA,Fungistat
+MRSA,Gastroprotective
+MRSA,Gram(+)icide
+MRSA,Gram(-)icide
+MRSA,Hepatoprotective
+MRSA,Immunostimulant
+MRSA,MDR-Inhibitor
+MRSA,Mycobactericide
+MRSA,Protisticide
+MRSA,Tonic
+Caries,(-)-Bactericide
+Caries,Antiabscess
+Caries,Antibacterial
+Caries,Antibiotic
+Caries,Anticandidosis
+Caries,Anticaries
+Caries,Anticariogenic
+Caries,Antigingivitic
+Caries,Antiinfective
+Caries,Antiinflammatory
+Caries,Antimicrobial
+Caries,Antiodontalgic
+Caries,Antiosteoporotic
+Caries,Antiosteotic
+Caries,Antioxidant
+Caries,Antioxidant Synergist
+Caries,Antiperiodontal
+Caries,Antiperiodontic
+Caries,Antiperiodontitic
+Caries,Antiplaque
+Caries,Antiseptic
+Caries,Antistrep
+Caries,Antistreptococcic
+Caries,Antiyeast
+Caries,Astringent
+Caries,Bacteriolytic
+Caries,Bacteriophagicide
+Caries,Bacteriostatic
+Caries,Bacteristat
+Caries,Candidicide
+Caries,Candidistat
+Caries,Disinfectant
+Caries,Gram(+)icide
+Caries,Gram(-)icide
+Caries,Mycobactericide
+Caries,Osteogenic
+Caries,Sialogogue
+Caries,Antiodonititic
+Fibromyalgia,Adaptogenic
+Fibromyalgia,Analgesic
+Fibromyalgia,Analgesic-Synergist
+Fibromyalgia,Anesthetic
+Fibromyalgia,Anesthetic-potentiator
+Fibromyalgia,Antiallergenic
+Fibromyalgia,Antiallergic
+Fibromyalgia,Antianxiety
+Fibromyalgia,Antibiotic
+Fibromyalgia,Antidepressant
+Fibromyalgia,Antiedemic
+Fibromyalgia,Antifatigue
+Fibromyalgia,Antifibromyalgic
+Fibromyalgia,Antiinflammatory
+Fibromyalgia,Antilethargic
+Fibromyalgia,Antileukotriene
+Fibromyalgia,Antileukotriene-B4
+Fibromyalgia,Antileukotriene-D4
+Fibromyalgia,Antileukotrienogenic
+Fibromyalgia,Antimyalgic
+Fibromyalgia,Antimyocontractant
+Fibromyalgia,Antinociceptive
+Fibromyalgia,Antioxidant
+Fibromyalgia,Antipharyngitic
+Fibromyalgia,Antiprostaglandigenic
+Fibromyalgia,Antiprostaglandin
+Fibromyalgia,Antirheumatalgic
+Fibromyalgia,Antirheumatic
+Fibromyalgia,Antispasmodic
+Fibromyalgia,Antispasmogenic
+Fibromyalgia,Antispastic
+Fibromyalgia,Antistress
+Fibromyalgia,Antistressor
+Fibromyalgia,Antiviral
+Fibromyalgia,Anxiolytic
+Fibromyalgia,Bacteriophagicide
+Fibromyalgia,COX-2-Inhibitor
+Fibromyalgia,Counterirritant
+Fibromyalgia,Cyclooxygenase-Inhibitor
+Fibromyalgia,Hyperglycemic
+Fibromyalgia,Immunomodulator
+Fibromyalgia,Immunostimulant
+Fibromyalgia,Interferon-Synergist
+Fibromyalgia,Interferonogenic
+Fibromyalgia,Leukotriene-Inhibitor
+Fibromyalgia,Mitochondriaprotective
+Fibromyalgia,Mitochondriastimulant
+Fibromyalgia,Myoprotective
+Fibromyalgia,Myorelaxant
+Fibromyalgia,Myotonic
+Fibromyalgia,Nervine
+Fibromyalgia,Phagicide
+Fibromyalgia,Phagocytotic
+Fibromyalgia,Prostaglandin-Synthesis-Inhibitor
+Fibromyalgia,Prostaglandin-Synthetase-Inhibitor
+Fibromyalgia,Serotoninergic
+Fibromyalgia,SSRI
+Fibromyalgia,Stimulant
+Fibromyalgia,Tonic
+Fibromyalgia,Viricide
+Fibromyalgia,Viristat
+Kidney Stones,Antilithic
+Kidney Stones,Antiprostaglandigenic
+Kidney Stones,AntiTNF
+Kidney Stones,Choleretic
+Kidney Stones,Demulcent
+Kidney Stones,Diuretic
+Kidney Stones,Litholytic
+Kidney Stones,Prostaglandin-Synthesis-Inhibitor
+Kidney Stones,Prostaglandin-Synthetase-Inhibitor
+Kidney Stones,Sodium-Blocker
+High Blood Pressure/Hypertension,ACE-Inhibitor
+High Blood Pressure/Hypertension,Antiangiotensic
+Bursitis,Analgesic
+Bursitis,Anesthetic
+Bursitis,Antiarthritic
+Bursitis,Antibursitic
+Bursitis,Anticapillary-Fragility
+Bursitis,Anticollagenase
+Bursitis,Anticollegenase
+Bursitis,Antidermatitic
+Bursitis,Antiedemic
+Bursitis,Antielastase
+Bursitis,Antigout
+Bursitis,Antiinfective
+Bursitis,Antiinflammatory
+Bursitis,Antilumbagic
+Bursitis,Antilymphedemic
+Bursitis,Antineuritic
+Bursitis,Antinociceptive
+Bursitis,Antiosteoarthritic
+Bursitis,Antiosteotic
+Bursitis,Antiprostaglandigenic
+Bursitis,Antiprostaglandin
+Bursitis,Antipyretic
+Bursitis,Antirheumatalgic
+Bursitis,Antirheumatic
+Bursitis,Antispasmodic
+Bursitis,Antispasmogenic
+Bursitis,AntiTNF
+Bursitis,Capillarifortificant
+Bursitis,Capillariprotective
+Bursitis,Circulatory-Stimulant
+Bursitis,Collagenase-Inhibitor
+Bursitis,Counterirritant
+Bursitis,COX-2-Inhibitor
+Bursitis,Cyclooxygenase-Inhibitor
+Bursitis,Diuretic
+Bursitis,Elastase-Inhibitor
+Bursitis,Glucose-6-Phosphatase-Stimulant
+Bursitis,Hydrating
+Bursitis,Hypouricemic
+Bursitis,Lipoxygenase-Inhibitor
+Bursitis,12-Lipoxygenase-Inhibitor
+Bursitis,Lymphatic
+Bursitis,Myorelaxant
+Bursitis,Natriuretic
+Bursitis,Nervine
+Bursitis,Prostaglandin-Synthesis-Inhibitor
+Bursitis,Proteolytic
+Bursitis,Rubefacient
+Bursitis,Saluretic
+Bursitis,Spasmolytic
+Bursitis,Urealytic
+Bursitis,Uricosuric
+Bursitis,Xanthine-Oxidase-Inhibitor
+Cough,Analgesic
+Cough,Anesthetic
+Cough,Antiallergenic
+Cough,Antiallergic
+Cough,Antibacterial
+Cough,Antibiotic
+Cough,Antibronchitic
+Cough,Antibronchoconstrictor
+Cough,Anticandidosis
+Cough,Anticatarrh
+Cough,Antihistaminic
+Cough,Antihistamine
+Cough,Antiinfective
+Cough,Antiinflammatory
+Cough,Antilaryngitic
+Cough,Antimicrobial
+Cough,Antinociceptive
+Cough,Antioxidant
+Cough,Antipertussic
+Cough,Antipertussive
+Cough,Antipharyngitic
+Cough,Antiseptic
+Cough,Antisinusitic
+Cough,Antispasmodic
+Cough,Antispasmogenic
+Cough,Antispastic
+Cough,Antistress
+Cough,Antistressor
+Cough,Antitussive
+Cough,Antiviral
+Cough,Bacteriophagicide
+Cough,Bacteristat
+Cough,Bronchodilator
+Cough,Bronchoprotectant
+Cough,Bronchorelaxant
+Cough,Bronchosedative
+Cough,Bronchospasmolytic
+Cough,Bronchotonic
+Cough,Candidicide
+Cough,Candidistat
+Cough,Cold-preventive
+Cough,Counterirritant
+Cough,COX-2-Inhibitor
+Cough,Cyclooxygenase-Inhibitor
+Cough,Decongestant
+Cough,Demulcent
+Cough,Disinfectant
+Cough,Expectorant
+Cough,Immunomodulator
+Cough,Immunostimulant
+Cough,Mucoregulator
+Cough,Mycobactericide
+Cough,Phagocytotic
+Cough,Secretolytic
+Cough,Secretomotor
+Cough,Sedative
+Cough,Spasmolytic
+Cough,Tonic
+Diverticulitis,Analgesic
+Diverticulitis,Anesthetic
+Diverticulitis,Antiacid
+Diverticulitis,Antianxiety
+Diverticulitis,Antibacterial
+Diverticulitis,Anticancer (Colon)
+Diverticulitis,Anticapillary-Fragility
+Diverticulitis,Anticarcinomic (Colon)
+Diverticulitis,Anticolonospasmic
+Diverticulitis,Antidiarrheic
+Diverticulitis,Antidyspeptic
+Diverticulitis,Antiedemic
+Diverticulitis,Antiemetic
+Diverticulitis,Antienteritic
+Diverticulitis,Antienterotic
+Diverticulitis,Antienterotoxic
+Diverticulitis,Antiflatulent
+Diverticulitis,Antigastric
+Diverticulitis,Antigastritic
+Diverticulitis,Antigastrotic
+Diverticulitis,Antihemorrhoidal
+Diverticulitis,AntiIBD
+Diverticulitis,Antiinflammatory
+Diverticulitis,Antilymphedemic
+Diverticulitis,Antimicrobial
+Diverticulitis,Antinociceptive
+Diverticulitis,Antioxidant
+Diverticulitis,Antioxidant Synergist
+Diverticulitis,Antiscorbutic
+Diverticulitis,Antiseptic
+Diverticulitis,Antispasmodic
+Diverticulitis,Antispasmogenic
+Diverticulitis,Antistress
+Diverticulitis,Antistressor
+Diverticulitis,Antitumor (Colon)
+Diverticulitis,Antiulcer
+Diverticulitis,Antiulcerogenic
+Diverticulitis,Anxiolytic
+Diverticulitis,Capillarifortificant
+Diverticulitis,Capillariprotective
+Diverticulitis,Carminative
+Diverticulitis,Chemopreventive (Colon Cancer)
+Diverticulitis,Circulatory-Stimulant
+Diverticulitis,Counterirritant
+Diverticulitis,COX-2-Inhibitor
+Diverticulitis,Cyclooxygenase-Inhibitor
+Diverticulitis,Demulcent
+Diverticulitis,Digestive
+Diverticulitis,Diuretic
+Diverticulitis,Enterotonic
+Diverticulitis,Fiber-Rich
+Diverticulitis,Gastric-Anesthetic
+Diverticulitis,Gastroprotective
+Diverticulitis,Gastrosedative
+Diverticulitis,Gastrostimulant
+Diverticulitis,Hepatoprotective
+Diverticulitis,Laxative
+Diverticulitis,Lipoxygenase-Inhibitor
+Diverticulitis,Lymphatic
+Diverticulitis,Myorelaxant
+Diverticulitis,Natriuretic
+Diverticulitis,Nervine
+Diverticulitis,Peristaltic
+Diverticulitis,Prebiotic
+Diverticulitis,Probiotic
+Diverticulitis,Proteolytic
+Diverticulitis,Purgative
+Diverticulitis,Saluretic
+Diverticulitis,Secretogogue
+Diverticulitis,Sedative
+Diverticulitis,Sialogogue
+Diverticulitis,Stimulant
+Diverticulitis,Stomachic
+Diverticulitis,Tonic
+Dry Mouth / Xerostomia,Antianxiety
+Dry Mouth / Xerostomia,Anticaries
+Dry Mouth / Xerostomia,Anticariogenic
+Dry Mouth / Xerostomia,Antidepressant
+Dry Mouth / Xerostomia,Antidiabetic
+Dry Mouth / Xerostomia,Antimicrobial
+Dry Mouth / Xerostomia,Antiplaque
+Dry Mouth / Xerostomia,Antixerostomic
+Dry Mouth / Xerostomia,Antixerotic
+Dry Mouth / Xerostomia,Anxiolytic
+Dry Mouth / Xerostomia,Demulcent
+Dry Mouth / Xerostomia,Immunomodulator
+Dry Mouth / Xerostomia,Immunostimulant
+Dry Mouth / Xerostomia,Lachrymatory
+Dry Mouth / Xerostomia,Nervine
+Dry Mouth / Xerostomia,Neuroprotective
+Dry Mouth / Xerostomia,Sialogogue
+Fibromyalgia,Antiacid
+Fibromyalgia,Antiarthritic
+Fibromyalgia,Antibacterial
+Fibromyalgia,Anticollagenase
+Fibromyalgia,Anticollegenase
+Fibromyalgia,Antidermatitic
+Fibromyalgia,Antidyspeptic
+Fibromyalgia,Antielastase
+Fibromyalgia,Antiemetic
+Fibromyalgia,Antiflatulent
+Fibromyalgia,Antigastric
+Fibromyalgia,Antigastritic
+Fibromyalgia,Antigastrotic
+Fibromyalgia,AntiIBD
+Fibromyalgia,Antiinsomnic
+Fibromyalgia,Antinauseant
+Fibromyalgia,Antineuralgic
+Fibromyalgia,Antineuritic
+Fibromyalgia,Antiosteoarthritic
+Fibromyalgia,Antiosteotic
+Fibromyalgia,Antioxidant Synergist
+Fibromyalgia,Antipeptic
+Fibromyalgia,Antiseptic
+Fibromyalgia,Antiulcer
+Fibromyalgia,Antiulcerogenic
+Fibromyalgia,Bitter
+Fibromyalgia,Capillarifortificant
+Fibromyalgia,Capillariprotective
+Fibromyalgia,Carminative
+Fibromyalgia,Circulatory-Stimulant
+Fibromyalgia,Collagenase-Inhibitor
+Fibromyalgia,Demulcent
+Fibromyalgia,Digestive
+Fibromyalgia,Diuretic
+Fibromyalgia,Elastase-Inhibitor
+Fibromyalgia,Endorphinogenic
+Fibromyalgia,Energizer
+Fibromyalgia,Euphoriant
+Fibromyalgia,Euphoric
+Fibromyalgia,Euphorigenic
+Fibromyalgia,Gastric-Anesthetic
+Fibromyalgia,Gastroprotective
+Fibromyalgia,Gastrosedative
+Fibromyalgia,Gastrostimulant
+Fibromyalgia,Increase Natural Killer (NK) Cell Activity
+Fibromyalgia,Increase T-lymphocyte Proliferation
+Fibromyalgia,Lipoxygenase-Inhibitor
+Fibromyalgia,12-Lipoxygenase-Inhibitor
+Fibromyalgia,Memorigenic
+Fibromyalgia,Natriuretic
+Fibromyalgia,Neuroprotective
+Fibromyalgia,Neurosedative
+Fibromyalgia,Proteolytic
+Fibromyalgia,Saluretic
+Fibromyalgia,Secretogogue
+Fibromyalgia,Sedative
+Fibromyalgia,Sialogogue
+Fibromyalgia,Spasmolytic
+Fibromyalgia,Tranquilizer
+Sore Throat / Laryngitis / Pharyngitis,Analgesic
+Sore Throat / Laryngitis / Pharyngitis,Anesthetic
+Sore Throat / Laryngitis / Pharyngitis,Antiallergenic
+Sore Throat / Laryngitis / Pharyngitis,Antiallergic
+Sore Throat / Laryngitis / Pharyngitis,Antibacterial
+Sore Throat / Laryngitis / Pharyngitis,Antibiotic
+Sore Throat / Laryngitis / Pharyngitis,Antibronchitic
+Sore Throat / Laryngitis / Pharyngitis,Anticandidosis
+Sore Throat / Laryngitis / Pharyngitis,Anticatarrh
+Sore Throat / Laryngitis / Pharyngitis,Antihistaminic
+Sore Throat / Laryngitis / Pharyngitis,Antihistamine
+Sore Throat / Laryngitis / Pharyngitis,Antiinfective
+Sore Throat / Laryngitis / Pharyngitis,Antiinflammatory
+Sore Throat / Laryngitis / Pharyngitis,Antilaryngitic
+Sore Throat / Laryngitis / Pharyngitis,Antimicrobial
+Sore Throat / Laryngitis / Pharyngitis,Antinociceptive
+Sore Throat / Laryngitis / Pharyngitis,Antioxidant
+Sore Throat / Laryngitis / Pharyngitis,Antipertussic
+Sore Throat / Laryngitis / Pharyngitis,Antipertussive
+Sore Throat / Laryngitis / Pharyngitis,Antipharyngitic
+Sore Throat / Laryngitis / Pharyngitis,Antiseptic
+Sore Throat / Laryngitis / Pharyngitis,Antisinusitic
+Sore Throat / Laryngitis / Pharyngitis,Antistress
+Sore Throat / Laryngitis / Pharyngitis,Antistressor
+Sore Throat / Laryngitis / Pharyngitis,Antitussive
+Sore Throat / Laryngitis / Pharyngitis,Antiviral
+Sore Throat / Laryngitis / Pharyngitis,Bacteriophagicide
+Sore Throat / Laryngitis / Pharyngitis,Bacteristat
+Sore Throat / Laryngitis / Pharyngitis,Bronchoprotectant
+Sore Throat / Laryngitis / Pharyngitis,Bronchotonic
+Sore Throat / Laryngitis / Pharyngitis,Candidicide
+Sore Throat / Laryngitis / Pharyngitis,Candidistat
+Sore Throat / Laryngitis / Pharyngitis,Cold-preventive
+Sore Throat / Laryngitis / Pharyngitis,Counterirritant
+Sore Throat / Laryngitis / Pharyngitis,COX-2-Inhibitor
+Sore Throat / Laryngitis / Pharyngitis,Cyclooxygenase-Inhibitor
+Sore Throat / Laryngitis / Pharyngitis,Demulcent
+Sore Throat / Laryngitis / Pharyngitis,Disinfectant
+Sore Throat / Laryngitis / Pharyngitis,Immunomodulator
+Sore Throat / Laryngitis / Pharyngitis,Immunostimulant
+Sore Throat / Laryngitis / Pharyngitis,Mucoregulator
+Sore Throat / Laryngitis / Pharyngitis,Mycobactericide
+Sore Throat / Laryngitis / Pharyngitis,Phagocytotic
+Sore Throat / Laryngitis / Pharyngitis,Secretolytic
+Sore Throat / Laryngitis / Pharyngitis,Secretomotor
+Sore Throat / Laryngitis / Pharyngitis,Sedative
+Sore Throat / Laryngitis / Pharyngitis,Spasmolytic
+Sore Throat / Laryngitis / Pharyngitis,Tonic
+Sore Throat / Laryngitis / Pharyngitis,Tracheorelaxant
+Sinusitis,12-Lipoxygenase-Inhibitor
+Sinusitis,Analgesic
+Sinusitis,Anesthetic
+Sinusitis,Antiallergenic
+Sinusitis,Antiallergic
+Sinusitis,Antiasthmatic
+Sinusitis,Antibacterial
+Sinusitis,Antibiotic
+Sinusitis,Antibronchitic
+Sinusitis,Antibronchoconstrictor
+Sinusitis,Anticold
+Sinusitis,Antidermatitic
+Sinusitis,Antiedemic
+Sinusitis,Antihistaminic
+Sinusitis,Antiinflammatory
+Sinusitis,Antiitch
+Sinusitis,Antimigraine
+Sinusitis,Antimyalgic
+Sinusitis,Antineuralgic
+Sinusitis,Antinociceptive
+Sinusitis,Antioxidant
+Sinusitis,Antipharyngitic
+Sinusitis,Antiprostaglandin
+Sinusitis,Antipruritic
+Sinusitis,Antirhinitic
+Sinusitis,Antirhinoviral
+Sinusitis,Antiseptic
+Sinusitis,Antisinusitic
+Sinusitis,Antispasmodic
+Sinusitis,Antitussive
+Sinusitis,Antiviral
+Sinusitis,Arteriodilator
+Sinusitis,Asthma-preventive
+Sinusitis,Astringent
+Sinusitis,Bronchodilator
+Sinusitis,Bronchorelaxant
+Sinusitis,Bronchosedative
+Sinusitis,Bronchospasmolytic
+Sinusitis,Bronchotonic
+Sinusitis,Counterirritant
+Sinusitis,COX-2-Inhibitor
+Sinusitis,Cyclooxygenase-Inhibitor
+Sinusitis,Decongestant
+Sinusitis,Expectorant
+Sinusitis,Febrifuge
+Sinusitis,Immunomodulator
+Sinusitis,Immunostimulant
+Sinusitis,Antiinterleukin-1
+Sinusitis,Lipoxygenase-Inhibitor
+Sinusitis,Mast-Cell-Stabilizer
+Sinusitis,Myorelaxant
+Sinusitis,PAF-Inhibitor
+Sinusitis,Phagocytotic
+Sinusitis,Prostaglandin-Synthesis-Inhibitor
+Sinusitis,Prostaglandin-Synthetase-Inhibitor
+Sinusitis,Tranquilizer
+Sinusitis,Sedative
+Sinusitis,Spasmolytic
+Sinusitis,Vasodilator
+Sinusitis,Viricide
+Sinusitis,Viristat
+Sunburn,Analgesic
+Sunburn,Anesthetic
+Sunburn,Antibacterial
+Sunburn,Antibiotic
+Sunburn,Anticancer
+Sunburn,Anticancer (Skin)
+Sunburn,Anticapillary-Fragility
+Sunburn,Anticarcinogenic
+Sunburn,Anticarcinomic
+Sunburn,Antidermatitic
+Sunburn,Antiedemic
+Sunburn,Antiinflammatory
+Sunburn,Antiitch
+Sunburn,Antilymphedemic
+Sunburn,Antimelanomic
+Sunburn,Antimutagenic
+Sunburn,Antinociceptive
+Sunburn,Antioxidant
+Sunburn,Antiperoxidant
+Sunburn,Antipyretic
+Sunburn,Antiseptic
+Sunburn,Antistress
+Sunburn,Antisunburn
+Sunburn,Antitumor
+Sunburn,Antitumor (Skin)
+Sunburn,Antitumor-Initiator
+Sunburn,Antitumor-Promoter
+Sunburn,Bacteristat
+Sunburn,Cancer-Preventive
+Sunburn,Cancerostatic
+Sunburn,Capillarifortificant
+Sunburn,Capillariprotective
+Sunburn,Carcinostatic
+Sunburn,Chemopreventive
+Sunburn,Circulatory-Stimulant
+Sunburn,COX-2-Inhibitor
+Sunburn,Cyclooxygenase-Inhibitor
+Sunburn,Demulcent
+Sunburn,Immunomodulator
+Sunburn,Immunostimulant
+Sunburn,Moisturizing
+Sunburn,Nervine
+Sunburn,Saluretic
+Sunburn,Sunscreen
+Sunburn,Ultraviolet-Screen
+Sunburn,UV-Screen
+Sunburn,Vulnerary
+Tinnitus,Antianxiety
+Tinnitus,Antiatherogenic
+Tinnitus,Antiatheromic
+Tinnitus,Antiatherosclerotic
+Tinnitus,Antiatherotic
+Tinnitus,Anticholesteremic
+Tinnitus,Anticholesterogenic
+Tinnitus,Antidepressant
+Tinnitus,Antihypercholesterolemic
+Tinnitus,Antihypertensive
+Tinnitus,Antiinflammatory
+Tinnitus,Antiinsomniac
+Tinnitus,Antiinsomnic
+Tinnitus,Antiotalgic
+Tinnitus,Antiotitic
+Tinnitus,Antiototic
+Tinnitus,Antistress
+Tinnitus,Antistressor
+Tinnitus,Antitinnitic
+Tinnitus,Anxiolytic
+Tinnitus,CNS-Depressant
+Tinnitus,CNS-Inhibitor
+Tinnitus,CNS-Sedative
+Tinnitus,CNS-Suppressant
+Tinnitus,Hypocholesterolemic
+Tinnitus,Hypotensive
+Tinnitus,Myodepressant
+Tinnitus,Myoprotective
+Tinnitus,Myorelaxant
+Tinnitus,Myotonic
+Tinnitus,Sedative
+Tinnitus,Serotoninergic
+Athletes Foot,Antiabscess
+Athletes Foot,Antiactinomycotic
+Athletes Foot,Antibacterial
+Athletes Foot,Anticandidosis
+Athletes Foot,Anticapillary-Fragility
+Athletes Foot,Anticryptococcic
+Athletes Foot,Antiedemic
+Athletes Foot,Antiinfective
+Athletes Foot,Antiinflammatory
+Athletes Foot,Antilymphedemic
+Athletes Foot,Antimycoplasmotic
+Athletes Foot,Antimycotic
+Athletes Foot,Antiyeast
+Athletes Foot,Astringent
+Athletes Foot,Bacteriolytic
+Athletes Foot,Bacteriophagicide
+Athletes Foot,Bacteriostatic
+Athletes Foot,Bacteristat
+Athletes Foot,Candidicide
+Athletes Foot,Candidistat
+Athletes Foot,Capillarifortificant
+Athletes Foot,Capillariprotective
+Athletes Foot,COX-2-Inhibitor
+Athletes Foot,Cyclooxygenase-Inhibitor
+Athletes Foot,Disinfectant
+Athletes Foot,Diuretic
+Athletes Foot,Fungicide
+Athletes Foot,Fungistat
+Athletes Foot,Gram(+)icide
+Athletes Foot,Gram(-)icide
+Athletes Foot,Immunostimulant
+Athletes Foot,MDR-Efflux Pump Inhibitor
+Athletes Foot,MDR-Inhibitor
+Athletes Foot,Mycobactericide
+Athletes Foot,Mycolytic
+Athletes Foot,Mycoplasmicide
+Athletes Foot,Mycoplasmistat
+Athletes Foot,Tineacide
+Angina,ACE-Inhibitor
+Angina,Antiarrhythmic
+Angina,Antiinfarctal
+Angina,Antistressor
+Angina,Antitachycardic
+Angina,Antithrombotic
+Angina,Beta-Adrenergic Receptor Blocker
+Angina,Capillarifortificant
+Angina,Capillariprotective
+Angina,Capillaritonic
+Angina,COX-2-Inhibitor
+Angina,Cyclooxygenase-Inhibitor
+Allergy,Antiallergenic
+Asthma,Antiallergenic
+Bronchitis,Antiallergenic
+Bronchitis,Antiallergic
+Constipation,Antihemorrhoidal
+Constipation,Antistress
+Constipation,Antistressor
+Constipation,Digestive
+Constipation,Peristaltic
+Halitosis,Deodorant
+Hayfever,Antiallergenic
+Insomnia,Antiinsomnic
+Insomnia,Antistressor
+Pneumonia,Fungicide
+Pneumonia,Fungistat
+Pneumonia,Antiallergenic
+Pneumonia,Antiallergic
+Pneumonia,Antiinfective
+Pneumonia,Antispasmogenic
+Pneumonia,Mycobactericide
+Warts,Antipapillomic
+Warts,Proteolytic
+Kidney Stones,Anticholecystitic
+Infection,AntiMRSA
+Infection,Anticholeretic
+Infection,Anticholera
+BO (Body Odor),Antianxiety
+BO (Body Odor),Antibacterial
+BO (Body Odor),Antibiotic
+BO (Body Odor),Anticandidosis
+BO (Body Odor),Antiexudative
+BO (Body Odor),Antihyperactivity
+BO (Body Odor),Antihypertensive
+BO (Body Odor),Antimicrobial
+BO (Body Odor),Antiperspirant
+BO (Body Odor),Antisecretory
+BO (Body Odor),Antiseptic
+BO (Body Odor),Antistress
+BO (Body Odor),Antistressor
+BO (Body Odor),Antiyeast
+BO (Body Odor),Anxiolytic
+BO (Body Odor),Astringent
+BO (Body Odor),Bactericide
+BO (Body Odor),Bacteriolytic
+BO (Body Odor),Bacteristat
+BO (Body Odor),Candidicide
+BO (Body Odor),Candidistat
+BO (Body Odor),Deodorant
+BO (Body Odor),Disinfectant
+BO (Body Odor),Fungicide
+BO (Body Odor),Fungistat
+BO (Body Odor),Hypotensive
+BO (Body Odor),Hypothermic
+BO (Body Odor),Myorelaxant
+BO (Body Odor),Refrigerant
+BO (Body Odor),Sedative
+BO (Body Odor),Tranquilizer
+Dandruff,Antiallergenic
+Dandruff,Antiallergic
+Dandruff,Antialopecic
+Dandruff,Antibacterial
+Dandruff,Antibiotic
+Dandruff,Antidandruff
+Dandruff,Antidermatic
+Dandruff,Antidermatitic
+Dandruff,Antidermatophytic
+Dandruff,Antidermatotic
+Dandruff,Antieczemic
+Dandruff,Antifungal
+Dandruff,Antihyperkeratotic
+Dandruff,Antihypersensitivity
+Dandruff,Antiinfective
+Dandruff,Antiinflammatory
+Dandruff,Antiitch
+Dandruff,Antikeratitic
+Dandruff,Antikeratotic
+Dandruff,Antimelanomic
+Dandruff,Antimicrobial
+Dandruff,Antioxidant
+Dandruff,Antipeptic
+Dandruff,Antiproliferative
+Dandruff,Antipruritic
+Dandruff,Antipsoriac
+Dandruff,Antipsoriatic
+Dandruff,Antiseborrheic
+Dandruff,Antisecretory
+Dandruff,Antiseptic
+Dandruff,Antistress
+Dandruff,Antiyeast
+Dandruff,Astringent
+Dandruff,Bacteriolytic
+Dandruff,Bacteriophagicide
+Dandruff,Bacteriostatic
+Dandruff,Bacteristat
+Dandruff,Candidicide
+Dandruff,Candidistat
+Dandruff,Circulotonic
+Dandruff,Collagen-Sparing
+Dandruff,Comedolytic
+Dandruff,Counterirritant
+Dandruff,COX-2-Inhibitor
+Dandruff,Cyclooxygenase-Inhibitor
+Dandruff,Demulcent
+Dandruff,Dermatophyticide
+Dandruff,Disinfectant
+Dandruff,Emollient
+Dandruff,Fungicide
+Dandruff,Fungistat
+Dandruff,Immunomodulator
+Dandruff,Immunostimulant
+Dandruff,Keratolytic
+Dandruff,MDR-Inhibitor
+Dandruff,Mycobactericide
+Dandruff,Moisturizing
+Dandruff,Nervine
+Dandruff,Suppurative
+Dandruff,Vulnerary
+GERD / Esophageal Reflux,Antacid
+GERD / Esophageal Reflux,Antiacid
+GERD / Esophageal Reflux,Anticonstrictive
+GERD / Esophageal Reflux,Anticonvulsant
+GERD / Esophageal Reflux,Antidyspeptic
+GERD / Esophageal Reflux,Antiemetic
+GERD / Esophageal Reflux,Antiesophagitic
+GERD / Esophageal Reflux,Antigastric
+GERD / Esophageal Reflux,Antigastrisecretogogic
+GERD / Esophageal Reflux,Antigastritic
+GERD / Esophageal Reflux,Antigastrotic
+GERD / Esophageal Reflux,AntiGERD
+GERD / Esophageal Reflux,Antihalitosic
+GERD / Esophageal Reflux,Antiheartburn
+GERD / Esophageal Reflux,Antihypertensive
+GERD / Esophageal Reflux,Antiinflammatory
+GERD / Esophageal Reflux,Antimyocontractant
+GERD / Esophageal Reflux,Antinauseant
+GERD / Esophageal Reflux,Antipeptic
+GERD / Esophageal Reflux,Antiperistaltic
+GERD / Esophageal Reflux,Antispasmodic
+GERD / Esophageal Reflux,Antispasmogenic
+GERD / Esophageal Reflux,Antispasmophilic
+GERD / Esophageal Reflux,Antispastic
+GERD / Esophageal Reflux,Antistress
+GERD / Esophageal Reflux,Antistressor
+GERD / Esophageal Reflux,Antiulcer
+GERD / Esophageal Reflux,Anxiolytic
+GERD / Esophageal Reflux,Apertif
+GERD / Esophageal Reflux,Calcium-Antagonist
+GERD / Esophageal Reflux,Calcium-Blocker
+GERD / Esophageal Reflux,Calcium-Channel-Blocker
+GERD / Esophageal Reflux,Digestive
+GERD / Esophageal Reflux,Enterotonic
+GERD / Esophageal Reflux,Gastroprotective
+GERD / Esophageal Reflux,Gastrosedative
+GERD / Esophageal Reflux,Gastrostimulant
+GERD / Esophageal Reflux,Hypotensive
+GERD / Esophageal Reflux,Myoprotective
+GERD / Esophageal Reflux,Myorelaxant
+GERD / Esophageal Reflux,Myotonic
+GERD / Esophageal Reflux,Nervine
+GERD / Esophageal Reflux,Neuroprotective
+GERD / Esophageal Reflux,Neurosedative
+GERD / Esophageal Reflux,Peristaltic
+GERD / Esophageal Reflux,Sedative
+GERD / Esophageal Reflux,Stomachic
+GERD / Esophageal Reflux,Tonic
+GERD / Esophageal Reflux,Tranquilizer
+Neuropathy,12-Lipoxygenase-Inhibitor
+Neuropathy,Adaptogenic
+Neuropathy,Analgesic
+Neuropathy,Analgesic-Synergist
+Neuropathy,Anesthetic
+Neuropathy,Anesthetic-potentiator
+Neuropathy,Antiallergenic
+Neuropathy,Antiallergic
+Neuropathy,Antianxiety
+Neuropathy,Antiarthritic
+Neuropathy,Anticonvulsant
+Neuropathy,Antidepressant
+Neuropathy,Antidermatitic
+Neuropathy,Antiedemic
+Neuropathy,Antifatigue
+Neuropathy,Antifibromyalgic
+Neuropathy,Antiherpetic
+Neuropathy,Antihypertensive
+Neuropathy,Antihypersensitivity
+Neuropathy,Antiinflammatory
+Neuropathy,Antileukotriene
+Neuropathy,Antilumbagic
+Neuropathy,AntiMS
+Neuropathy,Antimyalgic
+Neuropathy,Antimyelotoxic
+Neuropathy,Antimyocontractant
+Neuropathy,Antineuralgic
+Neuropathy,Antineuritic
+Neuropathy,Antineurodermatitic
+Neuropathy,Antineuropathic
+Neuropathy,Antinociceptive
+Neuropathy,Antioxidant
+Neuropathy,Antioxidant Synergist
+Neuropathy,Antiparkinsonian
+Neuropathy,Antiperoxidant
+Neuropathy,Antirheumatalgic
+Neuropathy,Antirheumatic
+Neuropathy,Antisciatic
+Neuropathy,Antispasmodic
+Neuropathy,Antispasmogenic
+Neuropathy,Antispastic
+Neuropathy,Antistress
+Neuropathy,Antistressor
+Neuropathy,Anxiolytic
+Neuropathy,CNS-Depressant
+Neuropathy,Counterirritant
+Neuropathy,COX-2-Inhibitor
+Neuropathy,Cyclooxygenase-Inhibitor
+Neuropathy,Detoxicant
+Neuropathy,Immunomodulator
+Neuropathy,Lipoxygenase-Inhibitor
+Neuropathy,MDR-Inhibitor
+Neuropathy,Myoprotective
+Neuropathy,Myorelaxant
+Neuropathy,Myotonic
+Neuropathy,Narcotic
+Neuropathy,Nervine
+Neuropathy,Neurogenic
+Neuropathy,Neuroleptic
+Neuropathy,Neurolytic
+Neuropathy,Neuroprotective
+Neuropathy,Neurosedative
+Neuropathy,Rubefacient
+Neuropathy,Sedative
+Neuropathy,Spasmolytic
+Neuropathy,Tonic
+Neuropathy,Tranquilizer
+Nightmare,Adrenergic-Blocker
+Nightmare,Analgesic
+Nightmare,Analgesic-Synergist
+Nightmare,Antiadrenergic
+Nightmare,Antianxiety
+Nightmare,Antideliriant
+Nightmare,Antidelirium
+Nightmare,Antidepressant
+Nightmare,Antihysteric
+Nightmare,Antiinsomniac
+Nightmare,Antiinsomnic
+Nightmare,Antineurotic
+Nightmare,Antinightmare
+Nightmare,Antinightsweats
+Nightmare,Antinociceptive
+Nightmare,Antipsychotic
+Nightmare,Antistress
+Nightmare,Antistressor
+Nightmare,Anxiolytic
+Nightmare,Cerebrodepressant
+Nightmare,Cerebroprotective
+Nightmare,Cerebrotonic
+Nightmare,CNS-Depressant
+Nightmare,CNS-Sedative
+Nightmare,Euphoriant
+Nightmare,Euphoric
+Nightmare,Euphorigenic
+Nightmare,Hypnotic
+Nightmare,Hypnotic-Synergist
+Nightmare,Myorelaxant
+Nightmare,Narcotic
+Nightmare,Neurosedative
+Nightmare,Sedative
+Nightmare,Soporific
+Nightmare,Tranquilizer
+Herpes,Analgesic-Synergist
+Herpes,Anesthetic-potentiator
+Herpes,Antiabscess
+Herpes,Antianxiety
+Herpes,Antibacterial
+Herpes,Anticancer
+Herpes,Anticandidosis
+Herpes,Anticanker
+Herpes,Anticarcinogenic
+Herpes,Anticarcinomic
+Herpes,Antidermatic
+Herpes,Antidermatitic
+Herpes,Antidermatotic
+Herpes,Antiexudative
+Herpes,Antihypersensitivity
+Herpes,Antiinfective
+Herpes,Antiinflammatory
+Herpes,Antiitch
+Herpes,Antiitching
+Herpes,Anti-Itching
+Herpes,Antimicrobial
+Herpes,Antimutagenic
+Herpes,Antineuralgic
+Herpes,Antineuritic
+Herpes,Antineurodermatitic
+Herpes,Antioxidant
+Herpes,Antioxidant Synergist
+Herpes,Antiproliferant
+Herpes,Antiproliferative
+Herpes,Antiretroviral
+Herpes,Antiscarring
+Herpes,Antisecretory
+Herpes,Antishingles
+Herpes,Antistressor
+Herpes,Anxiolytic
+Herpes,Astringent
+Herpes,Bactericide
+Herpes,Bacteriolytic
+Herpes,Bacteriophagicide
+Herpes,Bacteriostatic
+Herpes,Bacteristat
+Herpes,Cancer-Preventive
+Herpes,Candidicide
+Herpes,Candidistat
+Herpes,Capillariprotective
+Herpes,Capillaritonic
+Herpes,Capillary-Tonic
+Herpes,Counterirritant
+Herpes,COX-2-Inhibitor
+Herpes,Cyclooxygenase-Inhibitor
+Herpes,Demulcent
+Herpes,Demulcent (topical)
+Herpes,Disinfectant
+Herpes,Emollient
+Herpes,Immunomodulator
+Herpes,MDR-Inhibitor
+Herpes,Moisturizing
+Herpes,Neuroprotective
+Herpes,Secretolytic
+Herpes,Tonic
+Herpes,Viricide
+Herpes,Viristat
+Herpes,Vulnerary
+Canker Sores,Analgesic-Synergist
+Canker Sores,Anesthetic-potentiator
+Canker Sores,Antiabscess
+Canker Sores,Antianxiety
+Canker Sores,Anticanker
+Canker Sores,Antidermatic
+Canker Sores,Antidermatitic
+Canker Sores,Antidermatotic
+Canker Sores,Antiexudative
+Canker Sores,Antiherpetic
+Canker Sores,Antihypersensitivity
+Canker Sores,Antiinfective
+Canker Sores,Antiitch
+Canker Sores,Antiitching
+Canker Sores,Anti-Itching
+Canker Sores,Antimicrobial
+Canker Sores,Antineuralgic
+Canker Sores,Antineuritic
+Canker Sores,Antineurodermatitic
+Canker Sores,Antioxidant Synergist
+Canker Sores,Antiproliferant
+Canker Sores,Antiproliferative
+Canker Sores,Antiretroviral
+Canker Sores,Antiscarring
+Canker Sores,Antisecretory
+Canker Sores,Antistress
+Canker Sores,Antistressor
+Canker Sores,Antiviral
+Canker Sores,Anxiolytic
+Canker Sores,Bactericide
+Canker Sores,Bacteriolytic
+Canker Sores,Bacteriophagicide
+Canker Sores,Bacteriostatic
+Canker Sores,Capillariprotective
+Canker Sores,Capillaritonic
+Canker Sores,Capillary-Tonic
+Canker Sores,Counterirritant
+Canker Sores,Demulcent
+Canker Sores,Demulcent (topical)
+Canker Sores,Disinfectant
+Canker Sores,Emollient
+Canker Sores,Immunomodulator
+Canker Sores,Moisturizing
+Canker Sores,Nervine
+Canker Sores,Neuroprotective
+Canker Sores,Secretolytic
+Canker Sores,Tonic
+Canker Sores,Viricide
+Canker Sores,Viristat
+Herpes,Antiscorbutic
+Herpes,Sialogogue

@@ -1,0 +1,165 @@
+Licensed under Creative Commons CCZero
+
+See https://data.nal.usda.gov/dataset/dr-dukes-phytochemical-and-ethnobotanical-databases_2719
+
+
+Suggested Citation:
+
+(dataset) U.S. Department of Agriculture, Agricultural Research Service. 1992-2016. Dr. Duke's Phytochemical and Ethnobotanical Databases. Home Page, http://phytochem.nal.usda.gov/
+http://dx.doi.org/10.15482/USDA.ADC/1239279
+
+
+
+Authors
+
+
+
+
+
+
+
+
+Duke, James A.
+
+
+
+(Scopus Author ID) 
+.. 
+
+Product Type
+
+
+
+Database 
+
+
+Spatial / Geographical Coverage Location
+
+
+
+Worldwide 
+
+
+Temporal Coverage
+
+
+
+1970/ 
+
+
+Frequency
+
+
+
+Irregularly 
+
+
+Intended Use
+
+
+
+Research on medicinal plants, their phytochemical components, and biological activity.  
+
+
+Use Limitations
+
+
+
+Not to be used for self-diagnosis or self-medication. 
+
+
+Publisher
+
+
+
+Ag Data Commons 
+
+
+Contact Name
+
+
+
+Parr, Cynthia 
+
+
+Contact Email
+
+
+
+NAL-ADC-Curator@ars.usda.gov 
+
+
+Public Access Level
+
+
+
+Public 
+
+
+Preferred Dataset Citation
+
+
+
+U.S. Department of Agriculture, Agricultural Research Service. 1992-2016. Dr. Duke's Phytochemical and Ethnobotanical Databases. Home Page, http://phytochem.nal.usda.gov/ 
+
+
+Related Article
+
+
+
+
+
+
+
+
+Duke, J. A. (1992). Database of Biologically Active Phytochemicals and Their Activity. Boca Raton, Fla: CRC Press. ISBN 9780849336713. 183 pp. [Available on diskette with manual. https://www.crcpress.com/Database-of-Biologically-Active-Phytochemicals-... ]
+.. 
+
+License
+
+
+
+Creative Commons CCZero 
+
+
+Funding Source(s)
+
+
+
+
+
+
+
+
+Agricultural Research Service
+. 
+
+Dataset DOI (digital object identifier)
+
+
+
+10.15482/USDA.ADC/1239279 
+
+
+Program Code
+
+
+
+005:037 - Department of Agriculture - Research and Education 
+
+
+Bureau Code
+
+
+
+005:18 - Agricultural Research Service 
+
+
+Modified Date
+
+2017-08-31 
+
+
+Release Date
+
+2016-02-16 
