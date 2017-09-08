@@ -18,12 +18,11 @@
 */
 package org.omnaest.usda.duke.domain;
 
-import java.util.List;
+import java.util.stream.Stream;
 
-public interface Chemical
+public interface Activity
 {
 	public String getName();
 
-	public List<Activity> getActivities();
-
+	public Stream<Chemical> getChemicals();
 }

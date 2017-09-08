@@ -47,7 +47,7 @@ public class USDADukeUtilsTest
 			chemicals	.stream()
 						.filter(chemical -> chemical.getActivities()
 													.stream()
-													.anyMatch(activity -> StringUtils.containsIgnoreCase(activity, query)))
+													.anyMatch(activity -> StringUtils.containsIgnoreCase(activity.getName(), query)))
 						.forEach(chemical ->
 						{
 							System.out.print(chemical.getName());

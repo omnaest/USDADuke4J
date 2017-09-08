@@ -23,11 +23,16 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.List;
 import java.util.Map;
+import java.util.Set;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
+import org.omnaest.usda.duke.domain.Activity;
 import org.omnaest.usda.duke.domain.Chemical;
+import org.omnaest.usda.duke.domain.Disease;
 import org.omnaest.usda.duke.domain.raw.Aggregac;
+import org.omnaest.usda.duke.domain.raw.Ethnobot;
+import org.omnaest.usda.duke.domain.raw.SuperAct;
 import org.omnaest.utils.JSONHelper;
 import org.omnaest.utils.csv.CSVUtils;
 
@@ -42,6 +47,8 @@ public class USDADukeUtils
 	public static interface USDADukeContent
 	{
 		public Stream<Chemical> getChemicals();
+
+		public Stream<Disease> getDiseases();
 	}
 
 	public static USDADukeContentLoader getInstance()
@@ -55,16 +62,94 @@ public class USDADukeUtils
 													.map(map -> JSONHelper.toObjectWithType(map, Aggregac.class))
 													.collect(Collectors.toList());
 
+				Map<String, Set<String>> activityToChemicalsMap = aggregacs	.stream()
+																			.collect(Collectors.groupingBy(entry -> entry.getActivity()))
+																			.entrySet()
+																			.stream()
+																			.collect(Collectors.toMap(entry -> entry.getKey(), entry -> entry	.getValue()
+																																				.stream()
+																																				.map(aggregac -> aggregac.getChemical())
+																																				.collect(Collectors.toSet())));
+
+				Map<String, Set<String>> chemicalToActivitiesMap = aggregacs.stream()
+																			.collect(Collectors.groupingBy(entry -> entry.getChemical()))
+																			.entrySet()
+																			.stream()
+																			.collect(Collectors.toMap(entry -> entry.getKey(), entry -> entry	.getValue()
+																																				.stream()
+																																				.map(aggregac -> aggregac.getActivity())
+																																				.collect(Collectors.toSet())));
+
+				List<SuperAct> superacts = CSVUtils	.parse(new File(folder, "SUPERACT.csv"))
+													.map(map -> JSONHelper.toObjectWithType(map, SuperAct.class))
+													.collect(Collectors.toList());
+
+				List<Ethnobot> ethnobots = CSVUtils	.parse(new File(folder, "ETHNOBOT.csv"))
+													.map(map -> JSONHelper.toObjectWithType(map, Ethnobot.class))
+													.collect(Collectors.toList());
+
 				return new USDADukeContent()
 				{
 					@Override
 					public Stream<Chemical> getChemicals()
 					{
-						Map<String, List<Aggregac>> chemicalToAggregacsMap = aggregacs	.stream()
-																						.collect(Collectors.groupingBy(entry -> entry.getChemical()));
-						return chemicalToAggregacsMap	.entrySet()
+
+						return chemicalToActivitiesMap	.entrySet()
 														.stream()
-														.map(entry -> (Chemical) new Chemical()
+														.map(entry -> this.createChemical(entry.getKey()));
+					}
+
+					private Chemical createChemical(String name)
+					{
+						return new Chemical()
+						{
+							@Override
+							public String getName()
+							{
+								return name;
+							}
+
+							@Override
+							public List<Activity> getActivities()
+							{
+								return chemicalToActivitiesMap	.get(name)
+																.stream()
+																.map(name -> createActivity(name))
+																.collect(Collectors.toList());
+							}
+						};
+					}
+
+					private Activity createActivity(String name)
+					{
+						return new Activity()
+						{
+
+							@Override
+							public String getName()
+							{
+								return name;
+							}
+
+							@Override
+							public Stream<Chemical> getChemicals()
+							{
+								return activityToChemicalsMap	.get(name)
+																.stream()
+																.map(name -> createChemical(name));
+							}
+						};
+					}
+
+					@Override
+					public Stream<Disease> getDiseases()
+					{
+						Map<String, List<SuperAct>> diseaseNameToSuperActsMap = superacts	.stream()
+																							.map(map -> JSONHelper.toObjectWithType(map, SuperAct.class))
+																							.collect(Collectors.groupingBy(superAct -> superAct.getSuperActivity()));
+						return diseaseNameToSuperActsMap.entrySet()
+														.stream()
+														.map(entry -> (Disease) new Disease()
 														{
 
 															@Override
@@ -74,12 +159,11 @@ public class USDADukeUtils
 															}
 
 															@Override
-															public List<String> getActivities()
+															public Stream<Activity> getActivities()
 															{
 																return entry.getValue()
 																			.stream()
-																			.map(agg -> agg.getActivity())
-																			.collect(Collectors.toList());
+																			.map(superAct -> createActivity(superAct.getActivity()));
 															}
 														});
 					}
